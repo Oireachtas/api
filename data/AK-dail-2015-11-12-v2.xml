@@ -321,10 +321,11 @@
         </preface>
         <debateBody>
             <debateSection name="prelude" eId="dbsect_1">
+              <heading>Prelude</heading>
                 <summary class="Center" eId="sum_1">Chuaigh an Ceann Comhairle i gceannas ar 09.30 a.m.</summary>
                 <summary class="Center" eId="sum_2">Paidir.</summary>
                 <summary class="Center" eId="sum_3">Prayer.</summary>
-            <heading>Prelude</heading></debateSection>
+            </debateSection>
             <debateSection name="questions" eId="dbsect_2">
                 <heading>Ceisteanna - Questions</heading>
             </debateSection>
