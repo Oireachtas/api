@@ -1,6 +1,14 @@
 {
   "debateList": {
     "head": {
+      "as": {
+        "name": null,
+        "uri": null
+      },
+      "by": {
+        "name": null,
+        "uri": null
+      },
       "chamber": {
         "name": "D\u00c1IL \u00c9IREANN",
         "uri": "/ie/oireachtas/house/dail"
@@ -9,15 +17,18 @@
         "end": "2015-11-12",
         "start": "2015-11-12"
       },
+      "mostRecent": 1,
       "query": null
     },
     "results": [
       {
         "debateRecord": {
           "date": "2015-11-12",
+          "debateSectionCount": 27,
           "debateSections": [
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Prelude",
                 "parentDebateSection": null,
@@ -27,6 +38,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": false,
                 "context": null,
                 "heading": "Ceisteanna - Questions",
                 "parentDebateSection": null,
@@ -36,6 +48,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": false,
                 "context": null,
                 "heading": "Priority Questions",
                 "parentDebateSection": null,
@@ -45,6 +58,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Heritage Council Funding",
                 "parentDebateSection": {
@@ -57,6 +71,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Seirbh\u00eds\u00ed Eitilte",
                 "parentDebateSection": {
@@ -69,6 +84,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "National Monuments",
                 "parentDebateSection": {
@@ -81,6 +97,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Seirbh\u00eds\u00ed Eitilte",
                 "parentDebateSection": {
@@ -93,6 +110,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "National Monuments",
                 "parentDebateSection": {
@@ -105,6 +123,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": false,
                 "context": null,
                 "heading": "Other Questions",
                 "parentDebateSection": null,
@@ -114,6 +133,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Cultural Policy",
                 "parentDebateSection": {
@@ -126,6 +146,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Commemorative Events",
                 "parentDebateSection": {
@@ -138,6 +159,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "C\u00e9anna agus Cuanta",
                 "parentDebateSection": {
@@ -150,6 +172,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Pleananna Teanga",
                 "parentDebateSection": {
@@ -162,6 +185,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Deer Culls",
                 "parentDebateSection": {
@@ -174,6 +198,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Message from Select Committee",
                 "parentDebateSection": null,
@@ -183,6 +208,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
                 "parentDebateSection": null,
@@ -192,6 +218,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Leaders\u2019 Questions",
                 "parentDebateSection": null,
@@ -201,6 +228,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Order of Business",
                 "parentDebateSection": null,
@@ -210,6 +238,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Finance Bill 2015: Financial Resolutions",
                 "parentDebateSection": null,
@@ -219,6 +248,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Finance Bill 2015: Allocation of Time: Motion",
                 "parentDebateSection": null,
@@ -228,6 +258,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
                 "parentDebateSection": null,
@@ -237,6 +268,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Topical Issue Matters",
                 "parentDebateSection": null,
@@ -246,6 +278,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": false,
                 "context": null,
                 "heading": "Topical Issue Debate",
                 "parentDebateSection": null,
@@ -255,6 +288,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Preschool Services",
                 "parentDebateSection": {
@@ -267,6 +301,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Sexual Abuse and Violence",
                 "parentDebateSection": {
@@ -279,6 +314,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Housing Issues",
                 "parentDebateSection": {
@@ -291,6 +327,7 @@
             },
             {
               "debateSection": {
+                "containsDebate": true,
                 "context": null,
                 "heading": "Schools Building Projects Applications",
                 "parentDebateSection": {
