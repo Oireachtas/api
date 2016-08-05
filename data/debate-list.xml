@@ -3,340 +3,354 @@
 	<results>
 		<debateRecord>
 			<date>2015-11-12</date>
+			<chamber>
+				<showAs>DÁIL ÉIREANN</showAs>
+				<uri>/ie/oireachtas/house/dail</uri>
+			</chamber>
 			<uri>/akn/ie/debateRecord/dail/2015-11-12/debate</uri>
-			<debateSectionCount>27</debateSectionCount>
 			<debateSections>
 				<debateSection>
+					<showAs>Prelude</showAs>
 					<context></context>
-					<heading>Prelude</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_1</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>0</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Ceisteanna - Questions</showAs>
 					<context></context>
-					<heading>Ceisteanna - Questions</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_2</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>0</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>False</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Priority Questions</showAs>
 					<context></context>
-					<heading>Priority Questions</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>0</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>False</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Heritage Council Funding</showAs>
 					<context></context>
-					<heading>Heritage Council Funding</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_4</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-						<heading>Priority Questions</heading>
-					</parentDebateSection>
 					<speechCount>6</speechCount>
+					<parentDebateSection>
+						<showAs>Priority Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Seirbhísí Eitilte</showAs>
 					<context></context>
-					<heading>Seirbhísí Eitilte</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_5</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-						<heading>Priority Questions</heading>
-					</parentDebateSection>
 					<speechCount>7</speechCount>
+					<parentDebateSection>
+						<showAs>Priority Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>National Monuments</showAs>
 					<context></context>
-					<heading>National Monuments</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_6</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-						<heading>Priority Questions</heading>
-					</parentDebateSection>
 					<speechCount>8</speechCount>
+					<parentDebateSection>
+						<showAs>Priority Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Seirbhísí Eitilte</showAs>
 					<context></context>
-					<heading>Seirbhísí Eitilte</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_7</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-						<heading>Priority Questions</heading>
-					</parentDebateSection>
 					<speechCount>6</speechCount>
+					<parentDebateSection>
+						<showAs>Priority Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>National Monuments</showAs>
 					<context></context>
-					<heading>National Monuments</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_8</uri>
+					<speechCount>6</speechCount>
 					<parentDebateSection>
+						<showAs>Priority Questions</showAs>
 						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_3</uri>
-						<heading>Priority Questions</heading>
 					</parentDebateSection>
-					<speechCount>6</speechCount>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Other Questions</showAs>
 					<context></context>
-					<heading>Other Questions</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>0</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>False</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Cultural Policy</showAs>
 					<context></context>
-					<heading>Cultural Policy</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_10</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-						<heading>Other Questions</heading>
-					</parentDebateSection>
 					<speechCount>6</speechCount>
+					<parentDebateSection>
+						<showAs>Other Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Commemorative Events</showAs>
 					<context></context>
-					<heading>Commemorative Events</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_11</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-						<heading>Other Questions</heading>
-					</parentDebateSection>
 					<speechCount>4</speechCount>
+					<parentDebateSection>
+						<showAs>Other Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Céanna agus Cuanta</showAs>
 					<context></context>
-					<heading>Céanna agus Cuanta</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_12</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-						<heading>Other Questions</heading>
-					</parentDebateSection>
 					<speechCount>6</speechCount>
+					<parentDebateSection>
+						<showAs>Other Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Pleananna Teanga</showAs>
 					<context></context>
-					<heading>Pleananna Teanga</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_13</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-						<heading>Other Questions</heading>
-					</parentDebateSection>
 					<speechCount>13</speechCount>
-					<containsDebate>True</containsDebate>
-				</debateSection>
-			</debateSections>
-			<debateSections>
-				<debateSection>
-					<context></context>
-					<heading>Deer Culls</heading>
-					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_14</uri>
 					<parentDebateSection>
+						<showAs>Other Questions</showAs>
 						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
-						<heading>Other Questions</heading>
 					</parentDebateSection>
+					<containsDebate>True</containsDebate>
+				</debateSection>
+			</debateSections>
+			<debateSections>
+				<debateSection>
+					<showAs>Deer Culls</showAs>
+					<context></context>
+					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_14</uri>
 					<speechCount>7</speechCount>
+					<parentDebateSection>
+						<showAs>Other Questions</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_9</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Message from Select Committee</showAs>
 					<context></context>
-					<heading>Message from Select Committee</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_15</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>1</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Garda Síochána (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)</showAs>
 					<context></context>
-					<heading>Garda Síochána (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_16</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>20</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Leaders’ Questions</showAs>
 					<context></context>
-					<heading>Leaders’ Questions</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_29</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>178</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Order of Business</showAs>
 					<context></context>
-					<heading>Order of Business</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_30</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>149</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Finance Bill 2015: Financial Resolutions</showAs>
 					<context></context>
-					<heading>Finance Bill 2015: Financial Resolutions</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_31</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>2</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Finance Bill 2015: Allocation of Time: Motion</showAs>
 					<context></context>
-					<heading>Finance Bill 2015: Allocation of Time: Motion</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_32</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>4</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Garda Síochána (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)</showAs>
 					<context></context>
-					<heading>Garda Síochána (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>69</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Topical Issue Matters</showAs>
 					<context></context>
-					<heading>Topical Issue Matters</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_82</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>1</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Topical Issue Debate</showAs>
 					<context></context>
-					<heading>Topical Issue Debate</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
-					<parentDebateSection></parentDebateSection>
 					<speechCount>0</speechCount>
+					<parentDebateSection></parentDebateSection>
 					<containsDebate>False</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Preschool Services</showAs>
 					<context></context>
-					<heading>Preschool Services</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_84</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
-						<heading>Topical Issue Debate</heading>
-					</parentDebateSection>
 					<speechCount>4</speechCount>
+					<parentDebateSection>
+						<showAs>Topical Issue Debate</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Sexual Abuse and Violence</showAs>
 					<context></context>
-					<heading>Sexual Abuse and Violence</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_85</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
-						<heading>Topical Issue Debate</heading>
-					</parentDebateSection>
 					<speechCount>4</speechCount>
+					<parentDebateSection>
+						<showAs>Topical Issue Debate</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Housing Issues</showAs>
 					<context></context>
-					<heading>Housing Issues</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_86</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
-						<heading>Topical Issue Debate</heading>
-					</parentDebateSection>
 					<speechCount>8</speechCount>
+					<parentDebateSection>
+						<showAs>Topical Issue Debate</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
 			<debateSections>
 				<debateSection>
+					<showAs>Schools Building Projects Applications</showAs>
 					<context></context>
-					<heading>Schools Building Projects Applications</heading>
 					<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_87</uri>
-					<parentDebateSection>
-						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
-						<heading>Topical Issue Debate</heading>
-					</parentDebateSection>
 					<speechCount>7</speechCount>
+					<parentDebateSection>
+						<showAs>Topical Issue Debate</showAs>
+						<uri>/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_83</uri>
+					</parentDebateSection>
 					<containsDebate>True</containsDebate>
 				</debateSection>
 			</debateSections>
+			<debateSectionCount>27</debateSectionCount>
 		</debateRecord>
 	</results>
 	<head>
-		<mostRecent>1</mostRecent>
-		<by>
-			<name></name>
-			<uri></uri>
-		</by>
+		<query></query>
+		<dateRange>
+			<end>2015-11-12</end>
+			<start>2015-11-12</start>
+		</dateRange>
 		<chamber>
-			<name>DÁIL ÉIREANN</name>
+			<showAs>DÁIL ÉIREANN</showAs>
 			<uri>/ie/oireachtas/house/dail</uri>
 		</chamber>
+		<sort>
+			<on>date</on>
+			<order>desc</order>
+		</sort>
+		<by>
+			<showAs></showAs>
+			<uri></uri>
+		</by>
+		<limit>1</limit>
+		<resource>debateRecord</resource>
+		<skipped>0</skipped>
+		<counts>
+			<debateRecordCount>1</debateRecordCount>
+			<debateSectionCount>27</debateSectionCount>
+		</counts>
 		<as>
-			<name></name>
+			<showAs></showAs>
 			<uri></uri>
 		</as>
-		<dateRange>
-			<start>2015-11-12</start>
-			<end>2015-11-12</end>
-		</dateRange>
-		<query></query>
 	</head>
 </debateList>
