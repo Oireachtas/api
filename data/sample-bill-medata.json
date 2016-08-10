@@ -1,5 +1,17 @@
 {
-  "act": null,
+  "act": {
+    "dateSigned": "2014-12-25",
+    "longTitle": {
+      "en": "An Act to amend the Public Health (Tobacco) Act 2002 in order to prohibit the smoking of tobacco products in vehicles where children are present and to provide for the investigation and prosecution of such offences by members of an Garda S\u00edoch\u00e1na",
+      "ga": "Acht do leas\u00fa an Achta Sl\u00e1inte Poibl\u00ed (Tobac), 2002 d\u2019fhonn toirmeasc a chur le caitheamh t\u00e1irg\u00ed tobac i bhfeithicl\u00ed a bhfuil leana\u00ed i l\u00e1thair iontu agus do dh\u00e9anamh socr\u00fa maidir le comhalta\u00ed den Gharda S\u00edoch\u00e1na d\u2019imscr\u00fad\u00fa agus d\u2019ionch\u00faiseamh cionta den s\u00f3rt sin"
+    },
+    "shortTitle": {
+      "en": "Protection of Children\u2019s Health (Tobacco Smoke in Mechanically Propelled Vehicles) Act 2014",
+      "ga": "An tAcht um Chosaint Sl\u00e1inte Leana\u00ed (Deatach Tobac i bhFeithicl\u00ed Inneallghluaiste), 2012 athraithe \u00f3 Chosaint Sl\u00e1inte Leana\u00ed ar Dheatach Tobac, 2014"
+    },
+    "statuteBookURI": "http://www.irishstatutebook.ie/eli/2014/act/40",
+    "uri": "/act/2014/40"
+  },
   "amendmentLists": [
     {
       "amendmentList": {
@@ -34,14 +46,14 @@
         },
         "dates": [
           {
-            "date": "2012-05-02"
+            "date": "2012-05-03"
           }
         ],
         "happenedOn": 1,
         "isStage": true,
         "showAs": "First Stage",
         "stagesEntered": 1,
-        "uri": "/bill/2012/34/seanad/1"
+        "uri": "/bill/2012/38/seanad/1"
       }
     },
     {
@@ -52,14 +64,14 @@
         },
         "dates": [
           {
-            "date": "2012-06-13"
+            "date": "2012-05-09"
           }
         ],
         "happenedOn": 2,
         "isStage": true,
         "showAs": "Second Stage",
         "stagesEntered": 2,
-        "uri": "/bill/2012/34/seanad/2"
+        "uri": "/bill/2012/38/seanad/2"
       }
     },
     {
@@ -70,14 +82,14 @@
         },
         "dates": [
           {
-            "date": "2013-01-30"
+            "date": "2013-12-19"
           }
         ],
         "happenedOn": 3,
         "isStage": true,
         "showAs": "Third Stage",
         "stagesEntered": 3,
-        "uri": "/bill/2012/34/seanad/3"
+        "uri": "/bill/2012/38/seanad/3"
       }
     },
     {
@@ -88,17 +100,14 @@
         },
         "dates": [
           {
-            "date": "2013-02-05"
-          },
-          {
-            "date": "2016-02-03"
+            "date": "2014-04-17"
           }
         ],
         "happenedOn": 4,
         "isStage": true,
         "showAs": "Fourth Stage",
         "stagesEntered": 4,
-        "uri": "/bill/2012/34/seanad/4"
+        "uri": "/bill/2012/38/seanad/4"
       }
     },
     {
@@ -109,17 +118,14 @@
         },
         "dates": [
           {
-            "date": "2013-02-05"
-          },
-          {
-            "date": "2016-02-03"
+            "date": "2014-04-17"
           }
         ],
         "happenedOn": 5,
         "isStage": true,
         "showAs": "Fifth Stage",
         "stagesEntered": 5,
-        "uri": "/bill/2012/34/seanad/5"
+        "uri": "/bill/2012/38/seanad/5"
       }
     },
     {
@@ -130,20 +136,14 @@
         },
         "dates": [
           {
-            "date": "2013-03-07"
-          },
-          {
-            "date": "2013-03-12"
-          },
-          {
-            "date": "2013-03-14"
+            "date": "2014-10-08"
           }
         ],
         "happenedOn": 6,
         "isStage": true,
         "showAs": "Second Stage",
         "stagesEntered": 6,
-        "uri": "/bill/2012/34/dail/2"
+        "uri": "/bill/2012/38/dail/2"
       }
     },
     {
@@ -154,14 +154,14 @@
         },
         "dates": [
           {
-            "date": "2016-01-27"
+            "date": "2014-12-18"
           }
         ],
         "happenedOn": 7,
         "isStage": true,
         "showAs": "Fourth Stage",
         "stagesEntered": 7,
-        "uri": "/bill/2012/34/dail/4"
+        "uri": "/bill/2012/38/dail/4"
       }
     },
     {
@@ -172,53 +172,43 @@
         },
         "dates": [
           {
-            "date": "2016-01-27"
+            "date": "2014-12-18"
           }
         ],
         "happenedOn": 8,
         "isStage": true,
         "showAs": "Fifth Stage",
         "stagesEntered": 8,
-        "uri": "/bill/2012/34/dail/5"
-      }
-    },
-    {
-      "event": {
-        "chamber": {
-          "showAs": null,
-          "uri": null
-        },
-        "dates": [
-          {
-            "date": "2016-02-11"
-          }
-        ],
-        "happenedOn": 8,
-        "isStage": false,
-        "showAs": null,
-        "stagesEntered": 8,
-        "uri": "/bill/2012/34/signature"
+        "uri": "/bill/2012/38/dail/5"
       }
     }
   ],
-  "bill_title_sh_orig_en": "Criminal Justice (Spent Convictions) Bill 2012",
-  "bill_title_sh_orig_ga": "An Bille um Cheartas Coiri\u00fail (Ciontuithe Sp\u00edonta) 2012",
   "bill_type": "Public",
   "longTitle": {
-    "en": "Bill entitled An Act to make provision for the limitation of the effect of certain criminal convictions in certain circumstances and after certain periods of time; to amend the National Vetting Bureau (Children and Vulnerable Persons) Act 2012 and the Garda S\u00edoch\u00e1na Act 2005; and to provide for related matters",
-    "ga": "Bille d\u00e1 ngairtear Acht do dh\u00e9anamh socr\u00fa maidir le h\u00e9ifeacht ciontuithe coiri\u00fala \u00e1irithe a theorann\u00fa in imthosca \u00e1irithe agus i ndiaidh tr\u00e9imhs\u00ed ama \u00e1irithe; do leas\u00fa an Achta um an mBi\u00far\u00f3 N\u00e1isi\u00fanta Grinnfhiosr\u00fach\u00e1in (Leana\u00ed agus Daoine Soghonta), 2012 agus Acht an Gharda S\u00edoch\u00e1na, 2005; agus do dh\u00e9anamh socr\u00fa i dtaobh nithe gaolmhara"
+    "en": "Bill entitled An Act to amend the Public Health (Tobacco) Act 2002 in order to prohibit the smoking of tobacco products in vehicles where children are present and to provide for the investigation and prosecution of such offences by members of an Garda S\u00edoch\u00e1na",
+    "ga": "Bille d\u00e1 ngairtear Acht do leas\u00fa an Achta Sl\u00e1inte Poibl\u00ed (Tobac), 2002 d\u2019fhonn toirmeasc a chur le caitheamh t\u00e1irg\u00ed tobac i bhfeithicl\u00ed a bhfuil leana\u00ed i l\u00e1thair iontu agus do dh\u00e9anamh socr\u00fa maidir le comhalta\u00ed den Gharda S\u00edoch\u00e1na d\u2019imscr\u00fad\u00fa agus d\u2019ionch\u00faiseamh cionta den s\u00f3rt sin"
   },
-  "method": "Presentation",
+  "method": "Introduction",
   "shortTitle": {
-    "en": "Criminal Justice (Spent Convictions and Certain Disclosures) Bill 2012",
-    "ga": "An Bille um Cheartas Coiri\u00fail (Ciontuithe Sp\u00edonta agus Nochtadh \u00c1irithe), 2012"
+    "en": "Protection of Children\u2019s Health (Tobacco Smoke in Mechanically Propelled Vehicles) Bill 2012",
+    "ga": "An Bille um Chosaint Sl\u00e1inte Leana\u00ed (Deatach Tobac i bhFeithicl\u00ed Inneallghluaiste), 2012 athraithe \u00f3 Chosaint Sl\u00e1inte Leana\u00ed ar Dheatach Tobac 2012"
   },
-  "source": "Government",
+  "source": "Private Member",
   "sponsorRole": [
     {
-      "member": "http://oireachtas.ie/member/Alan-Shatter.D.1981-06-30/cabinet/dail/31/minister/justice__equality",
-      "role": "role/minister/justice__equality",
-      "roleURI": "http://oireachtas.ie/member/Alan-Shatter.D.1981-06-30/cabinet/dail/31/minister/justice__equality"
+      "member": "John Crown",
+      "role": "http://oireachtas.ie/member/John-Crown.S.2011-05-25/seanad/24",
+      "roleURI": "http://oireachtas.ie/member/John-Crown.S.2011-05-25/seanad/24"
+    },
+    {
+      "member": "Mark Daly",
+      "role": "http://oireachtas.ie/member/Mark-Daly.S.2007-07-23/seanad/24",
+      "roleURI": "http://oireachtas.ie/member/Mark-Daly.S.2007-07-23/seanad/24"
+    },
+    {
+      "member": "Jillian van Turnhout",
+      "role": "http://oireachtas.ie/member/Jillian-van-Turnhout.S.2011-05-25/seanad/24",
+      "roleURI": "http://oireachtas.ie/member/Jillian-van-Turnhout.S.2011-05-25/seanad/24"
     }
   ],
   "sponsors": [
@@ -226,17 +216,41 @@
       "sponsor": {
         "as": {
           "showAs": null,
-          "uri": "/office/minister/justice__equality"
+          "uri": null
         },
         "by": {
           "showAs": null,
-          "uri": "/member/Alan-Shatter.D.1981-06-30"
+          "uri": "/member/Eamon-Gilmore.D.1989-06-29"
+        }
+      }
+    },
+    {
+      "sponsor": {
+        "as": {
+          "showAs": null,
+          "uri": null
+        },
+        "by": {
+          "showAs": null,
+          "uri": "/member/Eamon-Gilmore.D.1989-06-29"
+        }
+      }
+    },
+    {
+      "sponsor": {
+        "as": {
+          "showAs": null,
+          "uri": null
+        },
+        "by": {
+          "showAs": null,
+          "uri": "/member/Eamon-Gilmore.D.1989-06-29"
         }
       }
     }
   ],
   "status": "enacted",
-  "uri": "/bill/2012/34",
+  "uri": "/bill/2012/38",
   "versions": [
     {
       "version": {
