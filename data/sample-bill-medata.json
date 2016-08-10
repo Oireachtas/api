@@ -1,0 +1,280 @@
+{
+  "act": null,
+  "amendmentLists": [
+    {
+      "amendmentList": {
+        "stage": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "showAs": "Committee Stage",
+          "uri": "/bill/2012/34/dail/3"
+        }
+      },
+      "formats": [
+        {
+          "content-type": "text+xml",
+          "uri": "/bill/2012/34/dail/3/amendmentList/@eng.xml"
+        },
+        {
+          "content-type": "application+pdf",
+          "uri": "/bill/2012/34/dail/3/amendmentList/@eng.pdf"
+        }
+      ],
+      "uri": "/bill/2012/34/dail/3/amendmentList/@eng"
+    }
+  ],
+  "billEvents": [
+    {
+      "event": {
+        "chamber": {
+          "showAs": "Seanad",
+          "uri": "/house/seanad"
+        },
+        "dates": [
+          {
+            "date": "2012-05-02"
+          }
+        ],
+        "happenedOn": 1,
+        "isStage": true,
+        "showAs": "First Stage",
+        "stagesEntered": 1,
+        "uri": "/bill/2012/34/seanad/1"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "Seanad",
+          "uri": "/house/seanad"
+        },
+        "dates": [
+          {
+            "date": "2012-06-13"
+          }
+        ],
+        "happenedOn": 2,
+        "isStage": true,
+        "showAs": "Second Stage",
+        "stagesEntered": 2,
+        "uri": "/bill/2012/34/seanad/2"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "Seanad",
+          "uri": "/house/seanad"
+        },
+        "dates": [
+          {
+            "date": "2013-01-30"
+          }
+        ],
+        "happenedOn": 3,
+        "isStage": true,
+        "showAs": "Third Stage",
+        "stagesEntered": 3,
+        "uri": "/bill/2012/34/seanad/3"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "Seanad",
+          "uri": "/house/seanad"
+        },
+        "dates": [
+          {
+            "date": "2013-02-05"
+          },
+          {
+            "date": "2016-02-03"
+          }
+        ],
+        "happenedOn": 4,
+        "isStage": true,
+        "showAs": "Fourth Stage",
+        "stagesEntered": 4,
+        "uri": "/bill/2012/34/seanad/4"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "Seanad",
+          "uri": "/house/seanad"
+        },
+        "dates": [
+          {
+            "date": "2013-02-05"
+          },
+          {
+            "date": "2016-02-03"
+          }
+        ],
+        "happenedOn": 5,
+        "isStage": true,
+        "showAs": "Fifth Stage",
+        "stagesEntered": 5,
+        "uri": "/bill/2012/34/seanad/5"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "D\u00e1il",
+          "uri": "/house/dail"
+        },
+        "dates": [
+          {
+            "date": "2013-03-07"
+          },
+          {
+            "date": "2013-03-12"
+          },
+          {
+            "date": "2013-03-14"
+          }
+        ],
+        "happenedOn": 6,
+        "isStage": true,
+        "showAs": "Second Stage",
+        "stagesEntered": 6,
+        "uri": "/bill/2012/34/dail/2"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "D\u00e1il",
+          "uri": "/house/dail"
+        },
+        "dates": [
+          {
+            "date": "2016-01-27"
+          }
+        ],
+        "happenedOn": 7,
+        "isStage": true,
+        "showAs": "Fourth Stage",
+        "stagesEntered": 7,
+        "uri": "/bill/2012/34/dail/4"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": "D\u00e1il",
+          "uri": "/house/dail"
+        },
+        "dates": [
+          {
+            "date": "2016-01-27"
+          }
+        ],
+        "happenedOn": 8,
+        "isStage": true,
+        "showAs": "Fifth Stage",
+        "stagesEntered": 8,
+        "uri": "/bill/2012/34/dail/5"
+      }
+    },
+    {
+      "event": {
+        "chamber": {
+          "showAs": null,
+          "uri": null
+        },
+        "dates": [
+          {
+            "date": "2016-02-11"
+          }
+        ],
+        "happenedOn": 8,
+        "isStage": false,
+        "showAs": null,
+        "stagesEntered": 8,
+        "uri": "/bill/2012/34/signature"
+      }
+    }
+  ],
+  "bill_title_sh_orig_en": "Criminal Justice (Spent Convictions) Bill 2012",
+  "bill_title_sh_orig_ga": "An Bille um Cheartas Coiri\u00fail (Ciontuithe Sp\u00edonta) 2012",
+  "bill_type": "Public",
+  "longTitle": {
+    "en": "Bill entitled An Act to make provision for the limitation of the effect of certain criminal convictions in certain circumstances and after certain periods of time; to amend the National Vetting Bureau (Children and Vulnerable Persons) Act 2012 and the Garda S\u00edoch\u00e1na Act 2005; and to provide for related matters",
+    "ga": "Bille d\u00e1 ngairtear Acht do dh\u00e9anamh socr\u00fa maidir le h\u00e9ifeacht ciontuithe coiri\u00fala \u00e1irithe a theorann\u00fa in imthosca \u00e1irithe agus i ndiaidh tr\u00e9imhs\u00ed ama \u00e1irithe; do leas\u00fa an Achta um an mBi\u00far\u00f3 N\u00e1isi\u00fanta Grinnfhiosr\u00fach\u00e1in (Leana\u00ed agus Daoine Soghonta), 2012 agus Acht an Gharda S\u00edoch\u00e1na, 2005; agus do dh\u00e9anamh socr\u00fa i dtaobh nithe gaolmhara"
+  },
+  "method": "Presentation",
+  "shortTitle": {
+    "en": "Criminal Justice (Spent Convictions and Certain Disclosures) Bill 2012",
+    "ga": "An Bille um Cheartas Coiri\u00fail (Ciontuithe Sp\u00edonta agus Nochtadh \u00c1irithe), 2012"
+  },
+  "source": "Government",
+  "sponsorRole": [
+    {
+      "member": "http://oireachtas.ie/member/Alan-Shatter.D.1981-06-30/cabinet/dail/31/minister/justice__equality",
+      "role": "role/minister/justice__equality",
+      "roleURI": "http://oireachtas.ie/member/Alan-Shatter.D.1981-06-30/cabinet/dail/31/minister/justice__equality"
+    }
+  ],
+  "sponsors": [
+    {
+      "sponsor": {
+        "as": {
+          "showAs": null,
+          "uri": "/office/minister/justice__equality"
+        },
+        "by": {
+          "showAs": null,
+          "uri": "/member/Alan-Shatter.D.1981-06-30"
+        }
+      }
+    }
+  ],
+  "status": "enacted",
+  "uri": "/bill/2012/34",
+  "versions": [
+    {
+      "version": {
+        "formats": [
+          {
+            "content-type": "text+xml",
+            "uri": "/bill/2012/34/eng@initiated.xml"
+          },
+          {
+            "content-type": "application+pdf",
+            "uri": "/bill/2012/34/eng@initiated.pdf"
+          }
+        ],
+        "showAs": "As Initiated",
+        "stages": [
+          {
+            "stage": {
+              "chamber": {
+                "showAs": "D\u00e1il",
+                "uri": "/house/dail"
+              },
+              "showAs": "First Stage",
+              "uri": "/bill/2012/34/dail/1"
+            }
+          },
+          {
+            "stage": {
+              "chamber": {
+                "showAs": "D\u00e1il",
+                "uri": "/house/dail"
+              },
+              "showAs": "Second Stage",
+              "uri": "/bill/2012/34/dail/2"
+            }
+          }
+        ],
+        "uri": "/bill/2012/34/eng@initiated"
+      }
+    }
+  ]
+}
