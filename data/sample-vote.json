@@ -1,0 +1,511 @@
+{
+  "uri": "http://oireachtas.ie/ie/oireachtas/vote/dail/2004-03-10/vote_4",
+  "category": "question",
+  "date": "2004-03-10",
+  "datetime": "2004-03-10T18:29:21",
+  "debate": {
+    "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2004-03-10/debate/dbsect_24",
+    "showAs": "Finance Bill 2004: Report Stage (Resumed) and Final Stage."
+  },
+  "forum": "D\u00e1il \u00c9ireann",
+  "outcome": "Carried",
+  "subject": {
+    "showAs": "Finance Bill 2004 - Report and Fifth Stage. That Fourth stage is hereby completed; and the Bill is hereby passed.",
+    "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2004-03-10/debate/dbsect_24"
+  },
+  "tallies": {
+    "nilVotes": {
+      "members": [
+        {
+          "showAs": "Boyle, Dan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Dan-Boyle.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Broughan, Thomas P.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Thomas-P-Broughan.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Bruton, Richard.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Richard-Bruton.S.1981-10-08/dail/29"
+        },
+        {
+          "showAs": "Burton, Joan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joan-Burton.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Connaughton, Paul.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paul-Connaughton.S.1977-10-27/dail/29"
+        },
+        {
+          "showAs": "Connolly, Paudge.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paudge-Connolly.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Costello, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Costello.S.1989-10-01/dail/29"
+        },
+        {
+          "showAs": "Crawford, Seymour.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Seymour-Crawford.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Crowe, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Crowe.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Cuffe, Ciar\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Ciar\u00e1n-Cuffe.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Deenihan, Jimmy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Jimmy-Deenihan.S.1983-02-23/dail/29"
+        },
+        {
+          "showAs": "Durkan, Bernard J.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Bernard-Durkan.D.1981-06-30/dail/29"
+        },
+        {
+          "showAs": "English, Damien.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Damien-English.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Ferris, Martin.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Martin-Ferris.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Gilmore, Eamon.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Eamon-Gilmore.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Gogarty, Paul.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paul-Nicholas-Gogarty.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Gormley, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Gormley.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Harkin, Marian.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Marian-Harkin.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Healy, Seamus.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Seamus-Healy.D.2000-06-22/dail/29"
+        },
+        {
+          "showAs": "Higgins, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Higgins.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Higgins, Michael D.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-D-Higgins.S.1973-06-01/dail/29"
+        },
+        {
+          "showAs": "Howlin, Brendan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Brendan-Howlin.S.1983-02-23/dail/29"
+        },
+        {
+          "showAs": "Kehoe, Paul.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paul-Kehoe.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Kenny, Enda.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Enda-Kenny.D.1975-11-12/dail/29"
+        },
+        {
+          "showAs": "Lynch, Kathleen.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Kathleen-Lynch.D.1994-11-10/dail/29"
+        },
+        {
+          "showAs": "McCormack, Padraic.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/P\u00e1draic-McCormack.S.1987-04-25/dail/29"
+        },
+        {
+          "showAs": "McGinley, Dinny.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Dinny-McGinley.D.1982-03-09/dail/29"
+        },
+        {
+          "showAs": "McGrath, Finian.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Finian-McGrath.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "McGrath, Paul.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paul-McGrath.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "McHugh, Paddy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Paddy-McHugh.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "McManus, Liz.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Liz-McManus.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Mitchell, Gay.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Gay-Mitchell.D.1981-06-30/dail/29"
+        },
+        {
+          "showAs": "Morgan, Arthur.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Arthur-Morgan.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Moynihan-Cronin, Breeda.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Breeda-Moynihan-Cronin.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Murphy, Gerard.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Gerard-Murphy.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Naughten, Denis.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Denis-Naughten.S.1997-01-28/dail/29"
+        },
+        {
+          "showAs": "Neville, Dan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Dan-Neville.S.1989-10-01/dail/29"
+        },
+        {
+          "showAs": "\u00d3 Caol\u00e1in, Caoimhgh\u00edn.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Caoimhgh\u00edn-\u00d3-Caol\u00e1in.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "\u00d3 Snodaigh, Aengus.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Aengus-\u00d3-Snodaigh.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "O\u2019Sullivan, Jan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Jan-O'Sullivan.S.1993-02-17/dail/29"
+        },
+        {
+          "showAs": "Pattison, Seamus.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/S\u00e9amus-Pattison.D.1961-10-11/dail/29"
+        },
+        {
+          "showAs": "Penrose, Willie.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Willie-Penrose.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Perry, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Perry.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Quinn, Ruair\u00ed.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Ruair\u00ed-Quinn.S.1976-07-01/dail/29"
+        },
+        {
+          "showAs": "Rabbitte, Pat.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Pat-Rabbitte.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Ring, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Ring.D.1994-06-09/dail/29"
+        },
+        {
+          "showAs": "Ryan, Eamon.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Eamon-Ryan.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Ryan, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Ryan.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Sargent, Trevor.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Trevor-Sargent.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Sherlock, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Sherlock.D.1981-06-30/dail/29"
+        },
+        {
+          "showAs": "Shortall, R\u00f3is\u00edn.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/R\u00f3is\u00edn-Shortall.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Timmins, Billy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Billy-Timmins.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Twomey, Liam.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Liam-Twomey.D.2002-06-06/dail/29"
+        }
+      ],
+      "showAs": "N\u00edl",
+      "tally": 53
+    },
+    "taVotes": {
+      "members": [
+        {
+          "showAs": "Andrews, Barry.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Barry-Andrews.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Ardagh, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Ardagh.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Brady, Martin.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Martin-Brady.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Browne, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Browne.D.1982-12-14/dail/29"
+        },
+        {
+          "showAs": "Callanan, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Callanan.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Callely, Ivor.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Ivor-Callely.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Carey, Pat.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Pat-Carey.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Carty, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Carty.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Collins, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Collins.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Cooper-Flynn, Beverley.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Beverley-Flynn.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Coughlan, Mary.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Mary-Coughlan.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "Cregan, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Cregan.S.1998-06-23/dail/29"
+        },
+        {
+          "showAs": "Cullen, Martin.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Martin-Cullen.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "Curran, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Curran.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Davern, Noel.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Noel-Davern.D.1969-07-02/dail/29"
+        },
+        {
+          "showAs": "de Valera, S\u00edle.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/S\u00edle-de-Valera.D.1977-07-05/dail/29"
+        },
+        {
+          "showAs": "Dempsey, Tony.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Tony-Dempsey.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Dennehy, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Dennehy.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "Devins, Jimmy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Jimmy-Devins.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Ellis, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Ellis.S.1977-10-27/dail/29"
+        },
+        {
+          "showAs": "Fahey, Frank.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Frank-Fahey.D.1982-03-09/dail/29"
+        },
+        {
+          "showAs": "Finneran, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Finneran.S.1989-10-01/dail/29"
+        },
+        {
+          "showAs": "Fitzpatrick, Dermot.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Dermot-Fitzpatrick.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "Glennon, Jim.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Jim-Glennon.S.2000-06-09/dail/29"
+        },
+        {
+          "showAs": "Grealish, Noel.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Noel-Grealish.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Hanafin, Mary.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Mary-Hanafin.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Haughey, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Haughey.S.1987-04-25/dail/29"
+        },
+        {
+          "showAs": "Hoctor, M\u00e1ire.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/M\u00e1ire-Hoctor.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Jacob, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Jacob.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "Keaveney, Cecilia.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Cecilia-Keaveney.D.1996-04-02/dail/29"
+        },
+        {
+          "showAs": "Kelleher, Billy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Billy-Kelleher.S.1993-02-17/dail/29"
+        },
+        {
+          "showAs": "Kelly, Peter.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Peter-Kelly.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Kirk, Seamus.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Seamus-Kirk.D.1982-12-14/dail/29"
+        },
+        {
+          "showAs": "Lenihan, Brian.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Brian-Lenihan.D.1996-04-02/dail/29"
+        },
+        {
+          "showAs": "Lenihan, Conor.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Conor-Lenihan.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "McCreevy, Charlie.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Charlie-McCreevy.D.1977-07-05/dail/29"
+        },
+        {
+          "showAs": "McDowell, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-McDowell.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "McEllistrim, Thomas.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Tom-McEllistrim.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "McGuinness, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-McGuinness.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Martin, Miche\u00e1l.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Miche\u00e1l-Martin.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Moloney, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Moloney.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Moynihan, Donal.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Donal-Moynihan.D.1982-12-14/dail/29"
+        },
+        {
+          "showAs": "Moynihan, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Moynihan.D.1997-06-26/dail/29"
+        },
+        {
+          "showAs": "Mulcahy, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Mulcahy.S.1994-12-13/dail/29"
+        },
+        {
+          "showAs": "Nolan, M. J.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/M-J-Nolan.S.1982-05-13/dail/29"
+        },
+        {
+          "showAs": "\u00d3 Cu\u00edv, \u00c9amon.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/\u00c9amon-\u00d3-Cu\u00edv.S.1989-10-01/dail/29"
+        },
+        {
+          "showAs": "\u00d3 Feargha\u00edl, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-\u00d3-Feargha\u00edl.S.2000-06-09/dail/29"
+        },
+        {
+          "showAs": "O\u2019Connor, Charlie.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Charlie-O'Connor.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "O\u2019Dea, Willie.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Willie-O'Dea.D.1982-03-09/dail/29"
+        },
+        {
+          "showAs": "O\u2019Donnell, Liz.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Liz-O'Donnell.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "O\u2019Donoghue, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-O'Donoghue.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "O\u2019Donovan, Denis.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Denis-O'Donovan.S.1989-10-01/dail/29"
+        },
+        {
+          "showAs": "O\u2019Keeffe, Batt.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Batt-O'Keeffe.D.1987-03-10/dail/29"
+        },
+        {
+          "showAs": "O\u2019Malley, Fiona.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Fiona-O'Malley.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "O\u2019Malley, Tim.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Tim-O'Malley.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Parlon, Tom.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Tom-Parlon.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Power, Peter.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Peter-Power.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Power, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Power.D.1989-06-29/dail/29"
+        },
+        {
+          "showAs": "Sexton, Mae.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Mae-Sexton.D.2002-06-06/dail/29"
+        },
+        {
+          "showAs": "Smith, Brendan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Brendan-Smith.D.1992-12-14/dail/29"
+        },
+        {
+          "showAs": "Smith, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Smith.D.1969-07-02/dail/29"
+        },
+        {
+          "showAs": "Treacy, Noel.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Noel-Treacy.D.1982-07-20/dail/29"
+        },
+        {
+          "showAs": "Wallace, Dan.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Dan-Wallace.D.1982-12-14/dail/29"
+        },
+        {
+          "showAs": "Wallace, Mary.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Mary-Wallace.S.1987-04-25/dail/29"
+        },
+        {
+          "showAs": "Walsh, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-Walsh.D.1977-07-05/dail/29"
+        },
+        {
+          "showAs": "Woods, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Woods.D.1977-07-05/dail/29"
+        },
+        {
+          "showAs": "Wright, G. V.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/G-V-Wright.S.1982-05-13/dail/29"
+        }
+      ],
+      "showAs": "T\u00e1",
+      "tally": 67
+    }
+  },
+  "tellers": "Tellers: T\u00e1, Deputies Hanafin and Kelleher; N\u00edl, Deputies Durkan and Broughan."
+}
