@@ -1,0 +1,1574 @@
+{
+  "head": {
+    "byOutcome": "all",
+    "byVoteCategory": "all",
+    "chamber": {
+      "showAs": "Committees",
+      "uri": null
+    },
+    "counts": {
+      "sittingCount": 175,
+      "voteCount": 50
+    },
+    "dateRange": {
+      "end": "2012-01-18",
+      "start": "2012-07-11"
+    },
+    "limit": 50,
+    "query": "string",
+    "skipped": 0,
+    "sort": "string"
+  },
+  "results": [
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-07-11",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_environment,_culture_and_the_gaeltacht/2012-07-11/debate/dbsect_2",
+          "showAs": "Electoral (Amendment)(Political Funding) Bill 2011 [Seanad]: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON ENVIRONMENT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_environment,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Electoral (Amendment) (Political Funding) Bill 2011: D\u00e1il Committee Stage - Amendment No. 2",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_environment,_culture_and_the_gaeltacht/2012-07-11/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/79/dail/3/amd_2"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 9
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 1
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_environment,_culture_and_the_gaeltacht/2012-07-11/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-07-04",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice,_defence_and_equality/2012-07-04/debate/dbsect_2",
+          "showAs": "Criminal Justice (Withholding of Information on Offences Against Children and Vulnerable Persons) Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON JUSTICE, DEFENCE AND EQUALITY",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_justice,_defence_and_equality"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Criminal Justice (Withholding of Information on Offences Against Children and Vulnerable Persons) Bill 2012: D\u00e1il Committee Stage - Amendment No. 5",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice,_defence_and_equality/2012-07-04/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/32/dail/3/amd_5"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 8
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 1
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_justice,_defence_and_equality/2012-07-04/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-07-04",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice,_defence_and_equality/2012-07-04/debate/dbsect_2",
+          "showAs": "Criminal Justice (Withholding of Information on Offences Against Children and Vulnerable Persons) Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON JUSTICE, DEFENCE AND EQUALITY",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_justice,_defence_and_equality"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_justice,_defence_and_equality/2012-07-04/debate"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 8
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 1
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_justice,_defence_and_equality/2012-07-04/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-28",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_education_and_social_protection/2012-06-28/debate/dbsect_2",
+          "showAs": "Residential Institutions Statutory Fund Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON EDUCATION AND SOCIAL PROTECTION (Select Sub-Committee on Education and Skills)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_education_and_social_protection"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Residential Institutions Statutory Fund Bill 2012: D\u00e1il Committee Stage - Amendment No. 2",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_education_and_social_protection/2012-06-28/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/28/dail/3/amd_2"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_education_and_social_protection/2012-06-28/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-28",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_education_and_social_protection/2012-06-28/debate/dbsect_2",
+          "showAs": "Residential Institutions Statutory Fund Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON EDUCATION AND SOCIAL PROTECTION (Select Sub-Committee on Education and Skills)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_education_and_social_protection"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Residential Institutions Statutory Fund Bill 2012: D\u00e1il Committee Stage - Amendment No. 4",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_education_and_social_protection/2012-06-28/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/28/dail/3/amd_4"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_education_and_social_protection/2012-06-28/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-27",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/debate/dbsect_2",
+          "showAs": "Public Service Pensions (Single Scheme) and Remuneration Bill 2011: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM (Select Sub-Committee on Public Expenditure and Reform)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/debate/para_563"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-27",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/debate/dbsect_2",
+          "showAs": "Public Service Pensions (Single Scheme) and Remuneration Bill 2011: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM (Select Sub-Committee on Public Expenditure and Reform)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/debate/para_553"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-06-27/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-21",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-21/debate/dbsect_2",
+          "showAs": "Public Service Pensions (Single Scheme) and Remuneration Bill 2011: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM (Select Sub-Committee on Public Expenditure and Reform)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Public Service Pensions (Single Scheme and other Provisions) Bill 2011 changed from Public Service Pensions (Single Scheme) and Remuneration Bill 2011: D\u00e1il Committee Stage - Amendment No. 38",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-06-21/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/56/dail/3/amd_38"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-06-21/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-19",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/debate/dbsect_2",
+          "showAs": "Industrial Relations (Amendment) (No. 3) Bill 2011: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON JOBS, ENTERPRISE AND INNOVATION",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_jobs,_enterprise_and_innovation"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": "Industrial Relations (Amendment) (No. 3) Bill 2011: D\u00e1il Committee Stage - Amendment No. 73",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/84/dail/3/amd_73"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-06-19",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/debate/dbsect_2",
+          "showAs": "Industrial Relations (Amendment) (No. 3) Bill 2011: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON JOBS, ENTERPRISE AND INNOVATION",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_jobs,_enterprise_and_innovation"
+        },
+        "outcome": "??",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/debate"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_jobs,_enterprise_and_innovation/2012-06-19/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-03-14",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/joint_committee_on_finance,_public_expenditure_and_reform/2012-03-14/debate/dbsect_2",
+          "showAs": "Role and Functions: Discussion with NAMA"
+        },
+        "forum": {
+          "showAs": "JOINT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/joint_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": "Question put: \"That the letter, as amended, to the Governor issue.\"",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/joint_committee_on_finance,_public_expenditure_and_reform/2012-03-14/debate/sum_7"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 9
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 11
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/joint_committee_on_finance,_public_expenditure_and_reform/2012-03-14/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-02-29",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/debate/dbsect_2",
+          "showAs": "Finance Bill 2012: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/debate/dbsect_2"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 2
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 6
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-02-29",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/debate/dbsect_2",
+          "showAs": "Finance Bill 2012: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": "Question put: \"That section 75 stand part of the Bill.\"",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/debate/sum_52"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-02-29/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-02-28",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/debate/dbsect_2",
+          "showAs": "Finance Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM (Select Sub-Committee on Finance)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": "Finance Bill 2012: D\u00e1il Committee Stage - Amendment No. 23",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/5/dail/3/amd_23"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-02-28",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/debate/dbsect_2",
+          "showAs": "Finance Bill 2012: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON FINANCE, PUBLIC EXPENDITURE AND REFORM (Select Sub-Committee on Finance)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_finance,_public_expenditure_and_reform"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": null,
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/debate/dbsect_2"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_finance,_public_expenditure_and_reform/2012-02-28/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-02-09",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_health_and_children/2012-02-09/debate/dbsect_2",
+          "showAs": "Criminal Justice (Female Genital Mutilation) Bill 2011: Committee Stage"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON HEALTH AND CHILDREN (Select Sub-Committee on Health)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_health_and_children"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Criminal Justice (Female Genital Mutilation) Bill 2011: D\u00e1il Committee Stage - Amendment No. 1",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_health_and_children/2012-02-09/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/7/dail/3/amd_1"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 1
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 8
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_health_and_children/2012-02-09/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 27",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_27"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_1"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 30",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_30"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_2"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 32",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_32"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_3"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 33",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_33"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_4"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 34",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_34"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_5"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 35",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_35"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_6"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 36",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_36"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_7"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 37",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_37"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_8"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 38",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_38"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_9"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 39",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_39"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_10"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 40",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_40"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_11"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 41",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_41"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_12"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 42",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_42"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_13"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 43",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_43"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_14"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "??",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 44",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_44"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_15"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 46",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_46"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_16"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 47",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_47"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_17"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 48",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_48"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_18"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 51",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_51"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_19"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 58",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_58"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_20"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 61",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_61"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_21"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 62",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_62"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_22"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 63",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_63"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_23"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "??",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 68",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_68"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_24"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "??",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 68",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_68"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_25"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "??",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 70 (Not Moved)",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_70/notmoved"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_26"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 75",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_75"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_27"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 76",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_76"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_28"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Carried",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 77",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_77"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 3
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 7
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_29"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 79",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_79"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_30"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 85",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_85"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_31"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 87",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_87"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_32"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 89",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_89"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_33"
+      }
+    },
+    {
+      "vote": {
+        "category": "question",
+        "date": "2012-01-18",
+        "datetime": null,
+        "debate": {
+          "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/dbsect_3",
+          "showAs": "Water Services (Amendment) Bill 2011 [Seanad]: Committee Stage (Resumed)"
+        },
+        "forum": {
+          "showAs": "SELECT COMMITTEE ON THE ENVIRONMENT, TRANSPORT, CULTURE AND THE GAELTACHT (Select Sub-Committee on the Environment, Community and Local Government)",
+          "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht"
+        },
+        "outcome": "Lost",
+        "subject": {
+          "showAs": "Water Services (Amendment) Bill 2011: D\u00e1il Committee Stage - Amendment No. 90",
+          "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/debate/http://oireachtas.ie/ie/oireachtas/bill/2011/63/dail/3/amd_90"
+        },
+        "tallies": {
+          "nilVotes": {
+            "showAs": "N\u00edl",
+            "tally": 7
+          },
+          "taVotes": {
+            "showAs": "T\u00e1",
+            "tally": 3
+          }
+        },
+        "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_the_environment,_transport,_culture_and_the_gaeltacht/2012-01-18/vote_34"
+      }
+    }
+  ]
+}
