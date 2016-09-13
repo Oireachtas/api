@@ -1,0 +1,82 @@
+{
+  "category": "question",
+  "date": "2010-05-19",
+  "datetime": null,
+  "debate": {
+    "URI": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_communications,_energy_and_natural_resources/2010-05-19/debate/dbsect_2",
+    "showAs": "Energy (Biofuel Obligation and Miscellaneous Provisions) Bill 2010: Committee Stage"
+  },
+  "forum": {
+    "showAs": "SELECT COMMITTEE ON COMMUNICATIONS, ENERGY AND NATURAL RESOURCES",
+    "uri": "http://oireachtas.ie/ie/oireachtas/committee/select_committee_on_communications,_energy_and_natural_resources"
+  },
+  "outcome": "Lost",
+  "subject": {
+    "showAs": "Energy (Biofuel Obligation and Miscellaneous Provisions) Bill 2010: D\u00e1il Committee Stage - Amendment No. 11",
+    "uri": "http://oireachtas.ie/akn/ie/debateRecord/select_committee_on_communications,_energy_and_natural_resources/2010-05-19/debate/http://oireachtas.ie/ie/oireachtas/bill/2010/6/dail/3/amd_11"
+  },
+  "tallies": {
+    "nilVotes": {
+      "members": [
+        {
+          "showAs": "Browne, John.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/John-Browne.D.1982-12-14/dail/30"
+        },
+        {
+          "showAs": "Devins, Jimmy.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Jimmy-Devins.D.2002-06-06/dail/30"
+        },
+        {
+          "showAs": "Kelly, Peter.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Peter-Kelly.D.2002-06-06/dail/30"
+        },
+        {
+          "showAs": "McGrath, Mattie.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Mattie-McGrath.D.2007-06-14/dail/30"
+        },
+        {
+          "showAs": "Moynihan, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-Moynihan.D.1997-06-26/dail/30"
+        },
+        {
+          "showAs": "Nolan, M. J.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/M-J-Nolan.S.1982-05-13/dail/30"
+        },
+        {
+          "showAs": "Ryan, Eamon.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Eamon-Ryan.D.2002-06-06/dail/30"
+        }
+      ],
+      "showAs": "N\u00edl",
+      "tally": 7
+    },
+    "taVotes": {
+      "members": [
+        {
+          "showAs": "Coveney, Simon.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Simon-Coveney.D.1998-10-23/dail/30"
+        },
+        {
+          "showAs": "D\u2019Arcy, Michael.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Michael-D'Arcy.D.2007-06-14/dail/30"
+        },
+        {
+          "showAs": "Flanagan, Charles.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Charles-Flanagan.D.1987-03-10/dail/30"
+        },
+        {
+          "showAs": "McHugh, Joe.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Joe-McHugh.S.2002-09-12/dail/30"
+        },
+        {
+          "showAs": "Sherlock, Se\u00e1n.",
+          "uri": "http://oireachtas.ie/ie/oireachtas/member/Se\u00e1n-Sherlock.D.2007-06-14/dail/30"
+        }
+      ],
+      "showAs": "T\u00e1",
+      "tally": 5
+    }
+  },
+  "tellers": "",
+  "uri": "http://oireachtas.ie/ie/oireachtas/vote/select_committee_on_communications,_energy_and_natural_resources/2010-05-19/vote_1"
+}
