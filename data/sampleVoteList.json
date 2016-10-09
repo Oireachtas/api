@@ -1,0 +1,1834 @@
+{
+  "divisionList": {
+    "head": {
+      "bill": {
+        "showAs": "all",
+        "uri": null
+      },
+      "byOutcome": "all",
+      "byVoteCategory": "all",
+      "category": "all",
+      "chamber": {
+        "showAs": "D\u00c1IL \u00c9IREANN",
+        "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+      },
+      "counts": {
+        "voteCount": 50
+      },
+      "dateRange": {
+        "end": "2015-11-12",
+        "start": "2015-12-02"
+      },
+      "limit": 50,
+      "member": {
+        "showAs": "all",
+        "uri": null
+      },
+      "query": "string",
+      "skipped": 0,
+      "sort": "string"
+    },
+    "results": [
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: From the Seanad (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_13"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 49
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 38
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: From the Seanad (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_13"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 53
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 38
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: From the Seanad (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_13"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 91
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 17
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Order of Business",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_24"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the proposal for dealing with No. 1 be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/sum_136"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 46
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 68
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Order of Business",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_24"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the proposals for dealing with No. 35, Harbours Bill 2015 - Order for Report Stage and Report and Final Stages, be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/sum_141"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 44
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 66
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: From the Seanad (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_38"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: D\u00e1il From the Seanad - Amendment No. 53 (Not Moved)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/69/dail/seanad_amd/amd_53/notmoved"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 66
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 35
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Harbours Bill 2015: Report and Final Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_44"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Harbours Bill 2015: D\u00e1il Report and Final Stages - Amendment No. 2",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/66/dail/4_sub/amd_2"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 74
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 35
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Harbours Bill 2015: Report and Final Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_44"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Harbours Bill 2015: D\u00e1il Report and Final Stages - Amendment No. 3",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/66/dail/4_sub/amd_3"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 65
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 38
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Harbours Bill 2015: Report and Final Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_44"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Harbours Bill 2015: D\u00e1il Report and Final Stages - Amendment No. 5",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/66/dail/4_sub/amd_5"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 68
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 37
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Harbours Bill 2015: Report and Final Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_44"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/para_1111"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 16
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 77
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Equality (Miscellaneous Provisions) Bill 2013 [Seanad]: Committee and Remaining Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_59"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Equality (Miscellaneous Provisions) Bill 2013: D\u00e1il Committee and Remaining Stages - Amendment No. 1",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/http://oireachtas.ie/ie/oireachtas/bill/2013/23/dail/3_sub/amd_1"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 77
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 26
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-02",
+          "datetime": null,
+          "debate": {
+            "showAs": "Rent Certainty and Prevention of Homelessness Bill 2015: Second Stage (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/dbsect_63"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-02/debate/para_329"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 58
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 32
+            }
+          },
+          "uri": "/division/dail/2015-12-02/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-01",
+          "datetime": null,
+          "debate": {
+            "showAs": "Protection of the Environment (Criminal Activity) Bill 2015: Second Stage (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/dbsect_20"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/dbsect_20"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 59
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 38
+            }
+          },
+          "uri": "/division/dail/2015-12-01/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-01",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No.2) Bill 2012: From the Seanad",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/dbsect_30"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: D\u00e1il From the Seanad - Amendment No. 4 (Agreed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/69/dail/seanad_amd/amd_4/agreed"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 51
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 31
+            }
+          },
+          "uri": "/division/dail/2015-12-01/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-12-01",
+          "datetime": null,
+          "debate": {
+            "showAs": "Residential Tenancies (Amendment) (No.2) Bill 2012: From the Seanad",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/dbsect_30"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Residential Tenancies (Amendment) (No. 2) Bill 2012: D\u00e1il From the Seanad - Amendment No. 5 (Agreed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-12-01/debate/http://oireachtas.ie/ie/oireachtas/bill/2012/69/dail/seanad_amd/amd_5/agreed"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 49
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 25
+            }
+          },
+          "uri": "/division/dail/2015-12-01/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-26",
+          "datetime": null,
+          "debate": {
+            "showAs": "Order of Business",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_19"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the proposal for dealing with Nos. 17 and 18 be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/sum_16"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 35
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 58
+            }
+          },
+          "uri": "/division/dail/2015-11-26/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-26",
+          "datetime": null,
+          "debate": {
+            "showAs": "Order of Business",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_19"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the proposal for dealing with No. 19 be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/sum_22"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 35
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 56
+            }
+          },
+          "uri": "/division/dail/2015-11-26/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-26",
+          "datetime": null,
+          "debate": {
+            "showAs": "Economic Partnership Agreement: Motion",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_31"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_31"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 20
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 62
+            }
+          },
+          "uri": "/division/dail/2015-11-26/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-26",
+          "datetime": null,
+          "debate": {
+            "showAs": "Planning and Development (Urgent Social Housing Supply) Policy Directive 2015: Motion",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_36"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-26/debate/dbsect_36"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 33
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 51
+            }
+          },
+          "uri": "/division/dail/2015-11-26/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-25",
+          "datetime": null,
+          "debate": {
+            "showAs": "Finance Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_15"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_15"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 67
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 34
+            }
+          },
+          "uri": "/division/dail/2015-11-25/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-25",
+          "datetime": null,
+          "debate": {
+            "showAs": "Finance Bill 2015: Report Stage (Resumed) and Final Stage",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_30"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/para_359"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 74
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 43
+            }
+          },
+          "uri": "/division/dail/2015-11-25/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-25",
+          "datetime": null,
+          "debate": {
+            "showAs": "Finance Bill 2015: Report Stage (Resumed) and Final Stage",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_30"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the Bill do now pass.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/sum_49"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 45
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 78
+            }
+          },
+          "uri": "/division/dail/2015-11-25/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-25",
+          "datetime": null,
+          "debate": {
+            "showAs": "Credit Union Sector: Motion (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_41"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_41"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 45
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 67
+            }
+          },
+          "uri": "/division/dail/2015-11-25/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-25",
+          "datetime": null,
+          "debate": {
+            "showAs": "Credit Union Sector: Motion (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/dbsect_41"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the motion, as amended, be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-25/debate/sum_120"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 45
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 67
+            }
+          },
+          "uri": "/division/dail/2015-11-25/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Multi-Units Development (Amendment) Bill 2015: Second Stage (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_19"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_19"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 81
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 43
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Financial Emergency Measures in the Public Interest Bill 2015: Report Stage",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_31"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_31"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 93
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 32
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Financial Emergency Measures in the Public Interest Bill 2015: Report Stage",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_31"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_31"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 16
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 109
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Electoral (Amendment) (No. 2) Bill 2015: Report and Final Stages",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_40"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_40"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 72
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 32
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Housing and Homelessness: Motion (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_46"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_46"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 40
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 67
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-18",
+          "datetime": null,
+          "debate": {
+            "showAs": "Housing and Homelessness: Motion (Resumed) [Private Members]",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/dbsect_46"
+          },
+          "outcome": "Carried",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Question put: \"That the motion, as amended, be agreed to.\"",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-18/debate/sum_122"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 41
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 67
+            }
+          },
+          "uri": "/division/dail/2015-11-18/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_16"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 59
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 33
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_16"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 59
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 36
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_16"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 62
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 35
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_16"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": null,
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 64
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 35
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 7",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_7"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 69
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 32
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 8",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_8"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 58
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 26
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 9",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_9"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 57
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 26
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 10",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_10"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 56
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 28
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 11",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_11"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 56
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 24
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 12",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_12"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 56
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 23
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 13",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_13"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 52
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 23
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 14",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_14"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 52
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 25
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 15",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_15"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 53
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 21
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 16",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_16"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 54
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 22
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 17",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_17"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 54
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 23
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 18",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_18"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 53
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 26
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 19",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_19"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 56
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 25
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 20",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_20"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 56
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 23
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 21",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_21"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 57
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 23
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      },
+      {
+        "division": {
+          "category": "question",
+          "chamber": {
+            "showAs": "D\u00c1IL \u00c9IREANN",
+            "uri": "http://oireachtas.ie/ie/oireachtas/house/dail"
+          },
+          "date": "2015-11-12",
+          "datetime": null,
+          "debate": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: Report Stage (Resumed)",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/dbsect_33"
+          },
+          "outcome": "Lost",
+          "staonVotes": {
+            "showAs": "Staon",
+            "tally": null
+          },
+          "subject": {
+            "showAs": "Garda S\u00edoch\u00e1na (Policing Authority and Miscellaneous Provisions) Bill 2015: D\u00e1il Report Stage - Amendment No. 22",
+            "uri": "http://oireachtas.ie/akn/ie/debateRecord/dail/2015-11-12/debate/http://oireachtas.ie/ie/oireachtas/bill/2015/47/dail/4/amd_22"
+          },
+          "tallies": {
+            "nilVotes": {
+              "showAs": "N\u00edl",
+              "tally": 54
+            },
+            "staonVotes": null,
+            "taVotes": {
+              "showAs": "T\u00e1",
+              "tally": 25
+            }
+          },
+          "uri": "/division/dail/2015-11-12/"
+        }
+      }
+    ]
+  }
+}
