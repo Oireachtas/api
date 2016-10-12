@@ -1,0 +1,3800 @@
+{
+  "head": {
+    "counts": {
+      "billCount": 150
+    },
+    "dateRange": {
+      "end": "2013-01-01",
+      "start": "2012-01-01-01"
+    },
+    "lang": "en"
+  },
+  "response": [
+    {
+      "act": {
+        "actNo": "38",
+        "actYear": "2012",
+        "shortTitle": "Ombudsman (Amendment) Act 2012"
+      },
+      "billNo": "40",
+      "billYear": "2008",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-10-31"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2008/40/seanad/5"
+        }
+      },
+      "shortTitle": "Ombudsman (Amendment) Bill 2008",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2008/40"
+    },
+    {
+      "billNo": "36",
+      "billYear": "2008",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2015-12-08"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2008/36/dail/5"
+        }
+      },
+      "shortTitle": "Mental Health (Amendment) Bill 2008",
+      "source": "Private Member",
+      "status": "Enacted",
+      "uri": "/bill/2008/36"
+    },
+    {
+      "act": {
+        "actNo": "34",
+        "actYear": "2013",
+        "shortTitle": "Construction Contracts Act 2013"
+      },
+      "billNo": "21",
+      "billYear": "2010",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-07-29"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2010/21/dail/5"
+        }
+      },
+      "shortTitle": "Construction Contracts Bill 2010",
+      "source": "Private Member",
+      "status": "Enacted",
+      "uri": "/bill/2010/21"
+    },
+    {
+      "act": {
+        "actNo": "11",
+        "actYear": "2012",
+        "shortTitle": "Criminal Justice (Female Genital Mutilation) Act 2012"
+      },
+      "billNo": "7",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-04-02"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/7/dail/5"
+        }
+      },
+      "shortTitle": "Criminal Justice (Female Genital Mutilation) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/7"
+    },
+    {
+      "act": {
+        "actNo": "7",
+        "actYear": "2012",
+        "shortTitle": "Jurisdiction of Courts and Enforcement of Judgments (Amendment) Act 2012"
+      },
+      "billNo": "10",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-03-10"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/10/dail/5"
+        }
+      },
+      "shortTitle": "Jurisdiction of Courts and Enforcement of Judgments (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/10"
+    },
+    {
+      "act": {
+        "actNo": "1",
+        "actYear": "2012",
+        "shortTitle": "Patents (Amendment) Act 2012"
+      },
+      "billNo": "17",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-02-01"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/17/seanad/5"
+        }
+      },
+      "shortTitle": "Patents (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/17"
+    },
+    {
+      "billNo": "30",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2013-10-16"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/30/seanad/2"
+        }
+      },
+      "shortTitle": "Statistics (Heritage Amendment) Bill 2011",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2011/30"
+    },
+    {
+      "act": {
+        "actNo": "28",
+        "actYear": "2012",
+        "shortTitle": "Qualifications and Quality Assurance (Education and Training) Act 2012"
+      },
+      "billNo": "41",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-22"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/41/dail/5"
+        }
+      },
+      "shortTitle": "Qualifications and Quality Assurance (Education and Training) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/41"
+    },
+    {
+      "act": {
+        "actNo": "26",
+        "actYear": "2013",
+        "shortTitle": "Central Bank (Supervision and Enforcement) Act 2013"
+      },
+      "billNo": "43",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-07-11"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/43/seanad/5"
+        }
+      },
+      "shortTitle": "Central Bank (Supervision and Enforcement) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/43"
+    },
+    {
+      "act": {
+        "actNo": "25",
+        "actYear": "2012",
+        "shortTitle": "Veterinary Practice (Amendment) Act 2012"
+      },
+      "billNo": "42",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-18"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/42/seanad/5"
+        }
+      },
+      "shortTitle": "Veterinary Practice (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/42"
+    },
+    {
+      "act": {
+        "actNo": "30",
+        "actYear": "2012",
+        "shortTitle": "European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Act 2012"
+      },
+      "billNo": "45",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/45/seanad/5"
+        }
+      },
+      "shortTitle": "European Arrest Warrant (Application to Third Countries and Amendment) and Extradition (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/45"
+    },
+    {
+      "act": {
+        "actNo": "23",
+        "actYear": "2012",
+        "shortTitle": "Dormant Accounts (Amendment) Act 2012"
+      },
+      "billNo": "46",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-11"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/46/dail/5"
+        }
+      },
+      "shortTitle": "Dormant Accounts (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/46"
+    },
+    {
+      "billNo": "53",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-15"
+            },
+            {
+              "date": "2012-05-16"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/53/dail/2"
+        }
+      },
+      "shortTitle": "Regulation of Debt Management Advisors Bill 2011",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2011/53"
+    },
+    {
+      "act": {
+        "actNo": "3",
+        "actYear": "2012",
+        "shortTitle": "Energy (Miscellaneous Provisions) Act 2012"
+      },
+      "billNo": "54",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-02-25"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/54/seanad/5"
+        }
+      },
+      "shortTitle": "Energy (Miscellaneous Provisions) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/54"
+    },
+    {
+      "act": {
+        "actNo": "18",
+        "actYear": "2012",
+        "shortTitle": "Competition (Amendment) Act 2012"
+      },
+      "billNo": "55",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-06-20"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/55/seanad/5"
+        }
+      },
+      "shortTitle": "Competition (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/55"
+    },
+    {
+      "act": {
+        "actNo": "37",
+        "actYear": "2012",
+        "shortTitle": "Public Service Pensions (Single Scheme and other Provisions) Act 2012"
+      },
+      "billNo": "56",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-28"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/56/seanad/5"
+        }
+      },
+      "shortTitle": "Public Service Pensions (Single Scheme and other Provisions) Bill 2011 changed from Public Service Pensions (Single Scheme) and Remuneration Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/56"
+    },
+    {
+      "act": {
+        "actNo": "4",
+        "actYear": "2012",
+        "shortTitle": "Health (Provision of General Practitioner Services) Act 2012"
+      },
+      "billNo": "57",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-02-28"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/57/seanad/5"
+        }
+      },
+      "shortTitle": "Health (Provision of General Practitioner Services) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/57"
+    },
+    {
+      "billNo": "58",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2015-12-02"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2011/58/seanad/5"
+        }
+      },
+      "shortTitle": "Legal Services Regulation Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/58"
+    },
+    {
+      "act": {
+        "actNo": "2",
+        "actYear": "2012",
+        "shortTitle": "Water Services (Amendment) Act 2012"
+      },
+      "billNo": "63",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-02-02"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/63/dail/5"
+        }
+      },
+      "shortTitle": "Water Services (Amendment) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/63"
+    },
+    {
+      "billNo": "64",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-02"
+            },
+            {
+              "date": "2012-03-06"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/64/dail/2"
+        }
+      },
+      "shortTitle": "Scrap and Precious Metal Dealers Bill 2011",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2011/64"
+    },
+    {
+      "billNo": "65",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-05-02"
+            }
+          ],
+          "progressStage": 5,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2011/65/seanad/5"
+        }
+      },
+      "shortTitle": "Civil Registration (Amendment) Bill 2011",
+      "source": "Private Member",
+      "status": "Withdrawn",
+      "uri": "/bill/2011/65"
+    },
+    {
+      "billNo": "66",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-02-03"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/66/dail/2"
+        }
+      },
+      "shortTitle": "Family Home Protection (Miscellaneous Provisions) Bill 2011",
+      "source": "Private Member",
+      "status": "Withdrawn",
+      "uri": "/bill/2011/66"
+    },
+    {
+      "billNo": "67",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-27"
+            },
+            {
+              "date": "2012-03-28"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/67/dail/2"
+        }
+      },
+      "shortTitle": "Central Bank and Financial Services Authority of Ireland (Amendment) Bill 2011",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2011/67"
+    },
+    {
+      "billNo": "69",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-01-13"
+            },
+            {
+              "date": "2012-01-17"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/69/dail/2"
+        }
+      },
+      "shortTitle": "Local Authority Public Administration Bill 2011",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2011/69"
+    },
+    {
+      "act": {
+        "actNo": "5",
+        "actYear": "2012",
+        "shortTitle": "Bretton Woods Agreements (Amendment) Act 2012"
+      },
+      "billNo": "75",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-03-05"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/75/seanad/5"
+        }
+      },
+      "shortTitle": "Bretton Woods Agreements (Amendment) (No.2) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/75"
+    },
+    {
+      "act": {
+        "actNo": "36",
+        "actYear": "2012",
+        "shortTitle": "Electoral (Amendment) (Political Funding) Act 2012"
+      },
+      "billNo": "79",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-28"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/79/dail/5"
+        }
+      },
+      "shortTitle": "Electoral (Amendment) (Political Funding) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/79"
+    },
+    {
+      "act": {
+        "actNo": "13",
+        "actYear": "2012",
+        "shortTitle": "Protection of Employees (Temporary Agency Work) Act 2012"
+      },
+      "billNo": "80",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-05-16"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/80/seanad/5"
+        }
+      },
+      "shortTitle": "Protection of Employees (Temporary Agency Work) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/80"
+    },
+    {
+      "billNo": "82",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-06-06"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2011/82/seanad/2"
+        }
+      },
+      "shortTitle": "NAMA and Irish Bank Resolution Corporation Transparency Bill 2011",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2011/82"
+    },
+    {
+      "act": {
+        "actNo": "32",
+        "actYear": "2012",
+        "shortTitle": "Industrial Relations (Amendment) Act 2012"
+      },
+      "billNo": "84",
+      "billYear": "2011",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2011/84/seanad/5"
+        }
+      },
+      "shortTitle": "Industrial Relations (Amendment) (No. 3) Bill 2011",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2011/84"
+    },
+    {
+      "act": {
+        "actNo": "14",
+        "actYear": "2012",
+        "shortTitle": "Education (Amendment) Act 2012"
+      },
+      "billNo": "1",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-05-23"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/1/dail/5"
+        }
+      },
+      "shortTitle": "Education (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/1"
+    },
+    {
+      "billNo": "2",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-08"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/2/dail/2"
+        }
+      },
+      "shortTitle": "Advance Healthcare Decisions Bill 2012",
+      "source": "Private Member",
+      "status": "Withdrawn",
+      "uri": "/bill/2012/2"
+    },
+    {
+      "billNo": "3",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-01-31"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/3/dail/1"
+        }
+      },
+      "shortTitle": "Criminal Justice (Aggravated False Imprisonment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/3"
+    },
+    {
+      "act": {
+        "actNo": "8",
+        "actYear": "2012",
+        "shortTitle": "Clotting Factor Concentrates and Other Biological Products Act 2012"
+      },
+      "billNo": "4",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-03-27"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/4/seanad/5"
+        }
+      },
+      "shortTitle": "Clotting Factor Concentrates and Other Biological Products Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/4"
+    },
+    {
+      "act": {
+        "actNo": "9",
+        "actYear": "2012",
+        "shortTitle": "Finance Act 2012"
+      },
+      "billNo": "5",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-03-31"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/5/seanad/5"
+        }
+      },
+      "shortTitle": "Finance Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/5"
+    },
+    {
+      "billNo": "6",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-02-07"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/6/dail/1"
+        }
+      },
+      "shortTitle": "Health (Professional Home Care) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/6"
+    },
+    {
+      "act": {
+        "actNo": "10",
+        "actYear": "2012",
+        "shortTitle": "Motor Vehicle (Duties and Licences) Act 2012"
+      },
+      "billNo": "7",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-04-02"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/7/seanad/5"
+        }
+      },
+      "shortTitle": "Motor Vehicle (Duties and Licences) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/7"
+    },
+    {
+      "billNo": "8",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-02-15"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/8/dail/1"
+        }
+      },
+      "shortTitle": "National Archives (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/8"
+    },
+    {
+      "billNo": "9",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-02-22"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/9/seanad/2"
+        }
+      },
+      "shortTitle": "Wind Turbines Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/9"
+    },
+    {
+      "billNo": "10",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-04-18"
+            },
+            {
+              "date": "2012-04-19"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/10/dail/2"
+        }
+      },
+      "shortTitle": "Medical Treatment (Termination of Pregnancy in Case of Risk to Life of Pregnant Woman) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/10"
+    },
+    {
+      "billNo": "11",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-05-02"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/11/seanad/2"
+        }
+      },
+      "shortTitle": "Employment Equality (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/11"
+    },
+    {
+      "act": {
+        "actNo": "6",
+        "actYear": "2012",
+        "shortTitle": "Euro Area Loan Facility (Amendment) Act 2012"
+      },
+      "billNo": "12",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-03-09"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/12/seanad/5"
+        }
+      },
+      "shortTitle": "Euro Area Loan Facility (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/12"
+    },
+    {
+      "billNo": "13",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-02-29"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/13/dail/1"
+        }
+      },
+      "shortTitle": "Entrepreneur Visa Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/13"
+    },
+    {
+      "billNo": "14",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-11-21"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/14/seanad/2"
+        }
+      },
+      "shortTitle": "Employment Equality (Amendment) (No. 2) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/14"
+    },
+    {
+      "billNo": "15",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-14"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/15/dail/1"
+        }
+      },
+      "shortTitle": "Freedom of Information (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/15"
+    },
+    {
+      "billNo": "16",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-14"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/16/dail/1"
+        }
+      },
+      "shortTitle": "Local Government (Superannuation) (Consolidation) Scheme 1998 (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/16"
+    },
+    {
+      "billNo": "18",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-19"
+            },
+            {
+              "date": "2012-06-20"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/18/dail/2"
+        }
+      },
+      "shortTitle": "Local Government (Household Charge) (Repeal) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/18"
+    },
+    {
+      "billNo": "17",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-11"
+            },
+            {
+              "date": "2012-05-15"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/17/dail/2"
+        }
+      },
+      "shortTitle": "Comptroller and Auditor General (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/17"
+    },
+    {
+      "billNo": "19",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-03-28"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/19/seanad/2"
+        }
+      },
+      "shortTitle": "Privacy Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/19"
+    },
+    {
+      "billNo": "20",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-28"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/20/dail/1"
+        }
+      },
+      "shortTitle": "Landlord and Tenant (Business Leases Rent Review) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/20"
+    },
+    {
+      "billNo": "21",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-27"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/21/dail/1"
+        }
+      },
+      "shortTitle": "Local Government (Household Charge) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/21"
+    },
+    {
+      "billNo": "22",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-03-29"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/22/dail/1"
+        }
+      },
+      "shortTitle": "Financial Emergency Measures in the Public Interest (Reviews of Commercial Rents) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/22"
+    },
+    {
+      "billNo": "23",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-04-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2012/23/seanad/5"
+        }
+      },
+      "shortTitle": "Thirtieth Amendment of the Constitution (Treaty on Stability, Coordination and Governance in the Economic and Monetary Union) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/23"
+    },
+    {
+      "billNo": "24",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-09"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/24/dail/2"
+        }
+      },
+      "shortTitle": "Tax Transparency Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/24"
+    },
+    {
+      "act": {
+        "actNo": "16",
+        "actYear": "2012",
+        "shortTitle": "Road Safety Authority (Commercial Vehicle Roadworthiness) Act 2012"
+      },
+      "billNo": "25",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-05-30"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/25/dail/5"
+        }
+      },
+      "shortTitle": "Road Safety Authority (Commercial Vehicle Roadworthiness) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/25"
+    },
+    {
+      "act": {
+        "actNo": "12",
+        "actYear": "2012",
+        "shortTitle": "Social Welfare and Pensions Act 2012"
+      },
+      "billNo": "26",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-05-01"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/26/seanad/5"
+        }
+      },
+      "shortTitle": "Social Welfare and Pensions Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/26"
+    },
+    {
+      "act": {
+        "actNo": "26",
+        "actYear": "2012",
+        "shortTitle": "Credit Guarantee Act 2012"
+      },
+      "billNo": "27",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-18"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/27/seanad/5"
+        }
+      },
+      "shortTitle": "Credit Guarantee Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/27"
+    },
+    {
+      "act": {
+        "actNo": "35",
+        "actYear": "2012",
+        "shortTitle": "Residential Institutions Statutory Fund Act 2012"
+      },
+      "billNo": "28",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-25"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/28/seanad/5"
+        }
+      },
+      "shortTitle": "Residential Institutions Statutory Fund Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/28"
+    },
+    {
+      "act": {
+        "actNo": "22",
+        "actYear": "2012",
+        "shortTitle": "Companies (Amendment) Act 2012"
+      },
+      "billNo": "29",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-04"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/29/dail/5"
+        }
+      },
+      "shortTitle": "Companies (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/29"
+    },
+    {
+      "billNo": "30",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-04-24"
+            },
+            {
+              "date": "2012-04-25"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/30/dail/2"
+        }
+      },
+      "shortTitle": "Motorist Emergency Relief Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/30"
+    },
+    {
+      "act": {
+        "actNo": "15",
+        "actYear": "2013",
+        "shortTitle": "Animal Health and Welfare Act 2013"
+      },
+      "billNo": "31",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-05-29"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/31/dail/5"
+        }
+      },
+      "shortTitle": "Animal Health and Welfare Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/31"
+    },
+    {
+      "act": {
+        "actNo": "24",
+        "actYear": "2012",
+        "shortTitle": "Criminal Justice (Withholding of Information on Offences Against Children and Vulnerable Persons) Act 2012"
+      },
+      "billNo": "32",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-18"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/32/dail/5"
+        }
+      },
+      "shortTitle": "Criminal Justice (Withholding of Information on Offences Against Children and Vulnerable Persons) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/32"
+    },
+    {
+      "billNo": "33",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-01"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/33/dail/2"
+        }
+      },
+      "shortTitle": "Protection of Employees (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/33"
+    },
+    {
+      "billNo": "34",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2016-01-27"
+            }
+          ],
+          "progressStage": 8,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2012/34/dail/5"
+        }
+      },
+      "shortTitle": "Criminal Justice (Spent Convictions and Certain Disclosures) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/34"
+    },
+    {
+      "billNo": "35",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-02"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/35/dail/1"
+        }
+      },
+      "shortTitle": "Housing Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/35"
+    },
+    {
+      "act": {
+        "actNo": "20",
+        "actYear": "2012",
+        "shortTitle": "European Stability Mechanism Act 2012"
+      },
+      "billNo": "37",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-03"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/37/seanad/5"
+        }
+      },
+      "shortTitle": "European Stability Mechanism Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/37"
+    },
+    {
+      "act": {
+        "actNo": "21",
+        "actYear": "2012",
+        "shortTitle": "European Communities (Amendment) Act 2012"
+      },
+      "billNo": "36",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-03"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/36/seanad/5"
+        }
+      },
+      "shortTitle": "European Communities (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/36"
+    },
+    {
+      "act": {
+        "actNo": "40",
+        "actYear": "2014",
+        "shortTitle": "Protection of Children\u2019s Health (Tobacco Smoke in Mechanically Propelled Vehicles) Act 2014"
+      },
+      "billNo": "38",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2014-12-25"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/38/dail/5"
+        }
+      },
+      "shortTitle": "Protection of Children\u2019s Health (Tobacco Smoke in Mechanically Propelled Vehicles) Bill 2012",
+      "source": "Private Member",
+      "status": "Enacted",
+      "uri": "/bill/2012/38"
+    },
+    {
+      "act": {
+        "actNo": "19",
+        "actYear": "2012",
+        "shortTitle": "Statute Law Revision Act 2012"
+      },
+      "billNo": "39",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-02"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/39/dail/5"
+        }
+      },
+      "shortTitle": "Statute Law Revision Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/39"
+    },
+    {
+      "act": {
+        "actNo": "17",
+        "actYear": "2012",
+        "shortTitle": "Local Government (Miscellaneous Provisions) Act 2012"
+      },
+      "billNo": "40",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-06-08"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/40/seanad/5"
+        }
+      },
+      "shortTitle": "Local Government (Miscellaneous Provisions) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/40"
+    },
+    {
+      "billNo": "41",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-17"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/41/dail/1"
+        }
+      },
+      "shortTitle": "Planning and Development (Taking in Charge of Estates) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/41"
+    },
+    {
+      "act": {
+        "actNo": "15",
+        "actYear": "2012",
+        "shortTitle": "Electricity Regulation (Carbon Revenue Levy) (Amendment) Act 2012"
+      },
+      "billNo": "42",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-05-25"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/42/seanad/5"
+        }
+      },
+      "shortTitle": "Electricity Regulation (Carbon Revenue Levy)(Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/42"
+    },
+    {
+      "billNo": "44",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-17"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/44/dail/1"
+        }
+      },
+      "shortTitle": "Education (Welfare) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/44"
+    },
+    {
+      "billNo": "43",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2014-03-07"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/43/dail/2"
+        }
+      },
+      "shortTitle": "Criminal Law (Incest) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/43"
+    },
+    {
+      "billNo": "45",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-02-08"
+            },
+            {
+              "date": "2013-02-12"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/45/dail/2"
+        }
+      },
+      "shortTitle": "Energy Security and Climate Change Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/45"
+    },
+    {
+      "billNo": "46",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-05-22"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/46/dail/1"
+        }
+      },
+      "shortTitle": "Residential Tenancies (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/46"
+    },
+    {
+      "act": {
+        "actNo": "33",
+        "actYear": "2012",
+        "shortTitle": "Criminal Justice (Search Warrants) Act 2012"
+      },
+      "billNo": "47",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/47/dail/5"
+        }
+      },
+      "shortTitle": "Criminal Justice (Search Warrants) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/47"
+    },
+    {
+      "billNo": "48",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-06-13"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/48/seanad/2"
+        }
+      },
+      "shortTitle": "Business Undertakings (Disclosure Of Overpayments) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/48"
+    },
+    {
+      "billNo": "49",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-07"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/49/dail/1"
+        }
+      },
+      "shortTitle": "Financial Emergency Measures in the Public Interest (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/49"
+    },
+    {
+      "billNo": "50",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-07"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/50/dail/1"
+        }
+      },
+      "shortTitle": "Valuation (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/50"
+    },
+    {
+      "billNo": "51",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-06"
+            }
+          ],
+          "progressStage": 3,
+          "showAs": "Third Stage",
+          "uri": "/bill/2012/51/dail/3"
+        }
+      },
+      "shortTitle": "Freedom of Information (Amendment) (No.2) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/51"
+    },
+    {
+      "billNo": "52",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-06"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/52/dail/1"
+        }
+      },
+      "shortTitle": "Prohibition on use by Children of Sunbeds and Tanning Devices Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/52"
+    },
+    {
+      "act": {
+        "actNo": "34",
+        "actYear": "2012",
+        "shortTitle": "Gaeltacht Act 2012"
+      },
+      "billNo": "53",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-25"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/53/dail/5"
+        }
+      },
+      "shortTitle": "Gaeltacht Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/53"
+    },
+    {
+      "billNo": "54",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-19"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/54/dail/1"
+        }
+      },
+      "shortTitle": "Competition (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/54"
+    },
+    {
+      "act": {
+        "actNo": "31",
+        "actYear": "2012",
+        "shortTitle": "Microenterprise Loan Fund Act 2012"
+      },
+      "billNo": "55",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/55/seanad/5"
+        }
+      },
+      "shortTitle": "Microenterprise Loan Fund Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/55"
+    },
+    {
+      "billNo": "56",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-03"
+            },
+            {
+              "date": "2012-07-04"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/56/dail/2"
+        }
+      },
+      "shortTitle": "Education (Amendment) (Protection Of Schools) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/56"
+    },
+    {
+      "billNo": "57",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-06-27"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/57/dail/1"
+        }
+      },
+      "shortTitle": "Electoral (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/57"
+    },
+    {
+      "act": {
+        "actNo": "29",
+        "actYear": "2012",
+        "shortTitle": "Wildlife (Amendment) Act 2012"
+      },
+      "billNo": "59",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-24"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/59/dail/5"
+        }
+      },
+      "shortTitle": "Wildlife (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/59"
+    },
+    {
+      "act": {
+        "actNo": "44",
+        "actYear": "2012",
+        "shortTitle": "Personal Insolvency Act 2012"
+      },
+      "billNo": "58",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/58/seanad/5"
+        }
+      },
+      "shortTitle": "Personal Insolvency Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/58"
+    },
+    {
+      "act": {
+        "actNo": "27",
+        "actYear": "2012",
+        "shortTitle": "Electoral (Amendment) Act 2012"
+      },
+      "billNo": "61",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-07-18"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/61/seanad/5"
+        }
+      },
+      "shortTitle": "Electoral (Amendment) (No. 2) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/61"
+    },
+    {
+      "billNo": "60",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-07-11"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/60/seanad/2"
+        }
+      },
+      "shortTitle": "Access to Cancer Treatment Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/60"
+    },
+    {
+      "billNo": "62",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-10-05"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/62/dail/2"
+        }
+      },
+      "shortTitle": "Assaults on Emergency Workers Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/62"
+    },
+    {
+      "act": {
+        "actNo": "14",
+        "actYear": "2013",
+        "shortTitle": "Health (Pricing and Supply of Medical Goods) Act 2013"
+      },
+      "billNo": "63",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-05-28"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/63/dail/5"
+        }
+      },
+      "shortTitle": "Health (Pricing and Supply of Medical Goods) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/63"
+    },
+    {
+      "billNo": "64",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-17"
+            },
+            {
+              "date": "2012-07-18"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/64/dail/2"
+        }
+      },
+      "shortTitle": "Consumer Credit (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/64"
+    },
+    {
+      "act": {
+        "actNo": "23",
+        "actYear": "2013",
+        "shortTitle": "Health Service Executive (Governance) Act 2013"
+      },
+      "billNo": "65",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-07-03"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/65/dail/5"
+        }
+      },
+      "shortTitle": "Health Service Executive (Governance) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/65"
+    },
+    {
+      "act": {
+        "actNo": "39",
+        "actYear": "2012",
+        "shortTitle": "Fiscal Responsibility Act 2012"
+      },
+      "billNo": "66",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-11-27"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/66/seanad/5"
+        }
+      },
+      "shortTitle": "Fiscal Responsibility Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/66"
+    },
+    {
+      "billNo": "67",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-12-05"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/67/seanad/2"
+        }
+      },
+      "shortTitle": "Statute of Limitations (Amendment) (Home Remediation-Pyrite) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/67"
+    },
+    {
+      "billNo": "68",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-17"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/68/dail/1"
+        }
+      },
+      "shortTitle": "Betting (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Withdrawn",
+      "uri": "/bill/2012/68"
+    },
+    {
+      "billNo": "69",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2015-11-24"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2012/69/seanad/5"
+        }
+      },
+      "shortTitle": "Residential Tenancies (Amendment) (No. 2) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/69"
+    },
+    {
+      "act": {
+        "actNo": "47",
+        "actYear": "2012",
+        "shortTitle": "National Vetting Bureau (Children and Vulnerable Persons) Act 2012"
+      },
+      "billNo": "71",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/71/seanad/5"
+        }
+      },
+      "shortTitle": "National Vetting Bureau (Children and Vulnerable Persons) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/71"
+    },
+    {
+      "billNo": "70",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-19"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/70/dail/1"
+        }
+      },
+      "shortTitle": "Thirty-First Amendment of the Constitution (Economic, Social and Cultural Rights) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/70"
+    },
+    {
+      "billNo": "72",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-07-19"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/72/dail/1"
+        }
+      },
+      "shortTitle": "Broadcasting (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/72"
+    },
+    {
+      "billNo": "73",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-10-11"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/73/dail/2"
+        }
+      },
+      "shortTitle": "Child Sex Offenders (Information and Monitoring) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/73"
+    },
+    {
+      "act": {
+        "actNo": "53",
+        "actYear": "2012",
+        "shortTitle": "Europol Act 2012"
+      },
+      "billNo": "74",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 7,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/74/seanad/3"
+        }
+      },
+      "shortTitle": "Europol Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/74"
+    },
+    {
+      "act": {
+        "actNo": "10",
+        "actYear": "2015",
+        "shortTitle": "Valuation (Amendment) Act 2015"
+      },
+      "billNo": "75",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2015-04-23"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/75/dail/5"
+        }
+      },
+      "shortTitle": "Valuation (Amendment) (No. 2) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/75"
+    },
+    {
+      "act": {
+        "actNo": "46",
+        "actYear": "2012",
+        "shortTitle": "Health and Social Care Professionals (Amendment) Act 2012"
+      },
+      "billNo": "76",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/76/seanad/5"
+        }
+      },
+      "shortTitle": "Health and Social Care Professionals (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/76"
+    },
+    {
+      "act": {
+        "actNo": "3",
+        "actYear": "2013",
+        "shortTitle": "Houses of the Oireachtas Commission (Amendment) Act 2013"
+      },
+      "billNo": "77",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-02-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/77/dail/5"
+        }
+      },
+      "shortTitle": "Houses of the Oireachtas Commission (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/77"
+    },
+    {
+      "billNo": "78",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-10-03"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Fifth Stage",
+          "uri": "/bill/2012/78/seanad/5"
+        }
+      },
+      "shortTitle": "Thirty-First Amendment of the Constitution (Children) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/78"
+    },
+    {
+      "billNo": "79",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-09-20"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/79/dail/1"
+        }
+      },
+      "shortTitle": "Nuclear Weapons (Prohibition of Investments) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/79"
+    },
+    {
+      "act": {
+        "actNo": "45",
+        "actYear": "2013",
+        "shortTitle": "Credit Reporting Act 2013"
+      },
+      "billNo": "80",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-12-23"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/80/seanad/5"
+        }
+      },
+      "shortTitle": "Credit Reporting Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/80"
+    },
+    {
+      "act": {
+        "actNo": "29",
+        "actYear": "2013",
+        "shortTitle": "Ministers and Secretaries (Amendment) Act 2013"
+      },
+      "billNo": "81",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-07-23"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/81/seanad/2"
+        }
+      },
+      "shortTitle": "Ministers and Secretaries (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/81"
+    },
+    {
+      "act": {
+        "actNo": "40",
+        "actYear": "2012",
+        "shortTitle": "Credit Union and Co-operation with Overseas Regulators Act 2012"
+      },
+      "billNo": "82",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-19"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/82/seanad/5"
+        }
+      },
+      "shortTitle": "Credit Union and Co-operation with Overseas Regulators Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/82"
+    },
+    {
+      "act": {
+        "actNo": "7",
+        "actYear": "2013",
+        "shortTitle": "Electoral (Amendment) (D\u00e1il Constituencies) Act 2013"
+      },
+      "billNo": "84",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-03-20"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/84/seanad/5"
+        }
+      },
+      "shortTitle": "Electoral (Amendment) (D\u00e1il Constituencies) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/84"
+    },
+    {
+      "act": {
+        "actNo": "11",
+        "actYear": "2013",
+        "shortTitle": "Education and Training Boards Act 2013"
+      },
+      "billNo": "83",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-05-08"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/83/seanad/5"
+        }
+      },
+      "shortTitle": "Education and Training Boards Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/83"
+    },
+    {
+      "billNo": "85",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-10-11"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/85/dail/1"
+        }
+      },
+      "shortTitle": "Housing (Miscellaneous Provisions) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/85"
+    },
+    {
+      "billNo": "86",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-10-17"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/86/seanad/2"
+        }
+      },
+      "shortTitle": "Mortgage Credit (Loans and Bonds) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/86"
+    },
+    {
+      "act": {
+        "actNo": "45",
+        "actYear": "2012",
+        "shortTitle": "Health Insurance (Amendment) Act 2012"
+      },
+      "billNo": "87",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/87/seanad/5"
+        }
+      },
+      "shortTitle": "Health Insurance (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/87"
+    },
+    {
+      "billNo": "88",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-01-18"
+            },
+            {
+              "date": "2013-01-22"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/88/dail/2"
+        }
+      },
+      "shortTitle": "Social Welfare (Amnesty) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/88"
+    },
+    {
+      "act": {
+        "actNo": "51",
+        "actYear": "2012",
+        "shortTitle": "Civil Defence Act 2012"
+      },
+      "billNo": "89",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/89/dail/5"
+        }
+      },
+      "shortTitle": "Civil Defence Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/89"
+    },
+    {
+      "billNo": "90",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-03-08"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/90/dail/2"
+        }
+      },
+      "shortTitle": "Autism Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/90"
+    },
+    {
+      "billNo": "91",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-10-24"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/91/dail/1"
+        }
+      },
+      "shortTitle": "Credit Institutions (Stabilisation) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/91"
+    },
+    {
+      "act": {
+        "actNo": "49",
+        "actYear": "2012",
+        "shortTitle": "Transport (C\u00f3ras Iompair \u00c9ireann and Subsidiary Companies Borrowings) Act 2012"
+      },
+      "billNo": "93",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/93/dail/5"
+        }
+      },
+      "shortTitle": "Transport (C\u00f3ras Iompair \u00c9ireann and Subsidiary Companies Borrowings) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/93"
+    },
+    {
+      "billNo": "92",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-01-18"
+            },
+            {
+              "date": "2013-01-22"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/92/dail/2"
+        }
+      },
+      "shortTitle": "Education (Resource Allocation) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/92"
+    },
+    {
+      "billNo": "95",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-06"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/95/dail/1"
+        }
+      },
+      "shortTitle": "Civil Registration (Amendment) (Domestic Registration of Death Records) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/95"
+    },
+    {
+      "billNo": "94",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-06"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/94/dail/1"
+        }
+      },
+      "shortTitle": "Public Health (Tobacco) (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/94"
+    },
+    {
+      "billNo": "96",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-07-05"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/96/dail/2"
+        }
+      },
+      "shortTitle": "Brighter Evenings Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/96"
+    },
+    {
+      "billNo": "97",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-13"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/97/dail/1"
+        }
+      },
+      "shortTitle": "Public Procurement Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/97"
+    },
+    {
+      "billNo": "98",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-13"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/98/dail/1"
+        }
+      },
+      "shortTitle": "Environment and Public Health (Wind Turbines) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/98"
+    },
+    {
+      "billNo": "99",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-14"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/99/dail/1"
+        }
+      },
+      "shortTitle": "State Airports (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/99"
+    },
+    {
+      "billNo": "100",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-15"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/100/dail/1"
+        }
+      },
+      "shortTitle": "Electoral Commission Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/100"
+    },
+    {
+      "billNo": "101",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2012-11-28"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/101/seanad/2"
+        }
+      },
+      "shortTitle": "Employment Permits (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Withdrawn",
+      "uri": "/bill/2012/101"
+    },
+    {
+      "billNo": "102",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-20"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/102/dail/1"
+        }
+      },
+      "shortTitle": "Broadcasting (Television Licence Fees Recovery) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/102"
+    },
+    {
+      "billNo": "104",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-11-22"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/104/dail/1"
+        }
+      },
+      "shortTitle": "Thirty-second Amendment of the Constitution (D\u00e1il \u00c9ireann) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/104"
+    },
+    {
+      "billNo": "103",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-12-21"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/103/dail/1"
+        }
+      },
+      "shortTitle": "Medical Treatment (Termination of Pregnancy in Case of Risk to Life of Pregnant Woman) (No. 2) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/103"
+    },
+    {
+      "act": {
+        "actNo": "48",
+        "actYear": "2012",
+        "shortTitle": "Civil Registration (Amendment) Act 2012"
+      },
+      "billNo": "105",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/105/dail/5"
+        }
+      },
+      "shortTitle": "Civil Registration (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/105"
+    },
+    {
+      "billNo": "106",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2014-03-07"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/106/dail/2"
+        }
+      },
+      "shortTitle": "Misuse of Motor Vehicles (Public Spaces) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/106"
+    },
+    {
+      "act": {
+        "actNo": "37",
+        "actYear": "2013",
+        "shortTitle": "Taxi Regulation Act 2013"
+      },
+      "billNo": "107",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-10-23"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/107/dail/5"
+        }
+      },
+      "shortTitle": "Taxi Regulation Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/107"
+    },
+    {
+      "act": {
+        "actNo": "52",
+        "actYear": "2012",
+        "shortTitle": "Finance (Local Property Tax) Act 2012"
+      },
+      "billNo": "108",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/108/seanad/5"
+        }
+      },
+      "shortTitle": "Finance (Local Property Tax) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/108"
+    },
+    {
+      "act": {
+        "actNo": "41",
+        "actYear": "2012",
+        "shortTitle": "Equal Status (Amendment) Act 2012"
+      },
+      "billNo": "110",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-20"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/110/seanad/5"
+        }
+      },
+      "shortTitle": "Equal Status (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/110"
+    },
+    {
+      "act": {
+        "actNo": "43",
+        "actYear": "2012",
+        "shortTitle": "Social Welfare Act 2012"
+      },
+      "billNo": "109",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-21"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/109/seanad/5"
+        }
+      },
+      "shortTitle": "Social Welfare Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/109"
+    },
+    {
+      "act": {
+        "actNo": "50",
+        "actYear": "2012",
+        "shortTitle": "Houses of the Oireachtas Commission (Amendment) (No. 2) Act 2012"
+      },
+      "billNo": "111",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-26"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/111/dail/5"
+        }
+      },
+      "shortTitle": "Houses of the Oireachtas Commission (Amendment) (No. 2) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/111"
+    },
+    {
+      "billNo": "112",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2013-01-22"
+            },
+            {
+              "date": "2013-01-23"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/112/dail/2"
+        }
+      },
+      "shortTitle": "Education (Welfare)(Amendment)(No.2) Bill 2012",
+      "source": "Private Member",
+      "status": "Rejected",
+      "uri": "/bill/2012/112"
+    },
+    {
+      "act": {
+        "actNo": "36",
+        "actYear": "2013",
+        "shortTitle": "Industrial Development (Science Foundation Ireland) (Amendment) Act 2013"
+      },
+      "billNo": "113",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-10-09"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/113/dail/5"
+        }
+      },
+      "shortTitle": "Industrial Development (Science Foundation Ireland) (Amendment) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/113"
+    },
+    {
+      "billNo": "114",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "D\u00e1il",
+            "uri": "/house/dail"
+          },
+          "dates": [
+            {
+              "date": "2012-12-11"
+            }
+          ],
+          "progressStage": 1,
+          "showAs": "First Stage",
+          "uri": "/bill/2012/114/dail/1"
+        }
+      },
+      "shortTitle": "Road Traffic (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Withdrawn",
+      "uri": "/bill/2012/114"
+    },
+    {
+      "act": {
+        "actNo": "42",
+        "actYear": "2012",
+        "shortTitle": "Appropriation Act 2012"
+      },
+      "billNo": "115",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2012-12-21"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/115/seanad/5"
+        }
+      },
+      "shortTitle": "Appropriation Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/115"
+    },
+    {
+      "act": {
+        "actNo": "12",
+        "actYear": "2013",
+        "shortTitle": "Defence Forces (Second World War Amnesty and Immunity) Act 2013"
+      },
+      "billNo": "118",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-05-14"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/118/dail/5"
+        }
+      },
+      "shortTitle": "Defence Forces (Second World War Amnesty and Immunity) Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/118"
+    },
+    {
+      "billNo": "119",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": {
+            "showAs": "Seanad",
+            "uri": "/house/seanad"
+          },
+          "dates": [
+            {
+              "date": "2013-02-20"
+            }
+          ],
+          "progressStage": 2,
+          "showAs": "Second Stage",
+          "uri": "/bill/2012/119/seanad/2"
+        }
+      },
+      "shortTitle": "Medical Practitioners (Amendment) Bill 2012",
+      "source": "Private Member",
+      "status": "Lapsed",
+      "uri": "/bill/2012/119"
+    },
+    {
+      "act": {
+        "actNo": "13",
+        "actYear": "2013",
+        "shortTitle": "National Lottery Act 2013"
+      },
+      "billNo": "117",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-05-14"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/117/seanad/5"
+        }
+      },
+      "shortTitle": "National Lottery Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/117"
+    },
+    {
+      "act": {
+        "actNo": "38",
+        "actYear": "2014",
+        "shortTitle": "Companies Act 2014"
+      },
+      "billNo": "116",
+      "billYear": "2012",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2014-12-23"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2012/116/seanad/5"
+        }
+      },
+      "shortTitle": "Companies Bill 2012",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2012/116"
+    },
+    {
+      "act": {
+        "actNo": "24",
+        "actYear": "2013",
+        "shortTitle": "Criminal Law (Human Trafficking) (Amendment) Act 2013"
+      },
+      "billNo": "39",
+      "billYear": "2013",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-07-09"
+            }
+          ],
+          "progressStage": 10,
+          "showAs": "Enacted",
+          "uri": "/bill/2013/39/dail/5"
+        }
+      },
+      "shortTitle": "Criminal Law (Human Trafficking) (Amendment) Bill 2013",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2013/39"
+    },
+    {
+      "act": {
+        "actNo": "48",
+        "actYear": "2013",
+        "shortTitle": "Health Insurance (Amendment) Act 2013"
+      },
+      "billNo": "112",
+      "billYear": "2013",
+      "mostRecentStage": {
+        "event": {
+          "chamber": null,
+          "dates": [
+            {
+              "date": "2013-12-25"
+            }
+          ],
+          "progressStage": 9,
+          "showAs": "Enacted",
+          "uri": "/bill/2013/112/seanad/5"
+        }
+      },
+      "shortTitle": "Health Insurance (Amendment) Bill 2013",
+      "source": "Government",
+      "status": "Enacted",
+      "uri": "/bill/2013/112"
+    }
+  ]
+}
