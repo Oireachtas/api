@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/37"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/37"/>
+          <FRBRdate date="2016-06-08" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="37"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/37/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/37/initiated/en"/>
+          <FRBRdate date="2016-06-08" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/37/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/37/initiated/en/xml"/>
+          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Thoirmeasc ar Pheitriliam i dTír Mór a Thaiscéaladh agus a Astarraingt, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Prohibition of the Exploration and Extraction of Onshore Petroleum Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Thoirmeasc ar Pheitriliam i dTír Mór a Thaiscéaladh agus a Astarraingt, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Prohibition of the Exploration and Extraction of Onshore Petroleum Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0">Section</tocItem>
+        <tocItem class="section" href="#toc_book_1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Prohibition</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Thoirmeasc ar Pheitriliam i dTír Mór a Thaiscéaladh agus a Astarraingt, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Prohibition of the Exploration and Extraction of Onshore Petroleum Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to provide for the prohibition of the exploration and extraction of petroleum <eol/>from shale rock, tight sands and coal seams in the Irish onshore and Ireland’s internal <eol/>waters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="sec_1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="sec_1__subsec_1">
+          <content>
+            <p>“coal seams” means a layer or stratum of mineral coal;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_2">
+          <content>
+            <p>“Irish onshore and Ireland’s internal waters” means all the land comprising the Republic <eol/>of Ireland and its onshore lakes, rivers and streams;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_3">
+          <content>
+            <p>“petroleum” includes any mineral oil or relative hydrocarbon and natural gas and other <eol/>liquid or gaseous hydrocarbons and their derivatives or constituent substances existing in <eol/>its natural condition in strata which can be extracted and refined to produce fuels <eol/>including petrol, paraffin, oil, diesel, liquid natural gas or natural gas;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_4">
+          <content>
+            <p>“shale rock” means a fine-grained sedimentary rock that forms from the compaction of <eol/>silt and clay-size mineral particles which readily splits into thin pieces along its <eol/>laminations and which contains organic material that sometimes breaks down to form <eol/>natural gas or oil;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_5">
+          <content>
+            <p>“tight sands” are low permeability sandstone reservoirs that produce primarily dry <eol/>natural gas. A tight gas reservoir is one that cannot be produced without assistance from <eol/>stimulation treatments to increase permeability to aid extraction.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_2">
+        <heading>Prohibition</heading>
+        <num>2.</num>
+        <content>
+          <p>Notwithstanding the provisions of any other Act of the Oireachtas, no Minister, Agency, <eol/>Planning Authority or Body acting on behalf of the State shall grant an authorisation and/<eol/>or grant of any consent, licence, permit, lease or undertaking for the exploration or <eol/>extraction of petroleum from shale rock, tight sands or coal seams in the Irish onshore <eol/>and Ireland’s internal waters.</p>
+        </content>
+      </section>
+      <section wId="sec_3">
+        <heading>Short title</heading>
+        <num>3.</num>
+        <intro>
+          <p>This Act may be cited as the Prohibition of the Exploration and Extraction of Onshore <eol/>Petroleum Act 2016.</p>
+        </intro>
+        <subsection wId="sec_3__subsec_6">
+          <content/>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

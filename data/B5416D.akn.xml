@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/54"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/54"/>
+          <FRBRdate date="2016-06-30" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="54"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/54/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/54/initiated/en"/>
+          <FRBRdate date="2016-06-30" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/54/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/54/initiated/en/xml"/>
+          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Ionadúchán <i>Au Pair</i>, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Au Pair Placement Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Ionadúchán Au Pair, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Au Pair Placement Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0">Section</tocItem>
+        <tocItem class="section" href="#toc_book_1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definitions</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Eligibility for persons to enter into an Au Pair Exchange Placement and terms and conditions of Placement Contract</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Establish an independent public authority for accreditation of Au Pair Agencies, control of Au Pair Agency activities and Ministerial Authority</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Procedures for handling of complaints and disputes arising during Au Pair Placement</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">Accredited Agencies and Registration of Au Pair Placement Contracts</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Ministerial Authority</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_7" level="1">
+          <inline name="tocNum">7.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Immigration Act 2004 (No. 1)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Ionadúchán Au Pair, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Au Pair Placement Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act for the purposes of the better protection of rights of young people on cultural <eol/>and education exchange programmes with no more than 30 hours light domestic help <eol/>per week in exchange for hospitality, lodging and pocket money, to be known as ‘Au <eol/>Pair Placements’; to set up a new Au Pair Accreditation Council tasked with the <eol/>protection of these rights and the oversight and registration of Au Pair Placements; to <eol/>give the relevant Minister powers to make regulations defining the rights and <eol/>responsibilities of those participating in Au Pair exchanges, accredited agencies and the <eol/>Au Pair Accreditation Council.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="sec_1">
+        <heading>Definitions</heading>
+        <num>1.</num>
+        <subsection wId="sec_1__subsec_1">
+          <num>(1)</num>
+          <intro>
+            <p>In this Act⁠—</p>
+            <p>an “Au Pair Stay” is a temporary live-in arrangement of less than 1 year of an <eol/>individual registered on an Au Pair Placement as assigned by <i>section</i> <i>2</i>;</p>
+            <p>“Au Pair” means a person who participates on an Au Pair exchange with an Agency, <eol/>stays with a host and performs light domestic duties in exchange for hospitality <eol/>lodging and pocket money;</p>
+            <p>“Au Pair Accreditation Council”, hereafter known as “the Council”, means the Au <eol/>Pair Agency accreditation body as assigned by <i>section</i> <i>5</i>;</p>
+            <p>“Au Pair Placement Agency”, hereafter known as an [the] Agency, is an agency <eol/>accredited with Au Pair Accreditation Council;</p>
+            <p>“Au Pair Placement” is defined as “a cultural, learning and educational exchange to <eol/>include no more than 30 hours per week or 7 hours per day light domestic duties in <eol/>exchange for hospitality, lodgings and pocket money”;</p>
+            <p>“Au Pair Placement Contract” means⁠—</p>
+          </intro>
+          <paragraph wId="sec_1__subsec_1__para_a">
+            <num>(a)</num>
+            <content>
+              <p>a contract whereby an Au Pair agrees with a Host family to do or perform <eol/>personally services as prescribed by an Agency,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_1__subsec_1__para_b">
+            <num>(b)</num>
+            <content>
+              <p>the contract must be in writing and registered with an accredited Agency as <eol/>assigned by <i>section</i> <i>5</i>;</p>
+              <p>“Host” means a person or persons who provide hospitality, lodgings and pocket <eol/>money to an Au Pair engaging on an Au Pair Exchange;</p>
+              <p>“household duties/light housework” have their meanings assigned by <i>section</i> <i>2</i> <i>(2)</i>;</p>
+              <p>“Minister” means the Minister for Children and Youth Affairs;</p>
+              <p>“prescribed” means prescribed by regulations made under this Act by the Minister.</p>
+            </content>
+          </paragraph>
+          <wrapUp>
+            <p>“Host” means a person or persons who provide hospitality, lodgings and pocket <eol/>money to an Au Pair engaging on an Au Pair Exchange;</p>
+            <p>“household duties/light housework” have their meanings assigned by <i>section</i> <i>2</i> <i>(2)</i>;</p>
+            <p>“Minister” means the Minister for Children and Youth Affairs;</p>
+            <p>“prescribed” means prescribed by regulations made under this Act by the Minister.</p>
+          </wrapUp>
+        </subsection>
+        <subsection wId="sec_1__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>A reference in this Act to an Au Pair, a Host or an Agency shall be construed as a <eol/>reference to a person on an Au Pair Placement by that Host or to whom the Host is <eol/>liable to pay pocket money, provide lodgings and other contractual obligations as <eol/>assigned under <i>section</i> <i>2</i>.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_2">
+        <heading>Eligibility for persons to enter into an Au Pair Exchange Placement and terms and conditions of Placement Contract</heading>
+        <num>2.</num>
+        <subsection wId="sec_2__subsec_1">
+          <num>(1)</num>
+          <intro>
+            <p>To enter into an Au Pair Placement, as an Au Pair, an eligible person, must be:</p>
+          </intro>
+          <paragraph wId="sec_2__subsec_1__para_a">
+            <num>(a)</num>
+            <content>
+              <p>a citizen of the EU; or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_1__para_b">
+            <num>(b)</num>
+            <content>
+              <p>be a non-citizen of the EU ordinarily resident in the Republic of Ireland with a <eol/>student entry visa as prescribed by Ministerial Order under the Immigration Act 2004.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="sec_2__subsec_2">
+          <num>(2)</num>
+          <intro>
+            <p>An Au Pair Placement must:</p>
+          </intro>
+          <paragraph wId="sec_2__subsec_2__para_a">
+            <num>(a)</num>
+            <content>
+              <p>be of no more than one year duration, after which time the Au Pair Placement <eol/>Contract is subject to termination or renewed registration with the Au Pair <eol/>Agency;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_2__para_b">
+            <num>(b)</num>
+            <content>
+              <p>have cultural, educational and learning content to the exchange as assigned by an <eol/>accredited agency in accordance with <i>section </i> <i>3</i> of this Act;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_2__para_c">
+            <num>(c)</num>
+            <content>
+              <p>involve no more than 30 hours per week, or 7 hours per day, light housework <eol/>during the exchange, including childminding, domestic chores and other <eol/>household duties as specified by an agency, to be based on Council guidelines;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_2__para_d">
+            <num>(d)</num>
+            <content>
+              <p>include a written agreement known as an Au Pair Placement Contract with a <eol/>Host, which prescribes the terms and conditions of the exchange which shall <eol/>include substantive provisions as assigned by <i>section </i> <i>2</i> <i>(3)</i> of this Act;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_2__para_e">
+            <num>(e)</num>
+            <content>
+              <p>the Au Pair Placement Contract must be registered with an accredited agency to <eol/>be considered an Au Pair Placement in accordance with this Act and both the <eol/>Host and the Au Pair must agree to adhere to contractual guidelines as prescribed <eol/>by an accredited agency as assigned in <i>section</i> <i>3</i>;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_2__para_f">
+            <num>(f)</num>
+            <content>
+              <p>the placement must be a live-in arrangement, whereby the Au Pair is ordinarily <eol/>resident in the primary home of the Host.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="sec_2__subsec_3">
+          <num>(3)</num>
+          <intro>
+            <p>An Au Pair Placement Contract shall:</p>
+          </intro>
+          <paragraph wId="sec_2__subsec_3__para_a">
+            <num>(a)</num>
+            <content>
+              <p>include a section specifying the duties of the host with regards the Au Pair based <eol/>on criteria established by an agency in accordance with this Act;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_2__subsec_3__para_b">
+            <num>(b)</num>
+            <content>
+              <p>include a section specifying the obligation on the host to provide board and <eol/>lodging for the Au Pair and that the Host shall place at disposal of the Au Pair a <eop/>separate suitable room/a suitable shared room.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="sec_3">
+        <heading>Establish an independent public authority for accreditation of Au Pair Agencies, control of Au Pair Agency activities and Ministerial Authority</heading>
+        <num>3.</num>
+        <subsection wId="sec_3__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The Minister may by order appoint a day to be the establishment day for the purposes <eol/>of this Act.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>On the establishment day there shall stand established a body to be known as the Au <eol/>Pair Accreditation Council, and in this Act referred to as “the Council”, to perform the <eol/>functions assigned to it by this Act.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>The Council shall have all such powers as are necessary or expedient for the <eol/>performance of its functions, including the power to mandate that all Au Pair <eol/>Placement Agencies seek accreditation from the Council and the power to require that <eol/>all Au Pair Placements are written contracts registered with an accredited Au Pair <eol/>Agency.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_4">
+          <num>(4)</num>
+          <paragraph wId="sec_3__subsec_4__para_a">
+            <num>(a)</num>
+            <content>
+              <p>The Council shall have the power to prescribe the terms and conditions of Au <eol/>Pair Placements, subject to the necessary prescriptions in <i>section </i> <i>2</i> of this Act <eol/>and of Regulations so prescribed by the Minister arising from <i>section </i> <i>3</i> <i>(5)</i> of this <eol/>Act.</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_3__subsec_4__para_b">
+            <num>(b)</num>
+            <content>
+              <p>The Council shall, with the consent of the Minister, prescribe the Au Pair <eol/>Placement Contract conditions including the educational, cultural and learning <eol/>content of the Au Pair Placement that must be adhered to.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="sec_3__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>The Minister may, if he or she so thinks fit, by order confer on the Council such <eol/>additional functions connected with the functions for the time being of the Council or <eol/>the services or activities that the Council is authorised for the time being to provide or <eol/>carry on as he or she considers appropriate.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_4">
+        <heading>Procedures for handling of complaints and disputes arising during Au Pair Placement</heading>
+        <num>4.</num>
+        <subsection wId="sec_4__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The Council shall establish a process for the hearing of disputes that may arise <eol/>between an Au Pair and a Host or between a Host and an Agency or between an Au <eol/>Pair and an Agency.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The Council may establish a resolution process between an Au Pair and a Host via an <eol/>Agency or another third party body, subject to the condition that the Au Pair can <eol/>appeal the recommendations and/or decision of the Agency or third party body to the <eol/>Council.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Without prejudice to any other action that might be brought against a host or an <eol/>accredited Agency under this Act or otherwise, but subject to <i>section</i> <i>1</i>, if an Au Pair <eol/>and his or her Host or Agency cannot agree on the appropriate entitlement of the Au <eol/>Pair to pocket money or in accordance with this Act resulting in an alleged under-<eol/>payment of pocket money to the Au Pair, the Au Pair or the Host or the Agency, or the <eol/>representative of either of them with their respective consent, may, by notice in <eol/>writing containing such particulars, if any, as may be prescribed, refer the dispute to <eol/>the Council for the Council’s decision.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_5">
+        <heading>Accredited Agencies and Registration of Au Pair Placement Contracts</heading>
+        <num>5.</num>
+        <subsection wId="sec_5__subsec_1">
+          <num>(1)</num>
+          <intro>
+            <p>The Council, with the consent of the Minister⁠—</p>
+          </intro>
+          <paragraph wId="sec_5__subsec_1__para_a">
+            <num>(a)</num>
+            <content>
+              <p>shall establish a system of accreditation for Agencies, according to educational, <eol/>training and cultural programme standards specifying the relationship between <eol/>the Au Pair, the Host and the Agency, which enables these bodies to register Au <eol/>Pair Placement Contracts,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_5__subsec_1__para_b">
+            <num>(b)</num>
+            <content>
+              <p>shall establish standards by which accredited agencies must comply, the breach of <eol/>which will result in an agency losing its accreditation,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_5__subsec_1__para_c">
+            <num>(c)</num>
+            <content>
+              <p>shall establish a mechanism for the ongoing control and monitoring of accredited <eol/>agencies based on transparent and ethical codes of conduct, mechanisms of <eol/>control and the specific objective of protecting the Au Pair,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_5__subsec_1__para_d">
+            <num>(d)</num>
+            <content>
+              <p>may decide, subject to a breach or breaches of standards as established by the <eol/>Council standards as assigned by <i>subsection</i> <i>(1)</i> <i>(b)</i> in this section, withdraw <eol/>accreditation from an Agency. An Agency which has been previously accredited may appeal the withdrawal of <eol/>their accreditation to the Secretary General of the Department.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="sec_5__subsec_2">
+          <num>(2)</num>
+          <intro>
+            <p>The Agency, so accredited, shall⁠—</p>
+          </intro>
+          <paragraph wId="sec_5__subsec_2__para_a">
+            <num>(a)</num>
+            <content>
+              <p>ensure that all Au Pair Placement Contracts meet the terms of this Act,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_5__subsec_2__para_b">
+            <num>(b)</num>
+            <content>
+              <p>maintain an up-to-date register of all Au Pair Placement Contracts, the content of <eol/>which shall be established by the Council,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_5__subsec_2__para_c">
+            <num>(c)</num>
+            <content>
+              <p>maintain a register of decisions, following the investigation of complaints of Au <eol/>Pairs by Hosts and Hosts by Au Pairs. The information on this register is to be <eol/>made available to potential Au Pairs, Hosts as well other Agencies. This Register <eol/>must also be made available to the Council upon request.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="sec_6">
+        <heading>Ministerial Authority</heading>
+        <num>6.</num>
+        <subsection wId="sec_6__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>The Minister may make regulations prescribing such matters as may be necessary or <eol/>expedient under this Act and may make such other regulations as are necessary or <eol/>expedient for the purpose of giving effect to this Act.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_6__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Regulations made under this section may contain such incidental, supplementary and <eol/>consequential provisions as appear to the Minister to be necessary.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_7">
+        <heading>Short title and commencement</heading>
+        <num>7.</num>
+        <subsection wId="sec_7__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Au Pair Placement Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_7__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day or days as the Minister may appoint <eol/>by order or orders either generally or with reference to any particular purpose or <eol/>provision and different days may be so appointed for different purposes or provisions.</p>
+            <p/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

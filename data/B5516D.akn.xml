@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/55"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/55"/>
+          <FRBRdate date="2016-06-30" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="55"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/55/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/55/initiated/en"/>
+          <FRBRdate date="2016-06-30" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/55/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/55/initiated/en/xml"/>
+          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">Bille na dTithe (Tithíocht Údaráis Áitiúil a Dhíol), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Housing (Sale of Local Authority Housing) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE NA dTITHE (TITHÍOCHT ÚDARÁIS ÁITIÚIL A DHÍOL), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Housing (Sale of Local Authority Housing) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0">Section</tocItem>
+        <tocItem class="section" href="#toc_book_1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Sale of local authority houses</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Regulations</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Housing (Miscellaneous Provisions) Act 2014 (No. 21)</p>
+        <p class="act-referred-to">Planning and Development Act 2000 (No. 30)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE NA dTITHE (TITHÍOCHT ÚDARÁIS ÁITIÚIL A DHÍOL), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Housing (Sale of Local Authority Housing) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to enable a housing authority to sell a dwelling acquired by a housing authority <eol/>under Part V of the Planning and Development Act 2000 to a tenant of such a dwelling.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="sec_1">
+        <heading>Sale of local authority houses</heading>
+        <num>1.</num>
+        <content>
+          <p>A housing authority may, under Part 3 of the Housing (Miscellaneous Provisions) Act 2014, sell a house that has been transferred to such housing authority in accordance with <eol/>an agreement under section 96 of the Planning and Development Act 2000, including a <eol/>house provided on land or on a site so transferred, where the transfer is made for the <eol/>purpose of providing housing referred to in section 94(4)(a)(i) of the said and the house <eol/>is on the land the subject of the planning application to which the agreement relates, to a <eol/>tenant of such house.</p>
+        </content>
+      </section>
+      <section wId="sec_2">
+        <heading>Regulations</heading>
+        <num>2.</num>
+        <content>
+          <p>The Minister for Housing, Planning and Local Government may make regulations <eol/>prescribing any matter referred to in this Act for the purpose of enabling its provisions to <eol/>have full effect.</p>
+        </content>
+      </section>
+      <section wId="sec_3">
+        <heading>Short title and commencement</heading>
+        <num>3.</num>
+        <subsection wId="sec_3__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Housing (Sale of Local Authority Housing) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day as may be fixed by order of the <eol/>Minister for Housing, Planning and Local Government.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

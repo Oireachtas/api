@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/39"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/39"/>
+          <FRBRdate date="2016-06-14" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="39"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/39/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/39/initiated/en"/>
+          <FRBRdate date="2016-06-14" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/39/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/39/initiated/en/xml"/>
+          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Chonarthaí Uaireanta Bandáilte, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Banded Hours Contract Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHONARTHAÍ UAIREANTA BANDÁILTE, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Banded Hours Contract Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0">Section</tocItem>
+        <tocItem class="section" href="#toc_book_1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Regulations</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Provision of banded hour contracts</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Complaints by a worker</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">Obligation to provide information of overall availability of working hours</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+        <tocItem class="schedule" href="toc_book_7" level="1">Schedule</tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Industrial Relations Act 1946 (No. 26)</p>
+        <p class="act-referred-to">Industrial Relations Act 1990 (No. 19)</p>
+        <p class="act-referred-to">Terms of Employment (Information) Act 1994 (No. 5)</p>
+        <p class="act-referred-to">Workplace Relations Act 2015 (No. 16)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHONARTHAÍ UAIREANTA BANDÁILTE, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Banded Hours Contract Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to provide for banded hour contracts, the right for a worker to request increased <eol/>hours and a corresponding obligation on an employer to consider such a request, to <eol/>permit refusal only on objectively justified grounds and an obligation on employers to <eol/>provide information to workers on the overall availability of working hours in the <eol/>employment.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="sec_1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="sec_1__subsec_1">
+          <content>
+            <p>“adjudication officer” means a person appointed under section 40 of the Workplace <eol/>Relations Act 2015; </p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_2">
+          <content>
+            <p>“Director General” has the meaning assigned to it by section 12 of the Workplace <eol/>Relations Act 2015;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_3">
+          <content>
+            <p>“Minister” means the Minister for Jobs, Enterprise and Innovation;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_4">
+          <content>
+            <p>“trade union” has the same meaning as it has in the Industrial Relations Act 1946;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_5">
+          <content>
+            <p>“worker” has the same meaning as it has in Part III of the Industrial Relations Act 1990;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_6">
+          <content>
+            <p>“employer” has the same meaning as it has in the Terms of Employment (Information) <eol/>Act 1994.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_2">
+        <heading>Regulations</heading>
+        <num>2.</num>
+        <content>
+          <p>The Minister may by regulations, provide for any matter referred to in this Act as <eol/>prescribed or to be prescribed.</p>
+        </content>
+      </section>
+      <section wId="sec_3">
+        <heading>Provision of banded hour contracts</heading>
+        <num>3.</num>
+        <subsection wId="sec_3__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A worker, or his or her trade union or a representative acting on his or her behalf, <eol/>shall be entitled after a period of no less than 6 months of continuous employment <eol/>with his or her employer, to request in writing of his or her employer to be moved to <eol/>an increased weekly band of hours, as per the banding of hours set out in the <i>Schedule</i><eop/>where the band requested exceeds the hours average worked weekly in the previous <eol/>six month period.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Where a worker or his or her trade union or a representative makes a request pursuant <eol/>to <i>subsection</i> <i>(1)</i> there will be an obligation on the employer to consider the request <eol/>and to provide a reasoned decision in response to the request in writing not later than <eol/>21 days from receipt of the request.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Where an employer grants a request pursuant to <i>subsection</i> <i>(1)</i> the worker shall be <eol/>informed in writing as soon as practicable by the employer, and shall henceforth be <eol/>offered hours of work by that employer of at least the minimum number of hours in <eol/>that band.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_4">
+          <num>(4)</num>
+          <intro>
+            <p>The employer may refuse a request made pursuant to <i>subsection</i> <i>(1)</i> if he or she can <eol/>demonstrate that the employer’s business is experiencing severe financial difficulties <eol/>such that there is a substantial risk that⁠—</p>
+          </intro>
+          <paragraph wId="sec_3__subsec_4__para_a">
+            <num>(a)</num>
+            <content>
+              <p>the workers concerned would be laid off or made redundant;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_3__subsec_4__para_b">
+            <num>(b)</num>
+            <content>
+              <p>the sustainability of the employer’s business would be significantly adversely <eol/>affected; or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="sec_3__subsec_4__para_c">
+            <num>(c)</num>
+            <content>
+              <p>that the employer’s business could not sustain the giving of an increased level <eol/>of banded hours to the worker.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="sec_4">
+        <heading>Complaints by a worker</heading>
+        <num>4.</num>
+        <subsection wId="sec_4__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>A worker may present a complaint in writing to the Director General of the Workplace <eol/>Relations Commission, such complaint to be heard by an adjudication officer, that the <eol/>worker’s employer has contravened <i>section</i> <i>3</i> in relation to him or her and, if in doing <eol/>so, the adjudication officer shall give the parties an opportunity to be heard and to <eol/>present any evidence relevant to the complaint, and shall give a decision in writing in <eol/>relation to it and shall communicate the decision to the parties.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>Where an adjudication officer decides, in respect of a complaint under this section in <eol/>relation to a decision made by an employer to refuse to move a worker to a higher <eol/>number of banded hours, that the employer has failed to give a properly reasoned <eol/>decision as required by <i>section</i> <i>2</i>, or that the complaint is well founded with regard to <eol/>the adequacy of the reasons given, the adjudication officer shall order the employer to <eol/>increase the worker’s hours to the next band as set out in the <i>Schedule</i>.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_3">
+          <num>(3)</num>
+          <content>
+            <p>Subject to <i>subsection</i> <i>(4)</i>, an adjudication officer shall not entertain a complaint under <eol/>this section unless such complaint is submitted to the Director General within the <eol/>period of 6 months beginning on the date of the contravention to which the complaint <eol/>relates.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_4">
+          <num>(4)</num>
+          <content>
+            <p>An adjudication officer may entertain a complaint to which this section applies if <eol/>submitted to the Director General after the expiration of the period referred to in <eol/><i>subsection</i> <i>(3)</i>, but within 12 months beginning on the date of the contravention to <eol/>which the complaint relates, only if he or she is satisfied that the failure to present the <eol/>complaint or refer the dispute within the period referred to in <i>subsection</i> <i>(3)</i> was due <eol/>to reasonable cause.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_5">
+          <num>(5)</num>
+          <content>
+            <p>A complaint to which this section applies shall be presented to the Director General <eop/>by giving notice thereof in writing to the Director General and the notice shall contain <eol/>such particulars and be in such form as is specified in the Workplace Relations Act 2015 and as may be specified from time to time by the Minister.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_4__subsec_6">
+          <num>(6)</num>
+          <content>
+            <p>Any party to proceedings under this section may appeal a decision of an adjudication <eol/>officer given in those proceedings to the Labour Court as provided for by section 44 <eol/>of the Workplace Relations Act 2015.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_5">
+        <heading>Obligation to provide information of overall availability of working hours</heading>
+        <num>5.</num>
+        <subsection wId="sec_5__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>Every employer shall display on a weekly or monthly basis in a prominent position or <eol/>positions in or at the place of work, being a prominent position to which workers have <eol/>regular access and in such a position that it may be read easily by workers, a notice or <eol/>notices in a form and manner, appropriate language and in English and Irish, and in <eol/>other languages where required, such that the notice is reasonably likely to be <eol/>understood by the workers concerned.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_5__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The notice shall contain the number of working hours being allocated to workers in <eol/>the forthcoming week or month and which band those hours fall under per week.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_6">
+        <heading>Short title and commencement</heading>
+        <num>6.</num>
+        <subsection wId="sec_6__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Banded Hours Contract Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_6__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day or days as the Minister may appoint <eol/>by order or orders either generally or with reference to any particular purpose or <eol/>provision and different days may be so appointed for different purposes or different <eol/>provisions.</p>
+          </content>
+        </subsection>
+      </section>
+      <hcontainer name="schedule" wId="sched_1">
+        <num>Schedule</num>
+        <intro>
+          <p>Section 4</p>
+        </intro>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band A 11.5 hours or more, but less than 15 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band B 15 hours or more, but less than 20 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band C 20 hours or more, but less than 25 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band D 25 hours or more, but less than 30 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band E 30 hours or more, but less than 35 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band F 35 hours or more, but less than 37 hours;</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content>
+            <p>Band G 37 hours or more.</p>
+          </content>
+        </paragraph>
+        <paragraph wId="sched_1__para_1">
+          <content/>
+        </paragraph>
+      </hcontainer>
+    </body>
+  </bill>
+</akomaNtoso>

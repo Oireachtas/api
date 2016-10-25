@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/71"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/71"/>
+          <FRBRdate date="2016-07-20" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="71"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/71/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/71/initiated/en"/>
+          <FRBRdate date="2016-07-20" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/71/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/71/initiated/en/xml"/>
+          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Pleanáil agus Forbairt (Leasú) (Uimh. 2), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Planning and Development (Amendment) (No. 2) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM PLEANÁIL AGUS FORBAIRT (LEASÚ) (UIMH. 2), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Planning and Development (Amendment) (No. 2) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0">Section</tocItem>
+        <tocItem class="section" href="#toc_book_1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definition</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 28 (Ministerial guidelines) of Principal Act</inline>
+        </tocItem>
+        <tocItem class="section" href="#toc_book_3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title, construction and collective citation</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Planning and Development (Amendment) Act 2015 (No. 63)</p>
+        <p class="act-referred-to">Planning and Development Act 2000 (No. 30)</p>
+        <p class="act-referred-to">Planning and Development Acts 2000 to 2015</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM PLEANÁIL AGUS FORBAIRT (LEASÚ) (UIMH. 2), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Planning and Development (Amendment) (No. 2) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Planning and Development Act 2000 by the deletion of section <eol/>28(1C), and to provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="sec_1">
+        <heading>Definition</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="sec_1__subsec_1">
+          <content>
+            <p>“Act of 2015” means the Planning and Development (Amendment) Act 2015;</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_1__subsec_2">
+          <content>
+            <p>“Principal Act” means the Planning and Development Act 2000.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="sec_2">
+        <heading>Amendment of section 28 (Ministerial guidelines) of Principal Act</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 28 of the Principal Act (as amended by section 2 of the Act of 2015) is amended <eol/>by the deletion of subsection (1C).</p>
+        </content>
+      </section>
+      <section wId="sec_3">
+        <heading>Short title, construction and collective citation</heading>
+        <num>3.</num>
+        <subsection wId="sec_3__subsec_1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Planning and Development (Amendment) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="sec_3__subsec_2">
+          <num>(2)</num>
+          <content>
+            <p>The Planning and Development Acts 2000 to 2015 and this Act may be cited together <eol/>as the Planning and Development Acts 2000 to 2016.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>
