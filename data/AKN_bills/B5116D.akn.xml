@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/51"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/51"/>
+          <FRBRdate date="2016-06-29" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="51"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/51/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/51/initiated/en"/>
+          <FRBRdate date="2016-06-29" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/51/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/51/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">Bille an Gharda Síochána (Oifigí Sinsearacha a Cheapadh), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Appointment of Senior Officers) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN GHARDA SÍOCHÁNA (OIFIGÍ SINSEARACHA A CHEAPADH), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Appointment of Senior Officers) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definitions</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Appointment of Garda Commissioner</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Appointment of Deputy Garda Commissioners</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Short title, collective citation and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Garda Síochána Act 2005 (No. 20)</p>
+        <p class="act-referred-to">Garda Síochána Acts 2005 to 2015</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN GHARDA SÍOCHÁNA (OIFIGÍ SINSEARACHA A CHEAPADH), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Appointment of Senior Officers) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Garda Síochána Acts 2005 to 2015 to provide for the appointment <eol/>of persons to the ranks of Garda Commissioner and Deputy Garda Commissioner by An <eol/>tÚdarás Póilíneachta.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Definitions</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“Act of 2005” means the Garda Síochána Act 2005;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-2">
+          <content>
+            <p>“Authority” means An tÚdarás Póilíneachta/the Policing Authority;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-3">
+          <content>
+            <p>“Minister” means the Minister for Justice and Equality;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-4">
+          <content>
+            <p>“Service” means the Public Appointments Service.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Appointment of Garda Commissioner</heading>
+        <num>2.</num>
+        <subsection wId="section-2-1">
+          <num>(1)</num>
+          <content>
+            <p>The Act of 2005 is amended by the substitution of the following section for section 9:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“9. (1)</num>
+                    <content>
+                      <p>Subject to this section, the appointment of a person to be the <eol/>Commissioner of the Garda Síochána shall be made by the Authority.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(2)</num>
+                    <content>
+                      <p>The Authority shall not appoint a person under subsection (1) unless it <eol/>has, following consultation with the Government, invited the Service <eol/>to undertake a selection competition for that purpose and the Service <eol/>has undertaken such a competition.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(3)</num>
+                    <content>
+                      <p>The Authority shall agree with the Service the requirements relating to <eol/>knowledge, ability and suitability for appointment as the Garda <eol/>Commissioner for the purposes of a selection competition under this <eol/>section.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(4)</num>
+                    <content>
+                      <p>A person shall not be appointed by the Authority under subsection (1) <eol/>unless it is satisfied that the person is suitable for appointment as the <eol/>Garda Commissioner by reason of his or her possessing such relevant <eol/>experience, qualifications, training or expertise as is appropriate <eol/>having regard, in particular, to the functions assigned to the Garda <eop/>Commissioner by or under this Act.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(5)</num>
+                    <content>
+                      <p>The Service shall provide the Authority with particulars of the <eol/>experience, qualifications, training and expertise of a person whom it <eol/>recommends for appointment by the Authority under subsection (1) for <eol/>appointment as the Garda Commissioner.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(6)</num>
+                    <content>
+                      <p>A person who holds the office of Garda Commissioner may resign <eol/>from office by notice in writing addressed to the Authority and the <eol/>resignation shall take effect on the date the Authority receives the <eol/>notice or, if a date is specified in the notice and the Authority agrees to <eol/>that date, on that date.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(7)</num>
+                    <content>
+                      <p>The Authority shall, as soon as may be, inform the Minister of the <eol/>resignation of a person under subsection (6).”.</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </subsection>
+        <subsection wId="section-2-2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to section 11 of the Principal Act, the person who, on the commencement of <eol/>this section, holds the office of Garda Commissioner continues in office in accordance <eol/>with the terms and conditions of his or her appointment.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-3">
+        <heading>Appointment of Deputy Garda Commissioners</heading>
+        <num>3.</num>
+        <subsection wId="section-3-1">
+          <num>(1)</num>
+          <content>
+            <p>The Act of 2005 is amended by the substitution of the following section for section <eol/>10:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“10. (1)</num>
+                    <content>
+                      <p>The Government may determine the number of persons who may be <eol/>appointed to the rank of Deputy Garda Commissioner and, subject to <eol/>this section, the appointment of a person to that rank shall be made by <eol/>the Authority.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(2)</num>
+                    <content>
+                      <p>The Authority shall not appoint a person under subsection (1) unless it <eol/>has, following consultation with the Government, invited the Service <eol/>to undertake a selection competition for that purpose and the Service <eol/>has undertaken such a competition.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(3)</num>
+                    <content>
+                      <p>The Authority shall agree with the Service the requirements relating to <eol/>knowledge, ability and suitability for appointment to the rank of <eol/>Deputy Garda Commissioner for the purposes of a selection <eol/>competition under this section.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(4)</num>
+                    <content>
+                      <p>A person shall not be appointed by the Authority under subsection (1) <eol/>unless it is satisfied that the person is suitable for appointment to the <eol/>rank of Deputy Garda Commissioner by reason of his or her <eol/>possessing such relevant experience, qualifications, training or <eol/>expertise as is appropriate having regard, in particular, to the functions <eol/>that may be assigned to a member of that rank.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(5)</num>
+                    <content>
+                      <p>The Service shall provide the Authority with particulars of the <eol/>experience, qualifications, training and expertise of a person whom it <eol/>recommends for appointment by the Authority under subsection (1) for <eol/>appointment to the rank of Deputy Garda Commissioner.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(6)</num>
+                    <content>
+                      <p>A person who holds the office of Deputy Garda Commissioner may <eol/>resign from office by notice in writing addressed to the Authority and <eop/>the resignation shall take effect on the date the Authority receives the <eol/>notice or, if a date is specified in the notice and the Authority agrees to <eol/>that date, on that date.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(7)</num>
+                    <content>
+                      <p>The Authority shall, as soon as may be, inform the Minister of the <eol/>resignation of a person under subsection (6).”.</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to section 11 of the Principal Act, the person who, on the commencement of <eol/>this section, holds the office of Deputy Garda Commissioner continues in office in <eol/>accordance with the terms and conditions of his or her appointment.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-4">
+        <heading>Short title, collective citation and commencement</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Garda Síochána (Appointment of Senior Officers) Act <eol/>2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>The Garda Síochána Acts 2005 to 2015 and this Act may be cited together as the <eol/>Garda Síochána Acts 2005 to 2016 and shall be construed together as one Act.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-3">
+          <num>(3)</num>
+          <content>
+            <p>This Act shall come into operation on such day as the Minister may by order appoint, <eol/>not being longer than 90 days from its promulgation by the President.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/40"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/40"/>
+          <FRBRdate date="2016-06-15" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="40"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/40/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/40/initiated/en"/>
+          <FRBRdate date="2016-06-15" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/40/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/40/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">Bille na gCuideachtaí (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Companies (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE NA gCUIDEACHTAÍ (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Companies (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definitions</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment to section 224 of Principal Act</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Companies Act 2014 (No. 38)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE NA gCUIDEACHTAÍ (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Companies (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Companies Act 2014 to hold a company officer or officers acting <eol/>on behalf of a corporate body personally liable where a breach of employment law is <eol/>committed.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Definitions</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act “Principal Act” means the Companies Act 2014.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment to section 224 of Principal Act</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 224 of the Principal Act is amended by the addition of a new subsection (3)⁠—</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(3)</num>
+                  <content>
+                    <p>Where a breach of employment law is committed by a body corporate <eol/>or by a company officer or officers acting on behalf of a body <eol/>corporate and is determined to have been so committed, with the <eol/>consent, connivance or approval of, or to have been attributable to any <eol/>neglect on the part of, a person or persons who, when the breach was <eol/>committed was a company officer or officers of the body corporate, <eol/>then that person or persons shall be personally liable for the breach <eol/>committed.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Short title</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as the Companies (Amendment) Act 2016.</p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

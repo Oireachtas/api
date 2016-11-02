@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/35"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/35"/>
+          <FRBRdate date="2016-06-01" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="35"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/35/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/35/initiated/en"/>
+          <FRBRdate date="2016-06-01" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/35/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/35/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Chinnteacht Cíosa, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Rent Certainty Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHINNTEACHT CÍOSA, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Rent Certainty Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 19 of Act of 2004</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Insertion of section 19A in Act of 2004</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Residential Tenancies Act 2004 (No. 27)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHINNTEACHT CÍOSA, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Rent Certainty Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Residential Tenancies Act 2004 to provide for rent certainty in the <eol/>private rental market by linking changes in rent arising from a rent review to the <eol/>Consumer Price Index.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act, “Act of 2004” means the Residential Tenancies Act 2004.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 19 of Act of 2004</heading>
+        <num>2.</num>
+        <content>
+          <p>Subsection 19(2)(b) of the Act of 2004 is hereby repealed.</p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Insertion of section 19A in Act of 2004</heading>
+        <num>3.</num>
+        <content>
+          <p>The Act of 2004 is amended by the insertion, after section 19 of the following section:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <num>“19A.</num>
+                  <content>
+                    <p>Any subsequent setting of the rent under the tenancy by way of a review <eol/>of that rent shall not be greater or less than the level of inflation as <eol/>indicated in the Consumer Price Index as calculated by the Central <eol/>Statistics Office at the time of the rent review.”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-4">
+        <heading>Short title and commencement</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Rent Certainty Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day as the Minister for Housing, Planning <eol/>and Local Government may by order appoint, not being longer than 90 days from its <eol/>promulgation by the President.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

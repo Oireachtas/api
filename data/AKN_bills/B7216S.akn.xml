@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/72"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/72"/>
+          <FRBRdate date="2016-07-12" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="72"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/72/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/72/initiated/en"/>
+          <FRBRdate date="2016-07-12" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/72/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/72/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Cróinéirí (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Coroners (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE CRÓINÉIRÍ (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Coroners (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Insertion of new section 29A</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Coroners Act 1962 (No. 9)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE CRÓINÉIRÍ (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Coroners (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Act of 1962, to provide for a verdict of Iatrogenic Suicide and <eol/>related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act “the Act of 1962” means the Coroners Act 1962.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Insertion of new section 29A</heading>
+        <num>2.</num>
+        <content>
+          <p>The Act of 1962 is amended by inserting the following section after section 29:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“29A.(1)</num>
+                  <content>
+                    <p>A coroner or, as the case may be, a jury in accordance with Part 4 of <eol/>this Act, shall return a verdict of iatrogenic suicide where, in <eol/>accordance with the provisions of this Act, such a verdict is deemed to <eol/>be accurate.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <content>
+                    <p>For the purposes of this section, ‘iatrogenic suicide’ means the ending <eol/>of one’s own life where the effect of medical treatment undertaken by <eol/>the deceased, including any prescribed medication, is the primary <eol/>cause of such an action.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <content>
+                    <p>Nothing in this section shall contravene the provision in section 30 of <eol/>this Act.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Short title</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as Coroners (Amendment) Act 2016.</p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

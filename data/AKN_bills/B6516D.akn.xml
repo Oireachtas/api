@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/65"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/65"/>
+          <FRBRdate date="2016-07-13" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="65"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/65/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/65/initiated/en"/>
+          <FRBRdate date="2016-07-13" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/65/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/65/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille fán Scéim um Thacaíocht Tithe Banaltrais (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Nursing Home Support Scheme (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE FÁN SCÉIM UM THACAÍOCHT TITHE BANALTRAIS (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Nursing Home Support Scheme (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Provision of home care services</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Short title, collective citation and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Nursing Homes Support Scheme Act 2009 (No. 15)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE FÁN SCÉIM UM THACAÍOCHT TITHE BANALTRAIS (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Nursing Home Support Scheme (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to allow for the provision of home care services to a person who qualifies for <eol/>and is being offered long-term residential care in circumstances where suitable home <eol/>care services can be devised for that person and such services are less costly on the State <eol/>than the long term residential care being offered and to provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Provision of home care services</heading>
+        <num>1.</num>
+        <content>
+          <p>Section 14 of the Nursing Homes Support Scheme Act 2009 is amended by the insertion <eol/>of three new subsections (4), (5) and (6) as follows⁠—</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(4)</num>
+                  <intro>
+                    <p>Where a person is offered State support under subsection (1), such <eol/>person shall, as an alternative to that support, be entitled to request and <eol/>be offered home care services if⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>the person can be cared for safely at home, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>such home care services are less costly than the proposed ‘long-<eol/>term residential care service’.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(5)</num>
+                  <content>
+                    <p>Home care services provided under subsection (4) shall be provided <eol/>using State support from funds voted by the Oireachtas for the <eol/>purposes of this Act.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(6)</num>
+                  <intro>
+                    <p>The Minister shall draft regulations to provide, inter alia,⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>information on how many people, annually, have applied for the <eol/>‘Fair Deal Scheme’,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>information on how many people, annually, have been offered <eol/>home care services as an alternative to the ‘Fair Deal Scheme’, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>for related matters.”.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Short title, collective citation and commencement</heading>
+        <num>2.</num>
+        <subsection wId="section-2-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Nursing Home Support Scheme (Amendment) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-2-2">
+          <num>(2)</num>
+          <content>
+            <p>The Nursing Homes Support Scheme Act 2009 and this Act may be cited together as <eol/>the Nursing Home Support Scheme Acts 2000 to 2016 and shall be read together as <eop/>one.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-2-3">
+          <num>(3)</num>
+          <content>
+            <p>This Act shall come into operation on such day or days as may be fixed by order or <eol/>orders of the Minister.</p>
+            <p/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

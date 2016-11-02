@@ -21,7 +21,7 @@
         <FRBRManifestation>
           <FRBRthis value="/ie/oireachtas/bill/2016/37/initiated/en/xml"/>
           <FRBRuri value="/ie/oireachtas/bill/2016/37/initiated/en/xml"/>
-          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
           <FRBRauthor href=""/>
           <FRBRformat value="application/akn+xml"/>
         </FRBRManifestation>
@@ -58,16 +58,16 @@
       <block name="horizontal-rule"/>
       <toc>
         <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
-        <tocItem class="heading" href="" level="0">Section</tocItem>
-        <tocItem class="section" href="#toc_book_1" level="1">
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
           <inline name="tocNum">1.</inline>
           <inline name="tocHeading">Interpretation</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_2" level="1">
+        <tocItem class="section" href="#section-2" level="1">
           <inline name="tocNum">2.</inline>
           <inline name="tocHeading">Prohibition</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_3" level="1">
+        <tocItem class="section" href="#section-3" level="1">
           <inline name="tocNum">3.</inline>
           <inline name="tocHeading">Short title</inline>
         </tocItem>
@@ -99,52 +99,52 @@
       </formula>
     </preamble>
     <body>
-      <section wId="sec_1">
+      <section wId="section-1">
         <heading>Interpretation</heading>
         <num>1.</num>
         <intro>
           <p>In this Act⁠—</p>
         </intro>
-        <subsection wId="sec_1__subsec_1">
+        <subsection wId="section-1-1">
           <content>
             <p>“coal seams” means a layer or stratum of mineral coal;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_2">
+        <subsection wId="section-1-2">
           <content>
             <p>“Irish onshore and Ireland’s internal waters” means all the land comprising the Republic <eol/>of Ireland and its onshore lakes, rivers and streams;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_3">
+        <subsection wId="section-1-3">
           <content>
             <p>“petroleum” includes any mineral oil or relative hydrocarbon and natural gas and other <eol/>liquid or gaseous hydrocarbons and their derivatives or constituent substances existing in <eol/>its natural condition in strata which can be extracted and refined to produce fuels <eol/>including petrol, paraffin, oil, diesel, liquid natural gas or natural gas;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_4">
+        <subsection wId="section-1-4">
           <content>
             <p>“shale rock” means a fine-grained sedimentary rock that forms from the compaction of <eol/>silt and clay-size mineral particles which readily splits into thin pieces along its <eol/>laminations and which contains organic material that sometimes breaks down to form <eol/>natural gas or oil;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_5">
+        <subsection wId="section-1-5">
           <content>
             <p>“tight sands” are low permeability sandstone reservoirs that produce primarily dry <eol/>natural gas. A tight gas reservoir is one that cannot be produced without assistance from <eol/>stimulation treatments to increase permeability to aid extraction.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_2">
+      <section wId="section-2">
         <heading>Prohibition</heading>
         <num>2.</num>
         <content>
           <p>Notwithstanding the provisions of any other Act of the Oireachtas, no Minister, Agency, <eol/>Planning Authority or Body acting on behalf of the State shall grant an authorisation and/<eol/>or grant of any consent, licence, permit, lease or undertaking for the exploration or <eol/>extraction of petroleum from shale rock, tight sands or coal seams in the Irish onshore <eol/>and Ireland’s internal waters.</p>
         </content>
       </section>
-      <section wId="sec_3">
+      <section wId="section-3">
         <heading>Short title</heading>
         <num>3.</num>
         <intro>
           <p>This Act may be cited as the Prohibition of the Exploration and Extraction of Onshore <eol/>Petroleum Act 2016.</p>
         </intro>
-        <subsection wId="sec_3__subsec_6">
+        <subsection wId="section-3-6">
           <content/>
         </subsection>
       </section>

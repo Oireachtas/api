@@ -21,7 +21,7 @@
         <FRBRManifestation>
           <FRBRthis value="/ie/oireachtas/bill/2016/75/initiated/en/xml"/>
           <FRBRuri value="/ie/oireachtas/bill/2016/75/initiated/en/xml"/>
-          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
           <FRBRauthor href=""/>
           <FRBRformat value="application/akn+xml"/>
         </FRBRManifestation>
@@ -56,24 +56,24 @@
       <block name="horizontal-rule"/>
       <toc>
         <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
-        <tocItem class="heading" href="" level="0">Section</tocItem>
-        <tocItem class="section" href="#toc_book_1" level="1">
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
           <inline name="tocNum">1.</inline>
           <inline name="tocHeading">Interpretation</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_2" level="1">
+        <tocItem class="section" href="#section-2" level="1">
           <inline name="tocNum">2.</inline>
           <inline name="tocHeading">Prejudice relating to race, colour or ethnic origin</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_3" level="1">
+        <tocItem class="section" href="#section-3" level="1">
           <inline name="tocNum">3.</inline>
           <inline name="tocHeading">Prejudice relating to a disability</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_4" level="1">
+        <tocItem class="section" href="#section-4" level="1">
           <inline name="tocNum">4.</inline>
           <inline name="tocHeading">Prejudice relating to sexual orientation or transgender identification</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_5" level="1">
+        <tocItem class="section" href="#section-5" level="1">
           <inline name="tocNum">5.</inline>
           <inline name="tocHeading">Short title and commencement</inline>
         </tocItem>
@@ -110,96 +110,96 @@
       </formula>
     </preamble>
     <body>
-      <section wId="sec_1">
+      <section wId="section-1">
         <heading>Interpretation</heading>
         <num>1.</num>
         <intro>
           <p>In this Act⁠—</p>
         </intro>
-        <subsection wId="sec_1__subsec_1">
+        <subsection wId="section-1-1">
           <content>
             <p>“disability” has the same meaning assigned to it by section 2 of the Disability Act 2005 and includes physical or mental impairment of any kind;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_2">
+        <subsection wId="section-1-2">
           <content>
             <p>“presumed” in <i>sections</i> <i>2</i>,  <i>3</i> and  <i>4</i> means presumed by the offender;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_3">
+        <subsection wId="section-1-3">
           <content>
             <p>“sexual orientation” includes sexual orientation towards persons of the same sex or of <eol/>the opposite sex or both;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_4">
+        <subsection wId="section-1-4">
           <content>
             <p>“transgender identity” includes transvestism, transsexualism, intersexuality or having <eol/>changed gender under the Gender Recognition Act 2015.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_2">
+      <section wId="section-2">
         <heading>Prejudice relating to race, colour or ethnic origin</heading>
         <num>2.</num>
-        <subsection wId="sec_2__subsec_1">
+        <subsection wId="section-2-1">
           <num>(1)</num>
           <intro>
             <p>An offence is “aggravated by prejudice relating to race” if⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_1__para_a">
+          <paragraph wId="section-2-1-a">
             <num>(a)</num>
             <content>
               <p>at the time of committing the offence or immediately before or after so <eol/>committing, a person evinces towards a victim of said offence, malice or ill-will <eol/>relating to the race or presumed race, colour or ethnic origin of such victim, or</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_1__para_b">
+          <paragraph wId="section-2-1-b">
             <num>(b)</num>
             <content>
               <p>the offence is motivated (wholly or partly) by malice or ill-will towards persons <eol/>who are of a particular race, colour or ethnic origin.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_2__subsec_2">
+        <subsection wId="section-2-2">
           <num>(2)</num>
           <intro>
             <p>This section applies in circumstances where⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_2__para_a">
+          <paragraph wId="section-2-2-a">
             <num>(a)</num>
             <content>
               <p>it is stated in either an indictment or a complaint (or both), that an offence is <eol/>aggravated by prejudice relating to race, colour or ethnic origin, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_2__para_b">
+          <paragraph wId="section-2-2-b">
             <num>(b)</num>
             <content>
               <p>it is proved that the offence is so aggravated.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_2__subsec_3">
+        <subsection wId="section-2-3">
           <num>(3)</num>
           <intro>
             <p>Where <i>subsection</i> <i>(2)</i> applies, a court shall, on conviction⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_3__para_a">
+          <paragraph wId="section-2-3-a">
             <num>(a)</num>
             <content>
               <p>state that the offence is aggravated by prejudice relating to race, colour or ethnic <eol/>origin,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_3__para_b">
+          <paragraph wId="section-2-3-b">
             <num>(b)</num>
             <content>
               <p>record the conviction in a manner that demonstrates that the offence is so <eol/>aggravated,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_3__para_c">
+          <paragraph wId="section-2-3-c">
             <num>(c)</num>
             <content>
               <p>take said aggravation into account when determining sentence, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_3__para_d">
+          <paragraph wId="section-2-3-d">
             <num>(d)</num>
             <content>
               <p>where the sentence in respect of the offence is different from that which the court <eol/>would have imposed if said offence was not aggravated, state the extent of and <eol/>the reasons for that difference.</p>
@@ -207,69 +207,69 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_3">
+      <section wId="section-3">
         <heading>Prejudice relating to a disability</heading>
         <num>3.</num>
-        <subsection wId="sec_3__subsec_1">
+        <subsection wId="section-3-1">
           <num>(1)</num>
           <intro>
             <p>An offence is “aggravated by prejudice relating to a disability” if⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_1__para_a">
+          <paragraph wId="section-3-1-a">
             <num>(a)</num>
             <content>
               <p>at the time of committing the offence or immediately before or after so <eol/>committing, a person evinces towards a victim of said offence, malice or ill-will <eol/>relating to the disability or presumed disability of such victim, or</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_b">
+          <paragraph wId="section-3-1-b">
             <num>(b)</num>
             <content>
               <p>the offence is motivated (wholly or partly) by malice or ill-will towards persons <eol/>who have a disability.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_3__subsec_2">
+        <subsection wId="section-3-2">
           <num>(2)</num>
           <intro>
             <p>This section applies in circumstances where⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_2__para_a">
+          <paragraph wId="section-3-2-a">
             <num>(a)</num>
             <content>
               <p>it is stated in either an indictment or a complaint (or both), that an offence is <eol/>aggravated by prejudice relating to a disability, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_2__para_b">
+          <paragraph wId="section-3-2-b">
             <num>(b)</num>
             <content>
               <p>it is proved that the offence is so aggravated.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_3__subsec_3">
+        <subsection wId="section-3-3">
           <num>(3)</num>
           <intro>
             <p>Where <i>subsection</i> <i>(2)</i> applies, a court shall, on conviction⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_3__para_a">
+          <paragraph wId="section-3-3-a">
             <num>(a)</num>
             <content>
               <p>state that the offence is aggravated by prejudice relating to a disability,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_3__para_b">
+          <paragraph wId="section-3-3-b">
             <num>(b)</num>
             <content>
               <p>record the conviction in a manner that demonstrates that the offence is so <eol/>aggravated,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_3__para_c">
+          <paragraph wId="section-3-3-c">
             <num>(c)</num>
             <content>
               <p>take said aggravation into account when determining sentence, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_3__para_d">
+          <paragraph wId="section-3-3-d">
             <num>(d)</num>
             <content>
               <p>where the sentence in respect of the offence is different from that which the court <eol/>would have imposed if said offence was not aggravated, state the extent of and <eol/>the reasons for that difference.</p>
@@ -277,26 +277,26 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_4">
+      <section wId="section-4">
         <heading>Prejudice relating to sexual orientation or transgender identification</heading>
         <num>4.</num>
-        <subsection wId="sec_4__subsec_1">
+        <subsection wId="section-4-1">
           <num>(1)</num>
           <intro>
             <p>An offence is “aggravated by prejudice relating to sexual orientation or transgender <eol/>identity” if⁠—</p>
           </intro>
-          <paragraph wId="sec_4__subsec_1__para_a">
+          <paragraph wId="section-4-1-a">
             <num>(a)</num>
             <intro>
               <p>at the time of committing the offence or immediately before or after so <eol/>committing, a person evinces towards a victim of said offence, malice or ill-will <eol/>relating to—</p>
             </intro>
-            <subparagraph wId="sec_4__subsec_1__para_a__subpara_i">
+            <subparagraph wId="section-4-1-a-i">
               <num>(i)</num>
               <content>
                 <p>the sexual orientation or presumed sexual orientation of such victim, or</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_4__subsec_1__para_a__subpara_ii">
+            <subparagraph wId="section-4-1-a-ii">
               <num>(ii)</num>
               <content>
                 <p>the transgender identity or presumed transgender identity of such victim,</p>
@@ -306,18 +306,18 @@
               <p>or</p>
             </wrapUp>
           </paragraph>
-          <paragraph wId="sec_4__subsec_1__para_b">
+          <paragraph wId="section-4-1-b">
             <num>(b)</num>
             <intro>
               <p>the offence is motivated (wholly or partly) by malice or ill-will towards persons <eol/>who have⁠—</p>
             </intro>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_i">
+            <subparagraph wId="section-4-1-b-i">
               <num>(i)</num>
               <content>
                 <p>a particular sexual orientation, or</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_ii">
+            <subparagraph wId="section-4-1-b-ii">
               <num>(ii)</num>
               <content>
                 <p>a particular transgender identity.</p>
@@ -325,48 +325,48 @@
             </subparagraph>
           </paragraph>
         </subsection>
-        <subsection wId="sec_4__subsec_2">
+        <subsection wId="section-4-2">
           <num>(2)</num>
           <intro>
             <p>This section applies in circumstances where⁠—</p>
           </intro>
-          <paragraph wId="sec_4__subsec_2__para_a">
+          <paragraph wId="section-4-2-a">
             <num>(a)</num>
             <content>
               <p>it is stated in either an indictment or a complaint (or both), that an offence is <eol/>aggravated by prejudice relating to sexual orientation or transgender identity, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_2__para_b">
+          <paragraph wId="section-4-2-b">
             <num>(b)</num>
             <content>
               <p>it is proved that the offence is so aggravated.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_4__subsec_3">
+        <subsection wId="section-4-3">
           <num>(3)</num>
           <intro>
             <p>Where <i>subsection</i> <i>(2)</i> applies, a court shall, on conviction⁠—</p>
           </intro>
-          <paragraph wId="sec_4__subsec_3__para_a">
+          <paragraph wId="section-4-3-a">
             <num>(a)</num>
             <content>
               <p>state that the offence is aggravated by prejudice relating to sexual orientation or <eol/>transgender identity,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_3__para_b">
+          <paragraph wId="section-4-3-b">
             <num>(b)</num>
             <content>
               <p>record the conviction in a manner that demonstrates that the offence is so <eol/>aggravated,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_3__para_c">
+          <paragraph wId="section-4-3-c">
             <num>(c)</num>
             <content>
               <p>take said aggravation into account when determining sentence, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_3__para_d">
+          <paragraph wId="section-4-3-d">
             <num>(d)</num>
             <content>
               <p>where the sentence in respect of the offence is different from that which the court <eol/>would have imposed if said offence was not aggravated, state the extent of and <eol/>the reasons for that difference.</p>
@@ -374,16 +374,16 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_5">
+      <section wId="section-5">
         <heading>Short title and commencement</heading>
         <num>5.</num>
-        <subsection wId="sec_5__subsec_1">
+        <subsection wId="section-5-1">
           <num>(1)</num>
           <content>
             <p>This Act may be cited as the Criminal Offences (Aggravation by Prejudice) Act 2016.</p>
           </content>
         </subsection>
-        <subsection wId="sec_5__subsec_2">
+        <subsection wId="section-5-2">
           <num>(2)</num>
           <content>
             <p>This Act shall come into operation on such day as may be fixed by order of the <eol/>Minister for Justice and Equality.</p>

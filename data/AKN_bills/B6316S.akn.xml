@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/63"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/63"/>
+          <FRBRdate date="2016-07-12" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="63"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/63/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/63/initiated/en"/>
+          <FRBRdate date="2016-07-12" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/63/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/63/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Toghcháin (Leasú) (Vótáil ag Aois 16), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Electoral (Amendment) (Voting at 16) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Toghcháin (Leasú) (Vótáil ag Aois 16), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Electoral (Amendment) (Voting at 16) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Amendment of section 9 of Electoral Act 1992</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 10 of Electoral Act 1992</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title and collective citation</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Electoral Act 1992 (No. 23)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Toghcháin (Leasú) (Vótáil ag Aois 16), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Electoral (Amendment) (Voting at 16) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to reduce to sixteen years the age at which a person is entitled to be registered as <eol/>a European Parliament and Local Government Elector, and to provide for related <eol/>matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Amendment of section 9 of Electoral Act 1992</heading>
+        <num>1.</num>
+        <content>
+          <p>The Electoral Act 1992 is amended by the substitution of the following for section 9:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <num>“9.</num>
+                  <intro>
+                    <p>A person shall be entitled to be registered as a European elector in a <eol/>constituency if he has reached the age of sixteen years and if, on the <eol/>qualifying date, he was ordinarily resident in that constituency and was <eol/>either⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>a citizen of Ireland, or</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>a national of a Member State other than the State.”.</p>
+                    </content>
+                  </paragraph>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 10 of Electoral Act 1992</heading>
+        <num>2.</num>
+        <content>
+          <p>The Electoral Act 1992is amended by the substitution of the following for section 10:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <num>“10.</num>
+                  <content>
+                    <p>A person shall be entitled to be registered as a local government <eol/>elector in a local electoral area if that person has reached the age of <eol/>sixteen years and he was, on the qualifying date, ordinarily resident in <eol/>that area.”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Short title and collective citation</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as the Electoral (Amendment) (Voting at 16) Act 2016.</p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

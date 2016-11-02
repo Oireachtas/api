@@ -21,7 +21,7 @@
         <FRBRManifestation>
           <FRBRthis value="/ie/oireachtas/bill/2016/8/initiated/en/xml"/>
           <FRBRuri value="/ie/oireachtas/bill/2016/8/initiated/en/xml"/>
-          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
           <FRBRauthor href=""/>
           <FRBRformat value="application/akn+xml"/>
         </FRBRManifestation>
@@ -59,20 +59,20 @@
       <block name="horizontal-rule"/>
       <toc>
         <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
-        <tocItem class="heading" href="" level="0">Section</tocItem>
-        <tocItem class="section" href="#toc_book_1" level="1">
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
           <inline name="tocNum">1.</inline>
           <inline name="tocHeading">Definition</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_2" level="1">
+        <tocItem class="section" href="#section-2" level="1">
           <inline name="tocNum">2.</inline>
           <inline name="tocHeading">Application of section 4 of Competition Act 2002 to certain trade union members</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_3" level="1">
+        <tocItem class="section" href="#section-3" level="1">
           <inline name="tocNum">3.</inline>
           <inline name="tocHeading">Application of section 4 of  Competition Act 2002 to certain collective agreements relating to services provided out of public funds</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_4" level="1">
+        <tocItem class="section" href="#section-4" level="1">
           <inline name="tocNum">4.</inline>
           <inline name="tocHeading">Short title, collective citation and construction</inline>
         </tocItem>
@@ -111,39 +111,39 @@
       </formula>
     </preamble>
     <body>
-      <section wId="sec_1">
+      <section wId="section-1">
         <heading>Definition</heading>
         <num>1.</num>
         <content>
           <p>In this Act, “public body” has the meaning assigned by section 2 of the Freedom of Information Act 1997, as amended.</p>
         </content>
       </section>
-      <section wId="sec_2">
+      <section wId="section-2">
         <heading>Application of section 4 of Competition Act 2002 to certain trade union members</heading>
         <num>2.</num>
-        <subsection wId="sec_2__subsec_1">
+        <subsection wId="section-2-1">
           <num>(1)</num>
           <intro>
             <p>Where an individual engages for gain under a contract with an undertaking personally <eol/>to do any work or provide any services (whether work or services of a manual, <eol/>clerical, professional or vocational nature or otherwise and whether for the <eol/>undertaking that is party to the contract or for other persons)⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_1__para_a">
+          <paragraph wId="section-2-1-a">
             <num>(a)</num>
             <content>
               <p>a trade union of which that individual and other individuals so engaged are <eol/>members is deemed not to be an association of undertakings for the purposes of <eol/>section 4 of the Competition Act 2002, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_1__para_b">
+          <paragraph wId="section-2-1-b">
             <num>(b)</num>
             <intro>
               <p>the said section 4 does not apply to any agreement, decision or concerted practice <eol/>affecting the terms or conditions under which such work is done or services are <eol/>provided by two or more such individuals under similar contracts⁠—</p>
             </intro>
-            <subparagraph wId="sec_2__subsec_1__para_b__subpara_i">
+            <subparagraph wId="section-2-1-b-i">
               <num>(i)</num>
               <content>
                 <p>with the same undertaking, or</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_2__subsec_1__para_b__subpara_ii">
+            <subparagraph wId="section-2-1-b-ii">
               <num>(ii)</num>
               <content>
                 <p>with two or more different undertakings, that are members of an organisation <eol/>that is (or is part of an organisation that is) a social partner for the purposes <eol/>of the National Economic and Social Development Office Act 2006.</p>
@@ -151,24 +151,24 @@
             </subparagraph>
           </paragraph>
         </subsection>
-        <subsection wId="sec_2__subsec_2">
+        <subsection wId="section-2-2">
           <num>(2)</num>
           <content>
             <p>Nothing in <i>subsection</i> <i>(1)</i> prevents the application of the said section 4 to agreements, <eol/>decisions or concerted practices affecting the terms or conditions under which work is <eol/>done or services are provided to persons contracting outside the course of their <eol/>business.</p>
           </content>
         </subsection>
-        <subsection wId="sec_2__subsec_3">
+        <subsection wId="section-2-3">
           <num>(3)</num>
           <intro>
             <p>In <i>subsection</i> <i>(1)</i>—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_3__para_a">
+          <paragraph wId="section-2-3-a">
             <num>(a)</num>
             <content>
               <p>“trade union” means a trade union which is the holder of a negotiation licence <eop/>under Part II of the Trade Union Act 1941,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_3__para_b">
+          <paragraph wId="section-2-3-b">
             <num>(b)</num>
             <content>
               <p>“undertaking” includes any public body.</p>
@@ -176,72 +176,72 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_3">
+      <section wId="section-3">
         <heading>Application of section 4 of Competition Act 2002 to certain collective agreements relating to services provided out of public funds</heading>
         <num>3.</num>
-        <subsection wId="sec_3__subsec_1">
+        <subsection wId="section-3-1">
           <num>(1)</num>
           <content>
             <p>This section applies to a scheme, whether under an enactment or otherwise, for <eol/>payments out of public funds by a public body to members of a profession in <eol/>consideration for the provision of services to members of the public or to a class of <eol/>members of the public.</p>
           </content>
         </subsection>
-        <subsection wId="sec_3__subsec_2">
+        <subsection wId="section-3-2">
           <num>(2)</num>
           <intro>
             <p>Where the Government makes a declaration under this subsection that there is, in <eol/>relation to a scheme to which this section applies, a public interest in negotiating a <eol/>collective agreement between the public body concerned and an organisation that is <eol/>representative of the profession concerned, providing for the terms and 15 conditions <eol/>under which the services are to be provided⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_2__para_a">
+          <paragraph wId="section-3-2-a">
             <num>(a)</num>
             <content>
               <p>the representative organisation concerned is deemed not to be an association of <eol/>undertakings, for the purposes of section 4 of the Competition Act 2002, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_2__para_b">
+          <paragraph wId="section-3-2-b">
             <num>(b)</num>
             <content>
               <p>the said section 4 does not apply to the collective agreement.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_3__subsec_3">
+        <subsection wId="section-3-3">
           <num>(3)</num>
           <content>
             <p>Nothing in <i>subsection</i> <i>(2)</i> prevents the application of section 4 to agreements, <eol/>decisions or concerted practices affecting the terms or conditions under which <eol/>services are provided otherwise than under and for the purposes of the collective <eol/>agreement concerned.</p>
           </content>
         </subsection>
-        <subsection wId="sec_3__subsec_4">
+        <subsection wId="section-3-4">
           <num>(4)</num>
           <intro>
             <p>A declaration made by the Government under <i>subsection</i> <i>(2)</i><i>⁠—</i></p>
           </intro>
-          <paragraph wId="sec_3__subsec_4__para_a">
+          <paragraph wId="section-3-4-a">
             <num>(a)</num>
             <content>
               <p>does not have effect until it is approved by resolutions passed by each House of <eol/>the Oireachtas,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_4__para_b">
+          <paragraph wId="section-3-4-b">
             <num>(b)</num>
             <content>
               <p>applies to negotiations for amendments to or replacements of a collective <eol/>agreement,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_4__para_c">
+          <paragraph wId="section-3-4-c">
             <num>(c)</num>
             <content>
               <p>continues in effect until it is annulled by resolution passed by either House of the <eol/>Oireachtas.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_3__subsec_5">
+        <subsection wId="section-3-5">
           <num>(5)</num>
-          <paragraph wId="sec_3__subsec_5__para_a">
+          <paragraph wId="section-3-5-a">
             <num>(a)</num>
             <content>
               <p>In this section, “profession” includes trade, vocation and other occupation.</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_5__para_b">
+          <paragraph wId="section-3-5-b">
             <num>(b)</num>
             <content>
               <p>For the purposes of this section, it is immaterial whether members of a profession <eol/>provide services as sole traders or as members or employees of partnerships or <eol/>corporate bodies.</p>
@@ -249,16 +249,16 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_4">
+      <section wId="section-4">
         <heading>Short title, collective citation and construction</heading>
         <num>4.</num>
-        <subsection wId="sec_4__subsec_1">
+        <subsection wId="section-4-1">
           <num>(1)</num>
           <content>
             <p>This Act may be cited as the Competition (Amendment) Act 2016.</p>
           </content>
         </subsection>
-        <subsection wId="sec_4__subsec_2">
+        <subsection wId="section-4-2">
           <num>(2)</num>
           <content>
             <p>This Act and the Competition Act 2002 may be cited together as the Competition Acts <eol/>2002 and 2016 and shall be construed together as one Act.</p>

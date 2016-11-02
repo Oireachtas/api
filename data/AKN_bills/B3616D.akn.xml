@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/36"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/36"/>
+          <FRBRdate date="2016-06-02" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="36"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/36/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/36/initiated/en"/>
+          <FRBRdate date="2016-06-02" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/36/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/36/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Fhorbairt Pheitriliam agus Mianraí Eile (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Petroleum and Other Minerals Development (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM FHORBAIRT PHEITRILIAM AGUS MIANRAÍ EILE (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Petroleum and Other Minerals Development (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Amendment of section 2 of the Petroleum and Other Minerals Development Act 1960</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 3 of the Petroleum and Other Minerals Development Act 1960</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Amendment of section 7 of the Petroleum and Other Minerals Development Act 1960</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Amendment of section 13(2) of the Petroleum and Other Minerals Development Act 1960</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">Insertion of new section 14A to the Petroleum and Other Minerals Development Act 1960</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Petroleum and Other Minerals Development Act 1960 (No. 7)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM FHORBAIRT PHEITRILIAM AGUS MIANRAÍ EILE (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Petroleum and Other Minerals Development (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Petroleum and Other Minerals Development Act 1960 to ban <eol/>unconventional gas exploration and extraction, provide for social clauses and public <eol/>consultation on the granting of leases and ensure greater accountability through <eol/>initiating an annual review of the lease by an Oireachtas Joint Committee.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Amendment of section 2 of the Petroleum and Other Minerals Development Act 1960</heading>
+        <num>1.</num>
+        <content>
+          <p>The definition of “petroleum” in section 2 of the Petroleum and Other Minerals <eol/>Development Act 1960 is hereby amended to read as follows:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <content>
+                    <p>“ ‘petroleum’ includes any mineral oil or relative hydrocarbon and natural gas and <eol/>other liquid or gaseous hydrocarbons and their derivatives or constituent substances <eol/>existing in its natural condition in strata (including, without limitation, distillate, <eol/>condensate, casinghead gasoline and such other substances as are ordinarily produced <eol/>from oil and gas wells) and includes any other mineral substance contained in oil and <eol/>natural gas brought to the surface with them in the normal process of extraction, but <eol/>does not include any gas extracted through unconventional gas exploration and <eol/>extraction methods; and does not include coal and bituminous shales and other <eol/>stratified deposits from which oil can be extracted by distillation.”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 3 of the Petroleum and Other Minerals Development Act 1960</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 3 of the Petroleum and Other Minerals Development Act 1960 is hereby <eol/>amended by inserting the following subsection:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(2)</num>
+                  <content>
+                    <p>No ancillary right shall be deemed to exist where the extraction of gas <eol/>is by way of unconventional methods of gas exploration and <eol/>extraction.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Amendment of section 7 of the Petroleum and Other Minerals Development Act 1960</heading>
+        <num>3.</num>
+        <content>
+          <p>Section 7 of the Petroleum and Other Minerals Development Act 1960 is amended by the <eol/>insertion of the following after subsection (2):</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(3)</num>
+                  <content>
+                    <p>Prior to the Minister entering into an undertaking to grant an exploratory licence, the Minister must, in liaison with the petroleum prospecting licensee, engage in a public consultation involving the holder of the licensing option, members of the local community and representatives from the Department of Communications, Climate Change and Natural Resources.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(4)</num>
+                  <content>
+                    <p>Upon engaging in a public consultation, in accordance with subsection (3), the Minister shall undertake a cost-benefit analysis on the granting of an exploratory licence, the results of which shall be made available to the public.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-4">
+        <heading>Amendment of section 13(2) of the Petroleum and Other Minerals Development Act 1960</heading>
+        <num>4.</num>
+        <content>
+          <p>Section 13(2) is hereby amended to include the following:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <paragraph>
+                  <num>“(e)</num>
+                  <content>
+                    <p>such lease shall include an undertaking by the person to whom the lease is granted, to contribute an amount of the profit, to be specified by the Minister, arising from the operation of the lease, to the promotion and operation of renewable energy projects specified by the Minister;</p>
+                  </content>
+                </paragraph>
+                <paragraph>
+                  <num>(f)</num>
+                  <content>
+                    <p>such lease shall be subject to annual review by an Oireachtas Joint Committee, and where deemed appropriate by the Committee, any issue arising from such a review may be reported to the Minister for consideration;</p>
+                  </content>
+                </paragraph>
+                <paragraph>
+                  <num>(g)</num>
+                  <content>
+                    <p>such lease shall include an undertaking by the person to whom the lease is granted to ensure that all petroleum extracted subject to the conditions of the lease shall be taken ashore and landed in the State;</p>
+                  </content>
+                </paragraph>
+                <paragraph>
+                  <num>(h)</num>
+                  <content>
+                    <p>such a lease shall include a social clause to provide agreed benefits for the local area.”.</p>
+                  </content>
+                </paragraph>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-5">
+        <heading>Insertion of new section 14A to the Petroleum and Other Minerals Development Act 1960</heading>
+        <num>5.</num>
+        <content>
+          <p>The Petroleum and Other Minerals Development Act 1960 is hereby amended by inserting the following after section 14:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <num>“14A.</num>
+                  <content>
+                    <p>Upon the granting of a lease all information known to the holder of the lease, relating to the exploration and all other issues arising from the lease, shall be made available to the Minister and any other lease upon request.”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-6">
+        <heading>Short title</heading>
+        <num>6.</num>
+        <intro>
+          <p>This Act may be cited as the Petroleum and Other Minerals Development (Amendment) Act 2016.</p>
+        </intro>
+        <subsection wId="section-6-1">
+          <content/>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

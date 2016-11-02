@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/66"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/66"/>
+          <FRBRdate date="2016-07-14" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="66"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/66/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/66/initiated/en"/>
+          <FRBRdate date="2016-07-14" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/66/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/66/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Thithíocht Shóisialta, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Social Housing Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM THITHÍOCHT SHÓISIALTA, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Social Housing Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 94 of Act of 2000-housing strategies</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short Title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Planning and Development Act 2000 (No. 30)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM THITHÍOCHT SHÓISIALTA, 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Social Housing Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Planning and Development Act 2000 to provide for an increased <eol/>percentage of social and affordable housing in private residential developments and in <eol/>strategic development zones.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act, “Act of 2000” means the Planning and Development Act 2000.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 94 of Act of 2000-housing strategies</heading>
+        <num>2.</num>
+        <intro>
+          <p>Section 94 of the Act of 2000 is amended⁠—</p>
+        </intro>
+        <paragraph wId="section-2-a">
+          <num>(a)</num>
+          <content>
+            <p>in paragraphs (c) and (d) of subsection (4), by substituting “being at least 25 per <eol/>cent” for “not being more than 10 per cent” in each place, and</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-b">
+          <num>(b)</num>
+          <content>
+            <p>after subsection (5), by the insertion of the following subsection:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“(6)</num>
+                    <content>
+                      <p>In preparing a special development zone plan in accordance with <eol/>section 166 of the Act of 2000, a planning authority shall provide a <eol/>specified percentage, being at least 30 per cent, of the land zoned for <eol/>residential use, or for a mixture of residential and other uses, shall be <eol/>reserved under this Part for the provision of housing for the purposes <eol/>of either or both subparagraphs (i) and (ii) of paragraph (a).”.</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+      </section>
+      <section wId="section-3">
+        <heading>Short Title and commencement</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as the Social Housing Act 2016.</p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

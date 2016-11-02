@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/19"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/19"/>
+          <FRBRdate date="2016-01-27" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="19"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/19/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/19/initiated/en"/>
+          <FRBRdate date="2016-01-27" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/19/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/19/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um an Rosc Náisiúnta (Cóipcheart agus Cearta Gaolmhara a Chosaint) (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">National Anthem (Protection of Copyright and Related Rights) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM AN ROSC NÁISIÚNTA (CÓIPCHEART AGUS CEARTA GAOLMHARA A CHOSAINT) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">National Anthem (Protection of Copyright and Related Rights) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Restoration of National Anthem copyright protection to Amhrán na bhFiann</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Short title and collective citation</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Copyright and Related Rights Act 2000 (No. 28)</p>
+        <p class="act-referred-to">Copyright and Related Rights Acts 2000 to 2007</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM AN ROSC NÁISIÚNTA (CÓIPCHEART AGUS CEARTA GAOLMHARA A CHOSAINT) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">National Anthem (Protection of Copyright and Related Rights) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to restore the national anthem copyright protection to the national anthem of the <eol/>state and for that purpose to amend the Copyright and Related Rights Act 2000 and to <eol/>provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Restoration of National Anthem copyright protection to Amhrán na bhFiann</heading>
+        <num>1.</num>
+        <content>
+          <p>The Copyright and Related Rights Act 2000 is amended in section 24 by inserting the <eol/>following after subsection (4):</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(5)</num>
+                  <intro>
+                    <p>Notwithstanding subsection (1), copyright regarding—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>the English lyrics of Amhrán na bhFiann (A Soldier’s Song) <eol/>authored by Peadar Kearney, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>the music of Amhrán na bhFiann (A Soldier’s Song) composed by <eol/>Patrick Heeney,</p>
+                    </content>
+                  </paragraph>
+                  <wrapUp>
+                    <p>is deemed always to have subsisted, and is hereby vested, for an <eol/>indefinite period, in the State.”.</p>
+                  </wrapUp>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Short title and collective citation</heading>
+        <num>2.</num>
+        <subsection wId="section-2-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the National Anthem Protection of Copyright and Related <eol/>Rights (Amendment) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-2-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act and the Copyright and Related Rights Acts 2000 to 2007 may be cited <eol/>together as the Copyright and Related Rights Acts 2000 to 2016.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

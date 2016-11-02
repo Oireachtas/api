@@ -4,24 +4,24 @@
     <meta>
       <identification source="">
         <FRBRWork>
-          <FRBRthis value="/ie/oireachtas/bill/2016/33"/>
-          <FRBRuri value="/ie/oireachtas/bill/2016/33"/>
-          <FRBRdate date="2016-05-31" name="introduced"/>
+          <FRBRthis value="/ie/oireachtas/bill/2016/64"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/64"/>
+          <FRBRdate date="2016-07-13" name="introduced"/>
           <FRBRauthor href=""/>
           <FRBRcountry value="IE"/>
-          <FRBRnumber value="33"/>
+          <FRBRnumber value="64"/>
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/ie/oireachtas/bill/2016/33/initiated/en"/>
-          <FRBRuri value="/ie/oireachtas/bill/2016/33/initiated/en"/>
-          <FRBRdate date="2016-05-31" name="published"/>
+          <FRBRthis value="/ie/oireachtas/bill/2016/64/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/64/initiated/en"/>
+          <FRBRdate date="2016-07-13" name="published"/>
           <FRBRauthor href=""/>
           <FRBRlanguage language="eng"/>
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/ie/oireachtas/bill/2016/33/initiated/en/xml"/>
-          <FRBRuri value="/ie/oireachtas/bill/2016/33/initiated/en/xml"/>
-          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRthis value="/ie/oireachtas/bill/2016/64/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/64/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
           <FRBRauthor href=""/>
           <FRBRformat value="application/akn+xml"/>
         </FRBRManifestation>
@@ -33,10 +33,10 @@
       </p>
       <block name="horizontal-rule"/>
       <p class="short-title irish">
-        <shortTitle xml:lang="ga">An Bille um Dhúnorgain Chorparáideach, 2016</shortTitle>
+        <shortTitle xml:lang="ga">An Bille um Dhúnorgain Chorparáideach (Uimh. 2), 2016</shortTitle>
       </p>
       <p class="short-title english">
-        <shortTitle xml:lang="en">Corporate Manslaughter Bill 2016</shortTitle>
+        <shortTitle xml:lang="en">Corporate Manslaughter (No. 2) Bill 2016</shortTitle>
       </p>
       <block name="horizontal-rule"/>
       <p style="as-initiated">Mar a tionscnaíodh</p>
@@ -47,10 +47,10 @@
       </p>
       <block name="horizontal-rule"/>
       <p class="short-title irish">
-        <shortTitle xml:lang="ga">AN BILLE UM DHÚNORGAIN CHORPARÁIDEACH, 2016</shortTitle>
+        <shortTitle xml:lang="ga">AN BILLE UM DHÚNORGAIN CHORPARÁIDEACH (UIMH. 2), 2016</shortTitle>
       </p>
       <p class="short-title english">
-        <shortTitle xml:lang="en">Corporate Manslaughter Bill 2016</shortTitle>
+        <shortTitle xml:lang="en">Corporate Manslaughter (No. 2) Bill 2016</shortTitle>
       </p>
       <block name="horizontal-rule"/>
       <p class="statusirish">Mar a tionscnaíodh</p>
@@ -59,56 +59,56 @@
       <block name="horizontal-rule"/>
       <toc>
         <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
-        <tocItem class="heading" href="" level="0">Section</tocItem>
-        <tocItem class="section" href="#toc_book_1" level="1">
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
           <inline name="tocNum">1.</inline>
           <inline name="tocHeading">Interpretation</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_2" level="1">
+        <tocItem class="section" href="#section-2" level="1">
           <inline name="tocNum">2.</inline>
           <inline name="tocHeading">Offence of corporate manslaughter</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_3" level="1">
+        <tocItem class="section" href="#section-3" level="1">
           <inline name="tocNum">3.</inline>
           <inline name="tocHeading">Offence of grossly negligent management causing death</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_4" level="1">
+        <tocItem class="section" href="#section-4" level="1">
           <inline name="tocNum">4.</inline>
           <inline name="tocHeading">Prosecution of offences</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_5" level="1">
+        <tocItem class="section" href="#section-5" level="1">
           <inline name="tocNum">5.</inline>
           <inline name="tocHeading">Penalties</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_6" level="1">
+        <tocItem class="section" href="#section-6" level="1">
           <inline name="tocNum">6.</inline>
           <inline name="tocHeading">Pre-sanction reports</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_7" level="1">
+        <tocItem class="section" href="#section-7" level="1">
           <inline name="tocNum">7.</inline>
           <inline name="tocHeading">Remedial orders</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_8" level="1">
+        <tocItem class="section" href="#section-8" level="1">
           <inline name="tocNum">8.</inline>
           <inline name="tocHeading">Community service orders</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_9" level="1">
+        <tocItem class="section" href="#section-9" level="1">
           <inline name="tocNum">9.</inline>
           <inline name="tocHeading">Adverse publicity orders</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_10" level="1">
+        <tocItem class="section" href="#section-10" level="1">
           <inline name="tocNum">10.</inline>
           <inline name="tocHeading">Disqualification orders</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_11" level="1">
+        <tocItem class="section" href="#section-11" level="1">
           <inline name="tocNum">11.</inline>
           <inline name="tocHeading">Effect on prosecution for manslaughter by gross negligence</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_12" level="1">
+        <tocItem class="section" href="#section-12" level="1">
           <inline name="tocNum">12.</inline>
           <inline name="tocHeading">Disregarding separate legal personality</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_13" level="1">
+        <tocItem class="section" href="#section-13" level="1">
           <inline name="tocNum">13.</inline>
           <inline name="tocHeading">Short title</inline>
         </tocItem>
@@ -120,10 +120,10 @@
       </p>
       <block name="horizontal-rule"/>
       <p class="short-title irish">
-        <shortTitle xml:lang="ga">AN BILLE UM DHÚNORGAIN CHORPARÁIDEACH, 2016</shortTitle>
+        <shortTitle xml:lang="ga">AN BILLE UM DHÚNORGAIN CHORPARÁIDEACH (UIMH. 2), 2016</shortTitle>
       </p>
       <p class="short-title english">
-        <shortTitle xml:lang="en">Corporate Manslaughter Bill 2016</shortTitle>
+        <shortTitle xml:lang="en">Corporate Manslaughter (No. 2) Bill 2016</shortTitle>
       </p>
       <block name="horizontal-rule"/>
       <p>
@@ -140,169 +140,169 @@
       </formula>
     </preamble>
     <body>
-      <section wId="sec_1">
+      <section wId="section-1">
         <heading>Interpretation</heading>
         <num>1.</num>
         <intro>
           <p>In this Act⁠—</p>
         </intro>
-        <subsection wId="sec_1__subsec_1">
+        <subsection wId="section-1-1">
           <content>
             <p>“court” means Circuit Criminal Court;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_2">
+        <subsection wId="section-1-2">
           <content>
             <p>“high managerial agent” means a person being a director, manager, or other similar <eol/>officer of the undertaking, or a person who purports to act in such a capacity, including <eol/>those that play a role in the making of decisions about how the whole or part of the <eol/>activities of the undertaking are to be managed or organised or the actual managing of <eol/>those activities, including those who have been delegated managerial duties, whether or <eol/>not that person has a contract of employment with that undertaking;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_3">
+        <subsection wId="section-1-3">
           <content>
             <p>“undertaking” means a person being a body corporate or an unincorporated body of <eol/>persons engaged in the production, supply or distribution of goods or, the provision of a <eol/>service whether carried on for profit or not including those which are Government <eol/>departments and statutory bodies, whether carried on for profit or not, as well as faith <eol/>based organisations and groups.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_2">
+      <section wId="section-2">
         <heading>Offence of corporate manslaughter</heading>
         <num>2.</num>
-        <subsection wId="sec_2__subsec_1">
+        <subsection wId="section-2-1">
           <num>(1)</num>
           <content>
             <p>Where an undertaking causes the death of a human person by gross negligence that <eol/>undertaking is guilty of an offence called “corporate manslaughter”.</p>
           </content>
         </subsection>
-        <subsection wId="sec_2__subsec_2">
+        <subsection wId="section-2-2">
           <num>(2)</num>
           <intro>
             <p>An undertaking causes death by gross negligence where⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_2__para_a">
+          <paragraph wId="section-2-2-a">
             <num>(a)</num>
             <content>
               <p>it owed a duty of care to the deceased person,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_2__para_b">
+          <paragraph wId="section-2-2-b">
             <num>(b)</num>
             <content>
               <p>it breached that duty of care in that it failed to meet the standard of care in <eol/><i>subsection</i> <i>(3)</i>,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_2__para_c">
+          <paragraph wId="section-2-2-c">
             <num>(c)</num>
             <content>
               <p>the breach of duty involved a significant risk of death or serious personal harm, <eol/>and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_2__para_d">
+          <paragraph wId="section-2-2-d">
             <num>(d)</num>
             <content>
               <p>that breach caused the death of the person.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_2__subsec_3">
+        <subsection wId="section-2-3">
           <num>(3)</num>
           <content>
             <p>The standard of care required of the undertaking is to take all reasonable measures to <eol/>anticipate and prevent risks to human life, having due regard to the size and <eol/>circumstances of the undertaking.</p>
           </content>
         </subsection>
-        <subsection wId="sec_2__subsec_4">
+        <subsection wId="section-2-4">
           <num>(4)</num>
           <intro>
             <p>In assessing whether the undertaking owed the deceased person a duty of care the <eol/>court shall have regard to the common law or statutory duties imposed on the <eol/>undertaking, and in particular shall have regard to whether the undertaking owed a <eol/>duty as⁠—</p>
           </intro>
-          <paragraph wId="sec_2__subsec_4__para_a">
+          <paragraph wId="section-2-4-a">
             <num>(a)</num>
             <content>
               <p>an employer or subcontracted employer,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_4__para_b">
+          <paragraph wId="section-2-4-b">
             <num>(b)</num>
             <content>
               <p>an occupier of land,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_4__para_c">
+          <paragraph wId="section-2-4-c">
             <num>(c)</num>
             <content>
               <p>a producer of goods, or</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_4__para_d">
+          <paragraph wId="section-2-4-d">
             <num>(d)</num>
             <content>
               <p>a provider of services.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_2__subsec_5">
+        <subsection wId="section-2-5">
           <num>(5)</num>
           <intro>
             <p>In assessing whether the undertaking breached the standard of care in <i>subsection</i> <i>(3)</i>, <eol/>the court shall have regard to any or all of the following:</p>
           </intro>
-          <paragraph wId="sec_2__subsec_5__para_a">
+          <paragraph wId="section-2-5-a">
             <num>(a)</num>
             <content>
               <p>the way in which the activities of the undertaking are managed or organised by its <eol/>managerial agents;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_b">
+          <paragraph wId="section-2-5-b">
             <num>(b)</num>
             <content>
               <p>the allocation of responsibility or activities within the undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_c">
+          <paragraph wId="section-2-5-c">
             <num>(c)</num>
             <content>
               <p>the procedural rules of the undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_d">
+          <paragraph wId="section-2-5-d">
             <num>(d)</num>
             <content>
               <p>the policies of the undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_e">
+          <paragraph wId="section-2-5-e">
             <num>(e)</num>
             <content>
               <p>the training and supervision of employees of the undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_f">
+          <paragraph wId="section-2-5-f">
             <num>(f)</num>
             <content>
               <p>the response of the undertaking to previous incidents involving a risk of death or <eol/>serious personal harm;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_g">
+          <paragraph wId="section-2-5-g">
             <num>(g)</num>
             <content>
               <p>the stated and actual goals of the undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_h">
+          <paragraph wId="section-2-5-h">
             <num>(h)</num>
             <content>
               <p>the adequacy of the communications systems within the undertaking including <eol/>systems for communicating information to others affected by the activities of the <eol/>undertaking;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_i">
+          <paragraph wId="section-2-5-i">
             <num>(i)</num>
             <content>
               <p>the regulatory environment in which the undertaking operates, including any <eol/>statutory duties to which the undertaking is subject;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_j">
+          <paragraph wId="section-2-5-j">
             <num>(j)</num>
             <content>
               <p>any assurance systems to which the undertaking has subscribed;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_2__subsec_5__para_k">
+          <paragraph wId="section-2-5-k">
             <num>(k)</num>
             <content>
               <p>whether the undertaking was operating within the terms of a contract or licence <eol/>made or granted under legislation.</p>
@@ -310,33 +310,33 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_3">
+      <section wId="section-3">
         <heading>Offence of grossly negligent management causing death</heading>
         <num>3.</num>
-        <subsection wId="sec_3__subsec_1">
+        <subsection wId="section-3-1">
           <num>(1)</num>
           <intro>
             <p>Where an undertaking has been convicted of corporate manslaughter and a high <eol/>managerial agent of the convicted undertaking⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_1__para_a">
+          <paragraph wId="section-3-1-a">
             <num>(a)</num>
             <content>
               <p>knew or ought to reasonably have known of a substantial risk of death or serious <eol/>personal harm,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_b">
+          <paragraph wId="section-3-1-b">
             <num>(b)</num>
             <content>
               <p>failed to take reasonable efforts to eliminate that risk,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_c">
+          <paragraph wId="section-3-1-c">
             <num>(c)</num>
             <content>
               <p>that failure fell far below what could reasonably be expected in the <eol/>circumstances, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_d">
+          <paragraph wId="section-3-1-d">
             <num>(d)</num>
             <content>
               <p>that failure contributed to the commission of the corporate offence,</p>
@@ -346,87 +346,87 @@
             <p>that agent shall be guilty of an offence called “grossly negligent management causing <eol/>death”.</p>
           </wrapUp>
         </subsection>
-        <subsection wId="sec_3__subsec_2">
+        <subsection wId="section-3-2">
           <num>(2)</num>
           <content>
             <p>For the purposes of assessing whether a high managerial agent ought to have known <eol/>of the risk, the court shall have due regard to the actual and stated responsibilities of <eol/>the managerial agent.</p>
           </content>
         </subsection>
-        <subsection wId="sec_3__subsec_3">
+        <subsection wId="section-3-3">
           <num>(3)</num>
           <content>
             <p>For the purposes of assessing whether a high managerial agent failed to make <eol/>reasonable efforts to eliminate a risk, the court shall have due regard to the actual <eol/>responsibilities within the undertaking of the high managerial agent and whether it <eol/>was within the power of the high managerial agent to eliminate the risk.</p>
           </content>
         </subsection>
-        <subsection wId="sec_3__subsec_4">
+        <subsection wId="section-3-4">
           <num>(4)</num>
           <content>
             <p>If it was not within the power of the high managerial agent to eliminate a risk then he <eol/>or she will have failed to take reasonable measures to eliminate the risk if he or she <eol/>failed to pass on information of the risk to others within the undertaking who were in <eol/>a position to eliminate the risk.</p>
           </content>
         </subsection>
-        <subsection wId="sec_3__subsec_5">
+        <subsection wId="section-3-5">
           <num>(5)</num>
           <content>
             <p>The dissolution of the undertaking shall not prevent a prosecution of high managerial <eol/>agents of that company for grossly negligent management causing death.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_4">
+      <section wId="section-4">
         <heading>Prosecution of offences</heading>
         <num>4.</num>
         <content>
           <p>Prosecutions for the offence of corporate manslaughter or the offence of grossly <eol/>negligent management causing death shall be on indictment.</p>
         </content>
       </section>
-      <section wId="sec_5">
+      <section wId="section-5">
         <heading>Penalties</heading>
         <num>5.</num>
-        <subsection wId="sec_5__subsec_1">
+        <subsection wId="section-5-1">
           <num>(1)</num>
           <content>
             <p>An undertaking convicted of corporate manslaughter is liable to a fine.</p>
           </content>
         </subsection>
-        <subsection wId="sec_5__subsec_2">
+        <subsection wId="section-5-2">
           <num>(2)</num>
           <content>
             <p>A high managerial agent convicted of grossly negligent management causing death is <eol/>liable to a fine or imprisonment for a term not exceeding 12 years, or to both.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_6">
+      <section wId="section-6">
         <heading>Pre-sanction reports</heading>
         <num>6.</num>
-        <subsection wId="sec_6__subsec_1">
+        <subsection wId="section-6-1">
           <num>(1)</num>
           <content>
             <p>Before sentencing an undertaking convicted of corporate manslaughter, the court may <eol/>order a pre-sanction report on the convicted undertaking.</p>
           </content>
         </subsection>
-        <subsection wId="sec_6__subsec_2">
+        <subsection wId="section-6-2">
           <num>(2)</num>
           <intro>
             <p>A pre-sanction report shall include information on⁠—</p>
           </intro>
-          <paragraph wId="sec_6__subsec_2__para_a">
+          <paragraph wId="section-6-2-a">
             <num>(a)</num>
             <content>
               <p>the means and financial status of the undertaking,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_6__subsec_2__para_b">
+          <paragraph wId="section-6-2-b">
             <num>(b)</num>
             <content>
               <p>the previous compliance by the undertaking with any relevant legislative duties,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_6__subsec_2__para_c">
+          <paragraph wId="section-6-2-c">
             <num>(c)</num>
             <content>
               <p>the previous co-operation by the undertaking with relevant bodies having <eol/>legislative enforcement or regulatory functions, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_6__subsec_2__para_d">
+          <paragraph wId="section-6-2-d">
             <num>(d)</num>
             <content>
               <p>the possible adverse effects on other parties of imposing a fine or other orders <eol/>under this Act.</p>
@@ -434,413 +434,413 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_7">
+      <section wId="section-7">
         <heading>Remedial orders</heading>
         <num>7.</num>
-        <subsection wId="sec_7__subsec_1">
+        <subsection wId="section-7-1">
           <num>(1)</num>
           <content>
             <p>An undertaking convicted of corporate manslaughter may, in addition to any fine <eol/>imposed, be ordered to remedy the matters which gave rise to the offence, in this <eol/>section referred to as a “remedial order”.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_2">
+        <subsection wId="section-7-2">
           <num>(2)</num>
           <intro>
             <p>In assessing whether a remedial order is appropriate the court shall have due regard to <eol/>all relevant circumstances, including⁠—</p>
           </intro>
-          <paragraph wId="sec_7__subsec_2__para_a">
+          <paragraph wId="section-7-2-a">
             <num>(a)</num>
             <content>
               <p>whether the remedial order is necessary to secure the payment of a fine,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_2__para_b">
+          <paragraph wId="section-7-2-b">
             <num>(b)</num>
             <content>
               <p>whether the undertaking has subscribed to any assurance programmes,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_2__para_c">
+          <paragraph wId="section-7-2-c">
             <num>(c)</num>
             <content>
               <p>the previous compliance by the undertaking with any relevant legislative duties, <eol/>and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_2__para_d">
+          <paragraph wId="section-7-2-d">
             <num>(d)</num>
             <content>
               <p>whether a remedial order is necessary to prevent a recurrence of the events which <eol/>gave rise to the corporate manslaughter.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_7__subsec_3">
+        <subsection wId="section-7-3">
           <num>(3)</num>
           <content>
             <p>When imposing a remedial order the court may consult with and hear submissions <eol/>from any relevant trade unions, and regulatory and enforcement authorities in <eol/>determining the conditions to be imposed.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_4">
+        <subsection wId="section-7-4">
           <num>(4)</num>
           <intro>
             <p>A remedial order may include⁠—</p>
           </intro>
-          <paragraph wId="sec_7__subsec_4__para_a">
+          <paragraph wId="section-7-4-a">
             <num>(a)</num>
             <content>
               <p>a requirement that prior to imposition of the remedial order the undertaking <eol/>submits to the court a detailed programme outlining the steps to be taken to <eol/>remedy the problems that led to the corporate manslaughter,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_b">
+          <paragraph wId="section-7-4-b">
             <num>(b)</num>
             <content>
               <p>in the event of the programme submitted being found unsatisfactory by the court, <eol/>a programme drawn up by the court in consultation with any relevant trade <eol/>unions, and regulatory and enforcement authorities,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_c">
+          <paragraph wId="section-7-4-c">
             <num>(c)</num>
             <content>
               <p>a requirement on the undertaking to communicate to employees, or where <eol/>appropriate others, or both, the details of the programme,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_d">
+          <paragraph wId="section-7-4-d">
             <num>(d)</num>
             <content>
               <p>a requirement on the undertaking to make regular reports on the implementation <eol/>of the programme, or</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_e">
+          <paragraph wId="section-7-4-e">
             <num>(e)</num>
             <content>
               <p>a requirement on the undertaking to submit to regular unannounced inspections to <eol/>assess that implementation of the programme for reform, without prejudice to any <eol/>statutory powers of the court or of any other regulatory and enforcement <eol/>authorities.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_7__subsec_5">
+        <subsection wId="section-7-5">
           <num>(5)</num>
           <content>
             <p>Where an undertaking does not comply with the terms of a remedial order, the court <eol/>may impose a fine or supervised management on the undertaking until such time as <eol/>the order is implemented.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_6">
+        <subsection wId="section-7-6">
           <num>(6)</num>
           <content>
             <p>Where supervised management is imposed it shall be conducted by a relevant <eol/>regulatory or enforcement authority.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_7">
+        <subsection wId="section-7-7">
           <num>(7)</num>
           <intro>
             <p>Where there is no relevant regulatory or enforcement authority, the court may appoint <eol/>a competent officer to manage the undertaking who shall⁠—</p>
           </intro>
-          <paragraph wId="sec_7__subsec_7__para_a">
+          <paragraph wId="section-7-7-a">
             <num>(a)</num>
             <content>
               <p>be suitably qualified,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_7__para_b">
+          <paragraph wId="section-7-7-b">
             <num>(b)</num>
             <content>
               <p>not be connected to the convicted undertaking, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_7__para_c">
+          <paragraph wId="section-7-7-c">
             <num>(c)</num>
             <content>
               <p>report to the court at regular specified intervals.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_7__subsec_8">
+        <subsection wId="section-7-8">
           <num>(8)</num>
           <content>
             <p>The costs associated with the remedial order shall be borne by the convicted <eol/>undertaking unless the court decides otherwise.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_8">
+      <section wId="section-8">
         <heading>Community service orders</heading>
         <num>8.</num>
-        <subsection wId="sec_8__subsec_1">
+        <subsection wId="section-8-1">
           <num>(1)</num>
           <content>
             <p>A court may impose a community service order on an undertaking convicted of <eol/>corporate manslaughter in addition to a fine.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_2">
+        <subsection wId="section-8-2">
           <num>(2)</num>
           <content>
             <p>Prior to imposing a community service order the court shall require the undertaking to <eol/>prepare a report containing the details of a community service project it could <eol/>perform.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_3">
+        <subsection wId="section-8-3">
           <num>(3)</num>
           <content>
             <p>If the convicted undertaking does not propose such a project, or the court rejects its <eol/>proposal, the court shall specify a project to be undertaken.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_4">
+        <subsection wId="section-8-4">
           <num>(4)</num>
           <content>
             <p>A community service project shall bear a reasonable relationship to the circumstances <eol/>giving rise to the commission of the corporate manslaughter.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_5">
+        <subsection wId="section-8-5">
           <num>(5)</num>
           <content>
             <p>In determining the nature of a community service order the court shall consider what <eol/>damage, if any, was suffered by the community as a whole as a result of the corporate <eol/>manslaughter.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_6">
+        <subsection wId="section-8-6">
           <num>(6)</num>
           <intro>
             <p>Where a community service order requires more supervision than could be performed <eol/>by the court, the court shall appoint a competent officer to manage the undertaking <eol/>who shall⁠—</p>
           </intro>
-          <paragraph wId="sec_8__subsec_6__para_a">
+          <paragraph wId="section-8-6-a">
             <num>(a)</num>
             <content>
               <p>be suitably qualified,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_8__subsec_6__para_b">
+          <paragraph wId="section-8-6-b">
             <num>(b)</num>
             <content>
               <p>not be connected to the convicted undertaking, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_8__subsec_6__para_c">
+          <paragraph wId="section-8-6-c">
             <num>(c)</num>
             <content>
               <p>report to the court at regular intervals.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_8__subsec_7">
+        <subsection wId="section-8-7">
           <num>(7)</num>
           <content>
             <p>The competent officer of the court shall supervise compliance with the project and if <eol/>necessary, prepare reports on the proposed project.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_8">
+        <subsection wId="section-8-8">
           <num>(8)</num>
           <content>
             <p>The fees incurred by the competent officer of the court shall be payable by the <eol/>undertaking unless the court decides otherwise.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_9">
+      <section wId="section-9">
         <heading>Adverse publicity orders</heading>
         <num>9.</num>
-        <subsection wId="sec_9__subsec_1">
+        <subsection wId="section-9-1">
           <num>(1)</num>
           <content>
             <p>In addition to any fine imposed, the court may order that an undertaking convicted of <eol/>corporate manslaughter be made subject to an adverse publicity order.</p>
           </content>
         </subsection>
-        <subsection wId="sec_9__subsec_2">
+        <subsection wId="section-9-2">
           <num>(2)</num>
           <intro>
             <p>An adverse publicity order shall require the convicted undertaking to publicise⁠—</p>
           </intro>
-          <paragraph wId="sec_9__subsec_2__para_a">
+          <paragraph wId="section-9-2-a">
             <num>(a)</num>
             <content>
               <p>the fact of its conviction for corporate manslaughter,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_2__para_b">
+          <paragraph wId="section-9-2-b">
             <num>(b)</num>
             <content>
               <p>the specified particulars of the offence,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_2__para_c">
+          <paragraph wId="section-9-2-c">
             <num>(c)</num>
             <content>
               <p>the amount of any fine imposed,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_2__para_d">
+          <paragraph wId="section-9-2-d">
             <num>(d)</num>
             <content>
               <p>the terms of any remedial order made,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_2__para_e">
+          <paragraph wId="section-9-2-e">
             <num>(e)</num>
             <content>
               <p>the terms of any community service order made, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_2__para_f">
+          <paragraph wId="section-9-2-f">
             <num>(f)</num>
             <content>
               <p>where the court considers appropriate, the terms of any disqualification order <eol/>made.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_9__subsec_3">
+        <subsection wId="section-9-3">
           <num>(3)</num>
           <intro>
             <p>An adverse publicity order shall require the convicted undertaking to publicise the <eol/>requirements set out in <i>subsection </i> <i>(2)</i>⁠—</p>
           </intro>
-          <paragraph wId="sec_9__subsec_3__para_a">
+          <paragraph wId="section-9-3-a">
             <num>(a)</num>
             <content>
               <p>in a specified broadcast, print or online medium,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_3__para_b">
+          <paragraph wId="section-9-3-b">
             <num>(b)</num>
             <content>
               <p>by signage or leaflets at an office or place of business of the undertaking that the <eol/>court deem appropriate,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_3__para_c">
+          <paragraph wId="section-9-3-c">
             <num>(c)</num>
             <content>
               <p>by letters, emails, telephone or other means of communication to the customers of <eol/>the undertaking or those affected by the conduct of the undertaking, or affected <eol/>by Community service orders, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_9__subsec_3__para_d">
+          <paragraph wId="section-9-3-d">
             <num>(d)</num>
             <content>
               <p>by any other means, including electronic means, which the court deems <eol/>appropriate.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_9__subsec_4">
+        <subsection wId="section-9-4">
           <num>(4)</num>
           <content>
             <p>An adverse publicity order may require the organisation to supply to an enforcement <eol/>authority or authorities (if any) as it considers appropriate within a specified period, <eol/>evidence that the adverse publicity order has been complied with.</p>
           </content>
         </subsection>
-        <subsection wId="sec_9__subsec_5">
+        <subsection wId="section-9-5">
           <num>(5)</num>
           <content>
             <p>An undertaking that fails to comply with an adverse publicity order is guilty of an <eol/>offence, and liable on conviction on indictment to a fine.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_10">
+      <section wId="section-10">
         <heading>Disqualification orders</heading>
         <num>10.</num>
-        <subsection wId="sec_10__subsec_1">
+        <subsection wId="section-10-1">
           <num>(1)</num>
           <content>
             <p>Where the court considers it appropriate, a managerial agent convicted of grossly <eol/>negligent management causing death may be disqualified from acting in a <eol/>management capacity in an area specified by the court for a period not exceeding 15 <eol/>years.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_2">
+        <subsection wId="section-10-2">
           <num>(2)</num>
           <content>
             <p>A person found to be in breach of a disqualification order is guilty of an offence.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_3">
+        <subsection wId="section-10-3">
           <num>(3)</num>
           <content>
             <p>A prosecution for an offence under this section shall be on indictment.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_4">
+        <subsection wId="section-10-4">
           <num>(4)</num>
           <content>
             <p>A person convicted of an offence under this section is liable to a fine not exceeding <eol/>€5,000,000 or imprisonment for a term not exceeding 2 years or to both.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_5">
+        <subsection wId="section-10-5">
           <num>(5)</num>
           <content>
             <p>Where the court imposes a fine on a person convicted of an offence under this section, <eol/>the court must take into account the person’s financial circumstances, and for that <eol/>purpose, the court may inquire into that person’s financial circumstances in so far as <eol/>is practicable.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_6">
+        <subsection wId="section-10-6">
           <num>(6)</num>
           <intro>
             <p>In this section⁠—</p>
             <p>“financial circumstances” means, in relation to a person who has been convicted of an <eol/>offence⁠—</p>
           </intro>
-          <paragraph wId="sec_10__subsec_6__para_a">
+          <paragraph wId="section-10-6-a">
             <num>(a)</num>
             <content>
               <p>the amount of the person’s annual income,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_10__subsec_6__para_b">
+          <paragraph wId="section-10-6-b">
             <num>(b)</num>
             <content>
               <p>the aggregate value of all the property (real and personal) belonging to the <eol/>person,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_10__subsec_6__para_c">
+          <paragraph wId="section-10-6-c">
             <num>(c)</num>
             <content>
               <p>the aggregate amount of all liabilities of the person including any duty (moral or <eol/>legal) to provide financially for members of his or her family or other persons <eol/>including employees,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_10__subsec_6__para_d">
+          <paragraph wId="section-10-6-d">
             <num>(d)</num>
             <content>
               <p>the aggregate of all monies owing to the person, the dates upon which they fall <eol/>due to be paid and the likelihood of their being paid, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_10__subsec_6__para_e">
+          <paragraph wId="section-10-6-e">
             <num>(e)</num>
             <content>
               <p>such other circumstances as the court considers appropriate.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_10__subsec_7">
+        <subsection wId="section-10-7">
           <num>(7)</num>
           <intro>
             <p>In addition to the penalties provided for, a person convicted of an offence under this <eol/>section⁠—</p>
           </intro>
-          <paragraph wId="sec_10__subsec_7__para_a">
+          <paragraph wId="section-10-7-a">
             <num>(a)</num>
             <content>
               <p>shall be subject to a further period of disqualification of a duration of 10 years, <eol/>and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_10__subsec_7__para_b">
+          <paragraph wId="section-10-7-b">
             <num>(b)</num>
             <content>
               <p>shall be required to return to the undertaking any remuneration paid to him or her <eol/>while acting in breach of a disqualification order.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_10__subsec_8">
+        <subsection wId="section-10-8">
           <num>(8)</num>
           <content>
             <p>Any person found to be acting on the instructions of another known to that person or <eol/>found to be employing a person to be subject to a disqualification order shall be liable <eol/>to a disqualification order.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_11">
+      <section wId="section-11">
         <heading>Effect on prosecution for manslaughter by gross negligence</heading>
         <num>11.</num>
-        <subsection wId="sec_11__subsec_1">
+        <subsection wId="section-11-1">
           <num>(1)</num>
           <content>
             <p>Nothing in this Act shall prevent the prosecution of any individual for the offence of <eol/>manslaughter by gross negligence.</p>
           </content>
         </subsection>
-        <subsection wId="sec_11__subsec_2">
+        <subsection wId="section-11-2">
           <num>(2)</num>
           <content>
             <p>Where a managerial agent has been charged with manslaughter by gross negligence <eol/>arising from an incident related to an undertaking and that prosecution fails, it shall be <eol/>open to the court to convict of grossly negligent management causing death as an <eol/>alternative verdict.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_12">
+      <section wId="section-12">
         <heading>Disregarding separate legal personality</heading>
         <num>12.</num>
         <content>
           <p>A court may at its discretion disregard separate legal personality where an undertaking <eol/>has been dissolved and re-formed and the court is satisfied that the purpose of that <eol/>dissolution and reformation was to avoid criminal liability for corporate manslaughter or <eol/>grossly negligent management causing death.</p>
         </content>
       </section>
-      <section wId="sec_13">
+      <section wId="section-13">
         <heading>Short title</heading>
         <num>13.</num>
         <content>

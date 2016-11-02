@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/47"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/47"/>
+          <FRBRdate date="2016-06-21" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="47"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/47/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/47/initiated/en"/>
+          <FRBRdate date="2016-06-21" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/47/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/47/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Caidrimh Thionscail (An Ceart chun Rochtana) (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Industrial Relations (Right to Access) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE CAIDRIMH THIONSCAIL (AN CEART CHUN ROCHTANA) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Industrial Relations (Right to Access) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of Industrial Relations (Amendment) Act 2015</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title and citation</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Industrial Relations (Amendment) Act 2015 (No. 27)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE CAIDRIMH THIONSCAIL (AN CEART CHUN ROCHTANA) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Industrial Relations (Right to Access) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Industrial Relations (Amendment) Act 2015 so as to allow Trade <eol/>Unions access to their members in the workplace for purposes related to the <eol/>employment of its members or for purposes related to the union’s business or both.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“Act of 2015” means the Industrial Relations (Amendment) Act 2015.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of Industrial Relations (Amendment) Act 2015</heading>
+        <num>2.</num>
+        <content>
+          <p>The Act of 2015 is amended by inserting the following sections after section 8:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <heading>“Access to workplaces</heading>
+                  <num>8A. (1)</num>
+                  <intro>
+                    <p>A representative of a union is entitled, in accordance with this section <eol/>and sections 8B and 8C, to enter a workplace⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>for purposes related to the employment of its members,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>for purposes related to the union’s business, or</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>both.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <intro>
+                    <p>The purposes related to the employment of a union’s members include<eol/>⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>to participate in bargaining for a collective agreement,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>to deal with matters concerning the health and safety of union <eol/>members,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>to monitor compliance with the operation of a collective agreement,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(d)</num>
+                    <content>
+                      <p>to monitor compliance with this Act and other Acts dealing with <eol/>employment-related rights in relation to union members,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(e)</num>
+                    <content>
+                      <p>with the authority of an employee, to deal with matters relating to <eol/>an individual employment agreement or a proposed individual <eop/>employment agreement or an individual employee’s terms and <eol/>conditions of employment or an individual employee’s proposed <eol/>terms and conditions of employment,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(f)</num>
+                    <content>
+                      <p>to seek compliance with relevant requirements in any case where <eol/>non-compliance is detected.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <intro>
+                    <p>The purposes related to a union’s business include⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>to discuss union business with union members,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>to seek to recruit employees as union members,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>to provide information on the union and union membership to any <eol/>employee on the premises.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(4)</num>
+                  <intro>
+                    <p>A discussion in a workplace between an employee and a representative <eol/>of a union, who is entitled under this section and sections 8A and 8B <eol/>to enter the workplace for the purpose of the discussion⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>must not exceed a reasonable duration, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>is not to be treated as a union meeting for the purposes of section <eol/>8D.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(5)</num>
+                  <content>
+                    <p>An employer must not deduct from an employee’s wages any amount <eol/>in respect of the time the employee is engaged in a discussion referred <eol/>to in subsection (4).</p>
+                    <p>Representative of union must obtain consent to enter workplace</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>8B. (1)</num>
+                  <content>
+                    <p>Before entering a workplace under section 8C, a representative of a <eol/>union must request and obtain the consent of the employer or a <eol/>representative of the employer.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <intro>
+                    <p>If a representative of a union makes a request under subsection (1)⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>the employer or representative of the employer must not <eol/>unreasonably withhold consent, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>the employer or representative of the employer must advise the <eol/>representative of the union of the employer’s or representative of <eol/>the employer’s decision as soon as is reasonably practicable but no <eol/>later than the working day after the date on which the request was <eol/>received, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>the consent of the employer or representative of the employer (as <eol/>the case may be) must be treated as having been obtained if the <eol/>employer or representative of the employer does not respond to the <eol/>request within 2 working days after the date on which the request <eol/>was received.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <content>
+                    <p>If an employer or a representative of an employer withholds consent <eol/>under subsection (2), the employer or representative of the employer <eol/>must, as soon as is reasonably practicable but no later than the <eol/>working day after the date of the decision, give reasons in writing for <eol/>that decision to the representative of the union who made the request.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(4)</num>
+                  <content>
+                    <p>This section is subject to section 8E (which specifies when access to <eol/>workplaces may be denied).</p>
+                    <p>Conditions relating to access to workplaces</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>8C. (1)</num>
+                  <intro>
+                    <p>A representative of a union may enter a workplace⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>for a purpose specified in section 8A(2) if the representative <eol/>believes, on reasonable grounds, that a member of the union, to <eol/>whom the purpose of the entry relates, is working or normally <eol/>works in the workplace,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>for a purpose specified in section 8A(3) if the representative <eol/>believes, on reasonable grounds, that the union’s membership rule <eol/>covers an employee who is working or normally works in the <eol/>workplace.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <intro>
+                    <p>A representative of a union exercising the right to enter a workplace⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>may do so only at reasonable times during any period when any <eol/>employee is employed to work in the workplace,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>must do so in a reasonable way, having regard to normal business <eol/>operations in the workplace, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <intro>
+                      <p>must comply with any existing reasonable procedures and <eol/>requirements applying in respect of the workplace that relate to⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(i)</num>
+                      <content>
+                        <p>safety or health; or</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(ii)</num>
+                      <content>
+                        <p>security.</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <intro>
+                    <p>A representative of a union exercising the right to enter a workplace <eol/>must, at the time of the initial entry and, if requested by the employer <eol/>or a representative of the employer or by a person in control of the <eol/>workplace, at any time after entering the workplace—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>give the purpose of the entry, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <intro>
+                      <p>produce⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(i)</num>
+                      <content>
+                        <p>evidence of his or her identity, and</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(ii)</num>
+                      <content>
+                        <p>evidence of his or her authority to represent the union <eol/>concerned.</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(4)</num>
+                  <intro>
+                    <p>If a representative of a union exercises the right to enter a workplace <eol/>and is unable, despite reasonable efforts, to find the employer or a <eol/>representative of the employer or the person in control of the <eol/>workplace, the representative must leave in a prominent place in the <eol/>workplace a written statement of⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>the identity of the person who entered the premises,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>the union the person is a representative of,</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>the date and time of entry, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(d)</num>
+                    <content>
+                      <p>the purpose or purposes of the entry.</p>
+                      <p>Union meetings</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>8D. (1)</num>
+                  <intro>
+                    <p>An employer must allow every union member employed by the <eol/>employer to attend⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>at least 1 union meeting (of a maximum of 2 hours’ duration) in the <eol/>calendar year 2016, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>at least 2 union meetings (each of a maximum of 2 hours’ duration) <eol/>in each calendar year after the calendar year 2016.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <content>
+                    <p>The union must give the employer at least 14 days’ notice of the date <eol/>and time of any union meeting to which subsection (1) applies.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <content>
+                    <p>The union must make such arrangements with the employer as may be <eol/>necessary to ensure that the employer’s business is maintained during <eol/>any union meeting to which subsection (1) applies, including, where <eol/>appropriate, an arrangement for sufficient union members to remain <eol/>available during the meeting to enable the employer’s operations to <eol/>continue.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(4)</num>
+                  <content>
+                    <p>Work must resume as soon as practicable after the meeting, but the <eol/>employer is not obliged to pay any union member for a period longer <eol/>than 2 hours in respect of any meeting.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(5)</num>
+                  <content>
+                    <p>An employer must allow a union member employed by the employer <eol/>to attend a union meeting under subsection (1) on ordinary pay to the <eol/>extent that the employee would otherwise be working for the employer <eol/>during the meeting.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(6)</num>
+                  <intro>
+                    <p>For the purposes of subsection (5), the union must⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>supply to the employer a list of members who attended the union <eol/>meeting, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>advise the employer of the duration of the meeting.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(7)</num>
+                  <content>
+                    <p>Every employer who fails to allow a union member to attend a union <eol/>meeting in accordance with this section is liable to a penalty imposed <eol/>by the Authority.</p>
+                    <p>When access to workplaces may be denied</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>8E. (1)</num>
+                  <intro>
+                    <p>A representative of a union may be denied access to a workplace if <eol/>entry to the premises or any part of the premises might prejudice⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>the security or defence of the Irish State, or</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>the investigation or detection of offences.</p>
+                    </content>
+                  </paragraph>
+                </subsection>
+                <subsection>
+                  <num>(2)</num>
+                  <content>
+                    <p>A certificate given in accordance with subsection (3) is conclusive <eol/>evidence that grounds exist under subsection (1) for denying entry to <eol/>the premises or part of the premises.</p>
+                  </content>
+                </subsection>
+                <subsection>
+                  <num>(3)</num>
+                  <intro>
+                    <p>A certificate is given in accordance with this subsection if⁠—</p>
+                  </intro>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>it is given by the Attorney-General, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <intro>
+                      <p>it certifies, in respect of the premises or part of the premises <eop/>concerned, that permitting entry under section 8A might prejudice<eol/>⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(i)</num>
+                      <content>
+                        <p>the security or defence of the Irish State, or</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(ii)</num>
+                      <content>
+                        <p>the investigation or detection of offences.”.</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Short title and citation</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as the Industrial Relations (Right to Access) (Amendment) Act <eol/>2016.</p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

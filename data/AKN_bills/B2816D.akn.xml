@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/28"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/28"/>
+          <FRBRdate date="2016-05-24" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="28"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/28/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/28/initiated/en"/>
+          <FRBRdate date="2016-05-24" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/28/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/28/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Staidrimh (Céad Bliain Éirí Amach 1916), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Statistics (1916 Rising Centenary) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE STAIDRIMH (CÉAD BLIAIN ÉIRÍ AMACH 1916), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Statistics (1916 Rising Centenary) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definition</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 33 of Statistics Act 1993 - Exception</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Amendment of section 35 of Statistics Act 1993 - 1916 Centenary commemoration release</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Amendment of section 35 of Statistics Act 1993</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">Amendment of section 38 of Statistics Act 1993 - Non-offence</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Statistics Act 1993 (No. 21)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE STAIDRIMH (CÉAD BLIAIN ÉIRÍ AMACH 1916), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Statistics (1916 Rising Centenary) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled"/>
+      <p class="entitled">entitled</p>
+      <p class="entitled"/>
+      <longTitle>
+        <p>An Act to amend the Statistics Act 1993, in relation to the first Census of Population of <eol/>Ireland taken since the establishment of the State; to afford that census a special heritage <eol/>status and to have such released to the public for historical, genealogical and other <eol/>research as part of the national centenary of the 1916 Rising, and the Decade of <eol/>Centenaries, commemorations.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Definition</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“1911 Census” means the last Census of Population taken by the British authorities for <eol/>the entire island of Ireland;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-2">
+          <content>
+            <p>“1926 Census” means the first Census of Population taken by Saorstát Éireann;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-3">
+          <content>
+            <p>“Principal Act” means the Statistics Act 1993.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 33 of Statistics Act 1993 - Exception</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 33(1) of the Principal Act is amended by the insertion of “save in the case of <eol/>section 35(2),” after “or undertaking shall,”.</p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Amendment of section 35 of Statistics Act 1993 - 1916 Centenary commemoration release</heading>
+        <num>3.</num>
+        <content>
+          <p>Section 35 of the Principal Act is amended by substituting the following subsection for <eol/>the existing section⁠—</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(1)</num>
+                  <content>
+                    <p>In the case of a Census of Population undertaken under this Act or <eol/>under the repealed enactments, the restrictions of sections 32 and 33 of <eol/>this Act shall cease to apply 100 years after the date of the relevant <eol/>Census, or earlier in the case of subsection (2).”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-4">
+        <heading>Amendment of section 35 of Statistics Act 1993</heading>
+        <num>4.</num>
+        <content>
+          <p>Section 35 of the Principal Act is amended by the insertion of the following subsection <eop/>after subsection (1)⁠—</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(2)</num>
+                  <content>
+                    <p>In the case of the 1926 Census of Population due to its importance as <eol/>the first Census taken since 1911 and the first taken since the <eol/>establishment of the State and in recognition, therefore, of its special <eol/>historical and genealogical significance section 35(1) shall not apply <eol/>and that An Taoiseach shall make the relevant arrangements to have <eol/>the information contained within, and any records associated with, that <eol/>Census released as part of the national centenary of the 1916 Rising, <eol/>and the Decade of Centenaries, commemorations.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-5">
+        <heading>Amendment of section 38 of Statistics Act 1993 - Non-offence</heading>
+        <num>5.</num>
+        <content>
+          <p>Section 38 of the Principal Act is amended by the insertion of the following after the <eol/>words “guilty of an offence”:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <content>
+                    <p>“, unless it is in relation to Census records relating to the 1926 Census as <eol/>per section 35(2).”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-6">
+        <heading>Short title</heading>
+        <num>6.</num>
+        <intro>
+          <p>This Act may be cited as the Statistics (1916 Rising Centenary) Act 2016.</p>
+        </intro>
+        <subsection wId="section-6-4">
+          <content/>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

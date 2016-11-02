@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/73"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/73"/>
+          <FRBRdate date="2016-07-18" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="73"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/73/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/73/initiated/en"/>
+          <FRBRdate date="2016-07-18" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/73/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/73/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Maoin Chultúrtha a Choimirciú i gCás Coinbhleacht Armtha (Coinbhinsiún na Háige), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Protection of Cultural Property in the event of Armed Conflict (Hague Convention) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM MAOIN CHULTÚRTHA A CHOIMIRCIÚ I gCÁS COINBHLEACHT ARMTHA (COINBHINSIÚN NA HÁIGE), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Protection of Cultural Property in the event of Armed Conflict (Hague Convention) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definitions</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Offences</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Offences outside State</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Penalties</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">Responsibility of military commanders and other superiors</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Defence of superior orders</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-7" level="1">
+          <inline name="tocNum">7.</inline>
+          <inline name="tocHeading">Double jeopardy</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-8" level="1">
+          <inline name="tocNum">8.</inline>
+          <inline name="tocHeading">Blue Shield emblem</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-9" level="1">
+          <inline name="tocNum">9.</inline>
+          <inline name="tocHeading">Amendment of Criminal Justice (Mutual Assistance) Act 2008 </inline>
+        </tocItem>
+        <tocItem class="section" href="#section-10" level="1">
+          <inline name="tocNum">10.</inline>
+          <inline name="tocHeading">Amendment of Schedule to Criminal Procedure Act 2010 </inline>
+        </tocItem>
+        <tocItem class="section" href="#section-11" level="1">
+          <inline name="tocNum">11.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+        <tocItem class="schedule" href="toc_book_12" level="1">SCHEDULE 1</tocItem>
+        <tocItem class="heading" href="" level="0">Convention for the Protection of Cultural Property in the Event of Armed Conflict</tocItem>
+        <tocItem class="schedule" href="toc_book_13" level="1">SCHEDULE 2</tocItem>
+        <tocItem class="heading" href="" level="0">Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property</tocItem>
+        <tocItem class="heading" href="" level="0">in the Event of Armed Conflict</tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Criminal Justice (Mutual Assistance) Act 2008 (No. 7)</p>
+        <p class="act-referred-to">Criminal Procedure Act 2010 (No. 27)</p>
+        <p class="act-referred-to">European Arrest Warrant Act 2003 (No. 45)</p>
+        <p class="act-referred-to">Extradition Act 1965 (No. 17)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM MAOIN CHULTÚRTHA A CHOIMIRCIÚ I gCÁS COINBHLEACHT ARMTHA (COINBHINSIÚN NA HÁIGE), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Protection of Cultural Property in the event of Armed Conflict (Hague Convention) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to give effect to the Convention for the Protection of Cultural Property in the Event of Armed Conflict, done at The Hague on 14 May 1954 and to the Protocol thereto, done at The Hague on 26 March 1999 and for those purposes to provide for offences relating to acts prohibited by that Protocol; and to provide for matters related thereto.</p>
+      </longTitle>
+    </preface>
+    <body>
+      <section wId="section-1">
+        <heading>Definitions</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“Convention” means the Convention for the Protection of Cultural Property in the Event <eol/>of Armed Conflict, done at The Hague on 14 May 1954, the text of which is set out in <eol/><i>Schedule </i> <i>1</i>;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-2">
+          <intro>
+            <p>“cultural property”, irrespective of origin or ownership, means⁠—</p>
+          </intro>
+          <paragraph wId="section-1-2-a">
+            <num>(a)</num>
+            <intro>
+              <p>movable or immovable property of great importance to the cultural heritage of <eol/>every people, including⁠—</p>
+            </intro>
+            <subparagraph wId="section-1-2-a-i">
+              <num>(i)</num>
+              <content>
+                <p>monuments of architecture, art or history, whether religious or secular,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-a-ii">
+              <num>(ii)</num>
+              <content>
+                <p>archaeological sites,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-a-iii">
+              <num>(iii)</num>
+              <content>
+                <p>groups of buildings which, as a whole, are of historical or artistic interest,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-a-iv">
+              <num>(iv)</num>
+              <content>
+                <p>works of art,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-a-v">
+              <num>(v)</num>
+              <content>
+                <p>manuscripts, books and other objects of artistic, historical or archaeological <eol/>interest,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-a-vi">
+              <num>(vi)</num>
+              <content>
+                <p>scientific collections and important collections of books or archives or of <eol/>reproductions of the property defined above,</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph wId="section-1-2-b">
+            <num>(b)</num>
+            <intro>
+              <p>buildings whose main and effective purpose is to preserve or exhibit the movable <eol/>cultural property referred to in <i>paragraph </i> <i>(a)</i>, including⁠—</p>
+            </intro>
+            <subparagraph wId="section-1-2-b-i">
+              <num>(i)</num>
+              <content>
+                <p>museums,</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-b-ii">
+              <num>(ii)</num>
+              <content>
+                <p>large libraries and depositories of archives, and</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-1-2-b-iii">
+              <num>(iii)</num>
+              <content>
+                <p>refuges intended to shelter, in the event of armed conflict, the movable <eol/>cultural property referred to in<i> paragraph </i> <i>(a)</i>, </p>
+              </content>
+            </subparagraph>
+            <wrapUp>
+              <p>and</p>
+            </wrapUp>
+          </paragraph>
+          <paragraph wId="section-1-2-c">
+            <num>(c)</num>
+            <content>
+              <p>centres containing a large amount of cultural property as defined in <i>paragraphs</i><eol/> <i>(a)</i> and <i>(b)</i>;</p>
+            </content>
+          </paragraph>
+          <wrapUp>
+            <p>“cultural property under enhanced protection” means cultural property to which the <eol/>status of enhanced protection has been granted in accordance with the system <eol/>established by the Protocol;</p>
+            <p>“Minister”, other than in<i> section </i> <i>8</i>, means the Minister for Foreign Affairs and Trade;</p>
+            <p>“Protocol” means the Protocol to the Convention done at The Hague on 26 March <eol/>1999, the text of which is set out in <i>Schedule </i> <i>2</i>.</p>
+          </wrapUp>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Offences</heading>
+        <num>2.</num>
+        <subsection wId="section-2-1">
+          <num>(1)</num>
+          <intro>
+            <p>A person who, during an armed conflict⁠—</p>
+          </intro>
+          <paragraph wId="section-2-1-a">
+            <num>(a)</num>
+            <content>
+              <p>attacks cultural property under enhanced protection,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-2-1-b">
+            <num>(b)</num>
+            <content>
+              <p>uses cultural property under enhanced protection or the area immediately <eol/>surrounding such property in support of military action,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-2-1-c">
+            <num>(c)</num>
+            <content>
+              <p>extensively destroys or appropriates cultural property,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-2-1-d">
+            <num>(d)</num>
+            <content>
+              <p>attacks cultural property, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-2-1-e">
+            <num>(e)</num>
+            <content>
+              <p>steals, pillages, misappropriates or vandalises cultural property,</p>
+            </content>
+          </paragraph>
+          <wrapUp>
+            <p>commits an offence.</p>
+          </wrapUp>
+        </subsection>
+        <subsection wId="section-2-2">
+          <num>(2)</num>
+          <content>
+            <p>A person charged with an offence under <i>paragraph </i> <i>(a)</i>, <i>(b)</i> or  <i>(c)</i> of <i>subsection </i> <i>(1)</i><eol/>shall be tried by the Central Criminal Court.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-2-3">
+          <num>(3)</num>
+          <content>
+            <p>Where a person is charged with an offence under this section, no further proceedings <eol/>in the matter (other than any remand in custody or on bail) may be taken except by, or <eol/>with the consent of, the Director of Public Prosecutions.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-3">
+        <heading>Offences outside State</heading>
+        <num>3.</num>
+        <subsection wId="section-3-1">
+          <num>(1)</num>
+          <content>
+            <p>A person who, in a place outside the State, engages in conduct that would, if the <eol/>conduct occurred in the State, constitute an offence under <i>paragraph </i> <i>(a)</i>,<i/> <i>(b)</i><i/>or<i/> <i>(c)</i> of <i>section </i> <i>2</i> <i>(1)</i>, commits an offence.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-2">
+          <num>(2)</num>
+          <content>
+            <p>An Irish citizen, a member of the Defence Forces or a person ordinarily resident in the <eol/>State, who, in a place outside the State, engages in conduct that would, if the conduct <eol/>occurred in the State, constitute an offence under <i>paragraphs </i> <i>(d)</i> or<i/> <i>(e)</i><i/>of<i> section </i> <i>2</i> <i>(1)</i><eol/>commits an offence.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-3">
+          <num>(3)</num>
+          <intro>
+            <p>A person who is⁠—</p>
+          </intro>
+          <paragraph wId="section-3-3-a">
+            <num>(a)</num>
+            <content>
+              <p>an Irish citizen,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-3-b">
+            <num>(b)</num>
+            <content>
+              <p>a member of the Defence Forces, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-3-c">
+            <num>(c)</num>
+            <content>
+              <p>ordinarily resident in the State,</p>
+            </content>
+          </paragraph>
+          <wrapUp>
+            <p>who exports or otherwise removes cultural property from an occupied territory of a <eol/>State Party to the Protocol commits an offence.</p>
+          </wrapUp>
+        </subsection>
+        <subsection wId="section-3-4">
+          <num>(4)</num>
+          <intro>
+            <p>It shall be a defence in proceedings for an offence under<i> subsection </i> <i>(3)</i> for the person <eol/>charged with the offence to prove that⁠—</p>
+          </intro>
+          <paragraph wId="section-3-4-a">
+            <num>(a)</num>
+            <content>
+              <p>the export or removal of the property concerned was in accordance with the law <eol/>of that State Party, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-4-b">
+            <num>(b)</num>
+            <content>
+              <p>he or she reasonably believed that such export or removal of the property <eol/>concerned was necessary for the protection or preservation of that property.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-3-5">
+          <num>(5)</num>
+          <intro>
+            <p>The Director of Public Prosecutions may take proceedings for an offence under <eol/><i>subsection </i> <i>(1)</i> if satisfied that⁠—</p>
+          </intro>
+          <paragraph wId="section-3-5-a">
+            <num>(a)</num>
+            <content>
+              <p>a request for a person’s surrender for the purpose of trying him or her for an <eol/>offence under <i>subsection </i> <i>(1)</i> has been made by a State in relation to which Part II <eol/>of the Extradition Act 1965 applies, and that request has been finally refused <eol/>(whether as a result of a decision of a court or otherwise),</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-5-b">
+            <num>(b)</num>
+            <content>
+              <p>a European arrest warrant has been received from an issuing State for the purpose <eol/>of bringing proceedings against the person for an offence in respect of that <eol/>conduct, and a final determination has been made that the European arrest <eol/>warrant should not be endorsed for execution in the State under the European Arrest Warrant Act 2003or that the person should not be surrendered to the <eol/>issuing State concerned, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-5-c">
+            <num>(c)</num>
+            <content>
+              <p>because of special circumstances, including the likelihood of a refusal referred to <eol/>in<i> paragraph </i> <i>(a)</i> or a determination referred to in <i>paragraph </i> <i>(b)</i>, it is expedient <eol/>that proceedings be taken against the person for an offence under<i> subsection </i> <i>(1)</i>.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-3-6">
+          <num>(6)</num>
+          <content>
+            <p>A person charged with an offence under<i> subsection </i> <i>(1)</i> shall be tried by the Central <eol/>Criminal Court.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-7">
+          <num>(7)</num>
+          <content>
+            <p>Proceedings for an offence under <i>subsection </i> <i>(2)</i> may be taken in any place in the State <eol/>and the offence may for all incidental purposes be treated as having been committed <eol/>in that place.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-8">
+          <num>(8)</num>
+          <content>
+            <p>Where a person is charged with an offence under this section no further proceedings <eol/>in the matter (other than a remand in custody or on bail) may be taken except by, or <eol/>with the consent of, the Director of Public Prosecutions.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-4">
+        <heading>Penalties</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <intro>
+            <p>A person guilty of an offence (other than an offence under <i>paragraph </i> <i>(a)</i>,  <i>(b)</i> or  <i>(c)</i> of <i>section </i> <i>2</i> <i>(1)</i> or under<i> section </i> <i>3</i> <i>(1)</i>)<i/>under this Act shall be liable⁠—</p>
+          </intro>
+          <paragraph wId="section-4-1-a">
+            <num>(a)</num>
+            <content>
+              <p>on summary conviction, to a class A fine or imprisonment for a term not <eol/>exceeding 12 months or both, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-1-b">
+            <num>(b)</num>
+            <content>
+              <p>on conviction on indictment, to a fine or imprisonment for a term not exceeding <eol/>30 years or both.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>A person guilty of an offence under <i>paragraph </i> <i>(a)</i>,  <i>(b)</i> or  <i>(c)</i> of <i>section </i> <i>2</i> <i>(1)</i> or under<i/><i/><i>section </i> <i>3</i> <i>(1)</i> shall be liable on conviction on indictment to a fine or imprisonment for a term not exceeding 30 years or both.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-5">
+        <heading>Responsibility of military commanders and other superiors</heading>
+        <num>5.</num>
+        <subsection wId="section-5-1">
+          <num>(1)</num>
+          <intro>
+            <p>Where a member of a force who is under the effective command and control of a <eol/>military commander commits an offence under <i>section </i> <i>2</i>, the military commander also <eol/>commits that offence where he or she⁠—</p>
+          </intro>
+          <paragraph wId="section-5-1-a">
+            <num>(a)</num>
+            <content>
+              <p>fails to exercise proper control over the members of those forces,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-1-b">
+            <num>(b)</num>
+            <content>
+              <p>knows, or ought to know, that members of those forces are committing, or are <eol/>about to commit, that offence, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-1-c">
+            <num>(c)</num>
+            <content>
+              <p>fails to take all necessary and reasonable measures within his or her power to <eol/>prevent or repress the commission of the offence concerned or to submit the <eol/>matter to the competent authorities for investigation and prosecution.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-5-2">
+          <num>(2)</num>
+          <intro>
+            <p>Where a person, who is under the authority and control of a person who is his or her <eol/>superior, commits an offence under <i>section </i> <i>2</i>, the superior also commits that offence <eol/>where he or she⁠—</p>
+          </intro>
+          <paragraph wId="section-5-2-a">
+            <num>(a)</num>
+            <content>
+              <p>fails to exercise proper control over the person,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-2-b">
+            <num>(b)</num>
+            <content>
+              <p>knows, or ought to know, that the person is committing, or is about to commit, <eol/>that offence,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-2-c">
+            <num>(c)</num>
+            <content>
+              <p>had effective responsibility for and control over the person, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-2-d">
+            <num>(d)</num>
+            <content>
+              <p>fails to take all necessary or reasonable measures within his or her power to <eol/>prevent or repress the commission of that offence or to submit the matter to the <eol/>competent authorities for investigation and prosecution.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="section-6">
+        <heading>Defence of superior orders</heading>
+        <num>6.</num>
+        <subsection wId="section-6-1">
+          <num>(1)</num>
+          <intro>
+            <p> In proceedings for an offence under this Act it shall be a defence for the defendant to <eol/>prove⁠—</p>
+          </intro>
+          <paragraph wId="section-6-1-a">
+            <num>(a)</num>
+            <intro>
+              <p>that he or she⁠—</p>
+            </intro>
+            <subparagraph wId="section-6-1-a-i">
+              <num>(i)</num>
+              <content>
+                <p>was required by law to obey the orders of a government or of a superior, <eol/>whether military or otherwise, and</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-6-1-a-ii">
+              <num>(ii)</num>
+              <content>
+                <p>was acting under an order of that government or superior, </p>
+              </content>
+            </subparagraph>
+            <wrapUp>
+              <p>and</p>
+            </wrapUp>
+          </paragraph>
+          <paragraph wId="section-6-1-b">
+            <num>(b)</num>
+            <intro>
+              <p>that he or she⁠—</p>
+            </intro>
+            <subparagraph wId="section-6-1-b-i">
+              <num>(i)</num>
+              <content>
+                <p>did not know that the order concerned was unlawful, or</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-6-1-b-ii">
+              <num>(ii)</num>
+              <content>
+                <p>believed it to be lawful.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-6-2">
+          <num>(2)</num>
+          <content>
+            <p><i>Subsection </i><i>(1)</i> does not apply to a defendant where the order concerned was <eol/>manifestly unlawful.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-7">
+        <heading>Double jeopardy</heading>
+        <num>7.</num>
+        <content>
+          <p>A person who is acquitted or convicted of an offence in a place outside the State shall not <eol/>be proceeded against for an offence under this Act consisting of the act that constituted <eol/>the offence of which the person was so acquitted or convicted except where the offence <eol/>is one to which Part 3 of the Criminal Procedure Act 2010 applies.</p>
+        </content>
+      </section>
+      <section wId="section-8">
+        <heading>Blue Shield emblem</heading>
+        <num>8.</num>
+        <subsection wId="section-8-1">
+          <num>(1)</num>
+          <content>
+            <p>The Minister, having had regard to the purposes of the Blue Shield emblem set out in <eol/>the Convention and having consulted the Minister for Defence and such other <eol/>persons, if any, as the Minister considers appropriate, may authorise, in writing, the <eol/>use of the Blue Shield emblem subject to such conditions as the Minister considers <eol/>necessary to ensure that the use of the emblem is appropriate.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-8-2">
+          <num>(2)</num>
+          <content>
+            <p>A person may apply, in writing, to the Minister for authorisation to use the Blue <eol/>Shield emblem and the Minister, having consulted the Minister for Defence and such <eol/>other persons, if any, as the Minister considers appropriate, may authorise the <eol/>applicant in writing to use the Blue Shield emblem, subject to such conditions as the <eol/>Minister considers necessary to ensure that the use of the emblem is appropriate.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-8-3">
+          <num>(3)</num>
+          <intro>
+            <p>The Minister may amend or withdraw such authorisation where the Minister <eol/>considers⁠—</p>
+          </intro>
+          <paragraph wId="section-8-3-a">
+            <num>(a)</num>
+            <content>
+              <p>the emblem has been improperly used,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-3-b">
+            <num>(b)</num>
+            <content>
+              <p>there has been a breach or contravention of a condition of the authorisation,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-3-c">
+            <num>(c)</num>
+            <content>
+              <p>the protection of cultural heritage or public interest requires it, or</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-3-d">
+            <num>(d)</num>
+            <content>
+              <p>it is appropriate to do so at the request of the person to whom the authorisation <eol/>was granted.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-8-4">
+          <num>(4)</num>
+          <content>
+            <p>A person who uses the Blue Shield emblem without or otherwise than in accordance <eol/>with the authorisations referred to in <i>subsections </i> <i>(1)</i> and  <i>(2)</i> commits an offence.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-8-5">
+          <num>(5)</num>
+          <intro>
+            <p>In this section⁠—</p>
+            <p>“Blue Shield emblem” means the distinctive emblem of the Convention described in <eol/>Article 16.1 of the Convention, the use of which is set out in Article 17 of the <eol/>Convention;</p>
+            <p>“Minister” means the Minister for Arts, Heritage and the Gaeltacht.</p>
+            <p>Amendment of Criminal Justice (Mutual Assistance) Act 2008</p>
+            <p>9.Section 2 (1) of the Criminal Justice (Mutual Assistance) Act 2008 is amended⁠—</p>
+          </intro>
+          <paragraph wId="section-8-5-a">
+            <num>(a)</num>
+            <content>
+              <p>by the insertion of the following definition:</p>
+              <p>
+                <mod>
+                  <quotedStructure>
+                    <p>“ ‘1999 Protocol’ means the Protocol to the Convention for the <eol/>Protection of Cultural Property in the event of Armed Conflict, done at <eol/>The Hague on 26 March 1999;”; </p>
+                    <p>and</p>
+                  </quotedStructure>
+                </mod>
+              </p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-5-b">
+            <num>(b)</num>
+            <content>
+              <p>in the definition of “international instrument”,:by the insertion of the following <eop/>paragraph after paragraph (l):</p>
+              <p>
+                <mod>
+                  <quotedStructure>
+                    <paragraph>
+                      <num>“(la)</num>
+                      <content>
+                        <p>the 1999 Protocol;”.</p>
+                      </content>
+                    </paragraph>
+                  </quotedStructure>
+                </mod>
+              </p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="section-10">
+        <heading>Amendment of Schedule to Criminal Procedure Act 2010</heading>
+        <num>10.</num>
+        <content>
+          <p>The Schedule to the Criminal Procedure Act 2010 is amended by the insertion of the <eol/>following paragraph after paragraph 5:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <section>
+                  <num>“5A.</num>
+                  <content>
+                    <p>An offence under<i> paragraph </i> <i>(a)</i>,  <i>(b)</i> or  <i>(c)</i> of <i>section </i> <i>2</i> <i>(1)</i> or under<i/><i/><i>section </i> <i>3</i> <i>(1)</i><i/>of the <i>Protection of Cultural Property in the Event of Armed </i><i/><i>Conflict (Hague Convention) Act 2016</i>.”.</p>
+                  </content>
+                </section>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-11">
+        <heading>Short title and commencement</heading>
+        <num>11.</num>
+        <subsection wId="section-11-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Protection of Cultural Property in the Event of Armed <eol/>Conflict (Hague Convention) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-11-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day or days as the Minister may appoint <eol/>by order or orders either generally or with reference to any particular purpose or <eol/>provision and different days may be so appointed for different purposes or different <eol/>provisions.</p>
+          </content>
+        </subsection>
+      </section>
+      <hcontainer name="schedule" wId="schedule-1">
+        <num>SCHEDULE 1</num>
+        <content>
+          <p>Section  <i>1</i></p>
+          <p>Convention for the Protection of Cultural Property in the Event of Armed Conflict</p>
+          <p/>
+          <p>The High Contracting Parties,</p>
+          <p><i>Recognizing</i> that cultural property has suffered grave damage during recent armed conflicts and <eol/>that, by reason of the developments in the technique of warfare, it is in increasing danger of <eol/>destruction;</p>
+          <p/>
+          <p><i>Being convinced</i> that damage to cultural property belonging to any people whatsoever means <eol/>damage to the cultural heritage of all mankind, since each people makes its contribution to the <eol/>culture of the world;</p>
+          <p/>
+          <p><i>Considering</i> that the preservation of the cultural heritage is of great importance for all peoples <eol/>of the world and that it is important that this heritage should receive international protection;</p>
+          <p><i>Guided</i> by the principles concerning the protection of cultural property during armed conflict, <eol/>as established in the Conventions of The Hague of 1899 and of 1907 and in the Washington <eol/>Pact of 15 April 1935;</p>
+          <p/>
+          <p><i>Being of the opinion</i> that such protection cannot be effective unless both national and <eol/>international measures have been taken to organize it in time of peace;</p>
+          <p/>
+          <p><i>Being determined</i> to take all possible steps to protect cultural property;</p>
+          <p/>
+          <p>Have agreed upon the following provisions:</p>
+          <p/>
+          <p>CHAPTER I </p>
+          <p>GENERAL PROVISIONS REGARDING PROTECTION</p>
+          <p>Definition of Cultural Property</p>
+          <p>Article 1</p>
+          <p>For the purposes of the present Convention, the term "cultural property" shall cover, <eol/>irrespective of origin or ownership:</p>
+          <p/>
+          <p>(a) movable or immovable property of great importance to the cultural heritage of every people, <eol/>such as monuments of architecture, art or history, whether religious or secular; archaeological <eol/>sites; groups of buildings which, as a whole, are of historical or artistic interest; works of art; <eol/>manuscripts, books and other objects of artistic, historical or archaeological interest; as well as <eop/>scientific collections and important collections of books or archives or of reproductions of the <eol/>property defined above;</p>
+          <p/>
+          <p>(b) buildings whose main and effective purpose is to preserve or exhibit the movable cultural <eol/>property defined in sub-paragraph (a) such as museums, large libraries and depositories of <eol/>archives, and refuges intended to shelter, in the event of armed conflict, the movable cultural <eol/>property defined in subparagraph (a);</p>
+          <p/>
+          <p>(c) centres containing a large amount of cultural property as defined in sub-paragraphs (a) and <eol/>(b), to be known as "centres containing monuments".</p>
+          <p>Protection of Cultural Property</p>
+          <p>Article 2</p>
+          <p>For the purposes of the present Convention, the protection of cultural property shall comprise <eol/>the safeguarding of and respect for such property.</p>
+          <p>Safeguarding of Cultural Property</p>
+          <p>Article 3</p>
+          <p>The High Contracting Parties undertake to prepare in time of peace for the safeguarding of <eol/>cultural property situated within their own territory against the foreseeable effects of an armed <eol/>conflict, by taking such measures as they consider appropriate.</p>
+          <p>Respect for Cultural Property</p>
+          <p>Article 4</p>
+          <p>1. The High Contracting Parties undertake to respect cultural property situated within their own <eol/>territory as well as within the territory of other High Contracting Parties by refraining from any <eol/>use of the property and its immediate surroundings or of the appliances in use for its protection <eol/>for purposes which are likely to expose it to destruction or damage in the event of armed <eol/>conflict; and by refraining from any act of hostility directed against such property.</p>
+          <p/>
+          <p>2. The obligations mentioned in paragraph I of the present Article may be waived only in cases <eol/>where military necessity imperatively requires such a waiver.</p>
+          <p/>
+          <p>3. The High Contracting Parties further undertake to prohibit, prevent and, if necessary, put a <eol/>stop to any form of theft, pillage or misappropriation of, and any acts of vandalism directed <eol/>against, cultural property. They shall, refrain from requisitioning movable cultural property <eol/>situated in the territory of another High Contracting Party.</p>
+          <p/>
+          <p>4. They shall refrain from any act directed by way of reprisals against cultural property.</p>
+          <p/>
+          <p>5. No High Contracting Party may evade the obligations incumbent upon it under the present <eop/>Article, in respect of another High Contracting Party, by reason of the fact that the latter has not <eol/>applied the measures of safeguard referred to in Article 3.</p>
+          <p>Occupation</p>
+          <p>Article 5</p>
+          <p>1. Any High Contracting Party in occupation of the whole or part of the territory of another <eol/>High Contracting Party shall as far as possible support the competent national authorities of the <eol/>occupied country in safeguarding and preserving its cultural property.</p>
+          <p/>
+          <p>2. Should it prove necessary to take measures to preserve cultural property situated in occupied <eol/>territory and damaged by military operations, and should the competent national authorities be <eol/>unable to take such measures, the Occupying Power shall, as far as possible, and in close co-<eol/>operation with such authorities, take the most necessary measures of preservation.</p>
+          <p/>
+          <p>3. Any High Contracting Party whose government is considered their legitimate government by <eol/>members of a resistance movement, shall, if possible, draw their attention to the obligation to <eol/>comply with those provisions of the Conventions dealing with respect for cultural property. </p>
+          <p>Distinctive Marking of Cultural Property</p>
+          <p>Article 6</p>
+          <p>In accordance with the provisions of Article 16, cultural property may bear a distinctive <eol/>emblem so as to facilitate its recognition.</p>
+          <p>Military Measures</p>
+          <p>Article 7</p>
+          <p>1. The High Contracting Parties undertake to introduce in time of peace into their military <eol/>regulations or instructions such provisions as may ensure observance of the present <eol/>Convention, and to foster in the members of their armed forces a spirit of respect for the culture <eol/>and cultural property of all peoples.</p>
+          <p/>
+          <p>2. The High Contracting Parties undertake to plan or establish in peacetime, within their armed <eol/>forces, services or specialist personnel whose purpose will be to secure respect for cultural <eol/>property and to co-operate with the civilian authorities responsible for safeguarding it.</p>
+          <p>CHAPTER II</p>
+          <p>SPECIAL PROTECTION</p>
+          <p>Granting of Special Protection</p>
+          <p>Article 8</p>
+          <p>1. There may be placed under special protection a limited number of refuges intended to shelter <eol/>movable cultural property in the event of armed conflict, of centres containing monuments and <eol/>other immovable cultural property of very great importance, provided that they:</p>
+          <p/>
+          <p>(a) are situated at an adequate distance from any large industrial centre or from any important <eol/>military objective constituting a vulnerable point, such as, for example, an aerodrome, <eol/>broadcasting station, establishment engaged upon work of national defence, a port or railway <eol/>station of relative importance or a main line of communication;</p>
+          <p/>
+          <p>(b) are not used for military purposes.</p>
+          <p/>
+          <p>2. A refuge for movable cultural property may also be placed under special protection, whatever <eol/>its location, if it is so constructed that, in all probability, it will not be damaged by bombs.</p>
+          <p/>
+          <p>3. A centre containing monuments shall be deemed to be used for military purposes whenever it <eol/>is used for the movement of military personnel or material, even in transit. The same shall apply <eol/>whenever activities directly connected with military operations, the stationing of military <eol/>personnel, or the production of war material are carried on within the centre.</p>
+          <p/>
+          <p>4. The guarding of cultural property mentioned in paragraph I above by armed custodians <eol/>specially empowered to do so, or the presence, in the vicinity of such cultural property, of <eol/>police forces normally responsible for the maintenance of public order, shall not be deemed to <eol/>be used for military purposes.</p>
+          <p/>
+          <p>5. If any cultural property mentioned in paragraph I of the present Article is situated near an <eol/>important military objective as defined in the said paragraph, it may nevertheless be placed <eol/>under special protection if the High Contracting Party asking for that protection undertakes, in <eol/>the event of armed conflict, to make no use of the objective and particularly, in the case of a <eol/>port, railway station or aerodrome, to divert all traffic therefrom. In that event, such diversion <eol/>shall be prepared in time of peace.</p>
+          <p/>
+          <p>6. Special protection is granted to cultural property by its entry in the "International Register of <eol/>Cultural Property under Special Protection". This entry shall only be made, in accordance with <eol/>the provisions of the present Convention and under the conditions provided for in the <eol/>Regulations for the execution of the Convention.</p>
+          <p/>
+          <p>Immunity of Cultural Property under Special Protection</p>
+          <p>Article 9</p>
+          <p>The High Contracting Parties undertake to ensure the immunity of cultural property under <eol/>special protection by refraining, from the time of entry in the International Register, from any <eol/>act of hostility directed against such property and, except for the cases provided for in <eol/>paragraph 5 of Article 8, from any use of such property or its surroundings for military <eol/>purposes. </p>
+          <p>Identification and Control</p>
+          <p>Article 10</p>
+          <p>During an armed conflict, cultural property under special protection shall be marked with the <eol/>distinctive emblem described in Article 16, and shall be open to international control as <eol/>provided for in the Regulations for the execution of the Convention.</p>
+          <p>Withdrawal of Immunity</p>
+          <p>Article 11</p>
+          <p>1. If one of the High Contracting Parties commits, in respect of any item of cultural property <eol/>under special protection, a violation of the obligations under Article 9, the opposing Party shall, <eol/>so long as this violation persists, be released from the obligation to ensure the immunity of the <eol/>property concerned. Nevertheless, whenever possible, the latter Party shall first request the <eol/>cessation of such violation within a reasonable time.</p>
+          <p/>
+          <p>2. Apart from the case provided for in paragraph I of the present Article, immunity shall be <eol/>withdrawn from cultural property under special protection only in exceptional cases of <eol/>unavoidable military necessity, and only for such time as that necessity continues. Such <eol/>necessity can be established only by the officer commanding a force the equivalent of a division <eol/>in size or larger. Whenever circumstances permit, the opposing Party shall be notified, a <eol/>reasonable time in advance, of the decision to withdraw immunity.</p>
+          <p/>
+          <p>3. The Party withdrawing immunity shall, as soon as possible, so inform the Commissioner-<eol/>General for cultural property provided for in the Regulations for the execution of the <eol/>Convention, in writing, stating the reasons.</p>
+          <p>CHAPTER III</p>
+          <p>TRANSPORT OF CULTURAL PROPERTY</p>
+          <p>Transport under Special Protection</p>
+          <p>Article 12</p>
+          <p>1. Transport exclusively engaged in the transfer of cultural property, whether within a territory <eol/>or to another territory, may, at the request of the High Contracting Party concerned, take place <eol/>under special protection in accordance with the conditions specified in the Regulations for the <eol/>execution of the Convention.</p>
+          <p/>
+          <p>2. Transport under special protection shall take place under the international supervision <eol/>provided for in the aforesaid Regulations and shall display the distinctive emblem described in <eol/>Article 16.</p>
+          <p/>
+          <p>3. The High Contracting Parties shall refrain from any act of hostility directed against transport <eol/>under special protection.</p>
+          <p>Transport in Urgent Cases</p>
+          <p>Article 13</p>
+          <p>1. If a High Contracting Party considers that the safety of certain cultural property requires its <eol/>transfer and that the matter is of such urgency that the procedure laid down in Article 12 cannot <eol/>be followed, especially at the beginning of an armed conflict, the transport may display the <eol/>distinctive emblem described in Article 16, provided that an application for immunity referred <eol/>to in Article 12 has not already been made and refused. As far as possible, notification of <eol/>transfer should be made to the opposing Parties. Nevertheless, transport conveying cultural <eol/>property to the territory of another country may not display the distinctive emblem unless <eol/>immunity has been expressly granted to it.</p>
+          <p/>
+          <p>2. The High Contracting Parties shall take, so far as possible, the necessary precautions to avoid <eol/>acts of hostility directed against the transport described in paragraph 1 of the present Article <eol/>and displaying the distinctive emblem.</p>
+          <p>Immunity from Seizure, Capture and Prize</p>
+          <p>Article 14</p>
+          <p>1. Immunity from seizure, placing in prize, or capture shall be granted to:</p>
+          <p/>
+          <p>(a) cultural property enjoying the protection provided for in Article 12 or that provided for in <eol/>Article 13;</p>
+          <p/>
+          <p>(b) the means of transport exclusively engaged in the transfer of such cultural property.</p>
+          <p/>
+          <p>2. Nothing in the present Article shall limit the right of visit and search.</p>
+          <p>CHAPTER IV</p>
+          <p>PERSONNEL</p>
+          <p>Personnel</p>
+          <p>Article 15</p>
+          <p>As far as is consistent with the interests of security, personnel engaged in the protection of <eol/>cultural property shall, in the interests of such property, be respected and, if they fall into the <eol/>hands of the opposing Party, shall be allowed to continue to carry out duties whenever the <eol/>cultural property for which they are responsible has also fallen into the hands of the opposing <eol/>Party.</p>
+          <p>CHAPTER V</p>
+          <p>THE DISTINCTIVE EMBLEM</p>
+          <p>Emblem of the Convention</p>
+          <p>Article 16</p>
+          <p>1. The distinctive emblem of the Convention shall take the form of a shield, pointed below, per <eol/>saltire blue and white (a shield consisting of a royal-blue square, one of the angles of which <eol/>forms the point of the shield, and of a royal-blue triangle above the square, the space on either <eol/>side being taken up by a white triangle).</p>
+          <p/>
+          <p>2. The emblem shall be used alone, or repeated three times in a triangular formation (one shield <eol/>below), under the conditions provided for in Article 17.</p>
+          <p>Use of the Emblem</p>
+          <p>Article 17</p>
+          <p>1. The distinctive emblem repeated three times may be used only as a means of identification <eol/>of:</p>
+          <p/>
+          <p>(a) immovable cultural property under special protection;</p>
+          <p/>
+          <p>(b) the transport of cultural property under the conditions provided for in Articles 12 and 13:</p>
+          <p/>
+          <p>(c) improvised refuges, under the conditions provided for in the Regulations for the execution</p>
+          <p>of the Convention.</p>
+          <p/>
+          <p>2. The distinctive emblem may be used alone only as a means of identification of:</p>
+          <p/>
+          <p>(a) cultural property not under special protection;</p>
+          <p/>
+          <p>(b) the persons responsible for the duties of control in accordance with the Regulations for the <eol/>execution of the Convention;</p>
+          <p/>
+          <p>(c) the personnel engaged in the protection of cultural property;</p>
+          <p/>
+          <p>(d) the identity cards mentioned in the Regulations for the execution of the Convention.</p>
+          <p/>
+          <p>3. During an armed conflict, the use of the distinctive emblem in any other cases than those <eol/>mentioned in the preceding paragraphs of the present Article, and the use for any purpose <eol/>whatever of a sign resembling the distinctive emblem, shall be forbidden.</p>
+          <p/>
+          <p>4. The distinctive emblem may not be placed on any immovable cultural property unless at the <eol/>same time there is displayed an authorization duly dated and signed by the competent authority <eol/>of the High Contracting Party.</p>
+          <p>CHAPTER VI</p>
+          <p>SCOPE OF APPLICATION OF THE CONVENTION</p>
+          <p>Application of the Convention</p>
+          <p>Article 18</p>
+          <p>1. Apart from the provisions which shall take effect in time of peace, the present Convention <eol/>shall apply in the event of declared war or of any other armed conflict which may arise between <eol/>two or more of the High Contracting Parties, even if the state of war is not recognized by one or <eol/>more of them.</p>
+          <p/>
+          <p>2. The Convention shall also apply to all cases of partial or total occupation of the territory of a <eol/>High Contracting Party, even if the said occupation meets with no armed resistance.</p>
+          <p/>
+          <p>3. If one of the Powers in conflict is not a Party to the present Convention, the Powers which <eol/>are Parties thereto shall nevertheless remain bound by it in their mutual relations. They shall <eol/>furthermore be bound by the Convention, in relation to the said Power, if the latter has declared <eol/>that it accepts the provisions thereof and so long as it applies them.</p>
+          <p>Conflicts Not of an International Character</p>
+          <p>Article 19</p>
+          <p>1. In the event of an armed conflict not of an international character occurring within the <eol/>territory of one of the High Contracting Parties, each party to the conflict shall be bound to <eol/>apply, as a minimum, the provisions of the present Convention which relate to respect for <eol/>cultural property.</p>
+          <p/>
+          <p>2. The parties to the Conflict shall endeavour to bring into force, by means of special <eol/>agreements, all or part of the other provisions of the present Convention.</p>
+          <p/>
+          <p>3. The United Nations Educational, Scientific and Cultural Organization may offer its services <eol/>to the parties to the conflict.</p>
+          <p/>
+          <p>4. The application of the preceding provisions shall not affect the legal status of the parties to <eol/>the conflict.</p>
+          <p>CHAPTER VII</p>
+          <p>EXECUTION OF THE CONVENTION</p>
+          <p>Regulations for the Execution of the Convention</p>
+          <p>Article 20</p>
+          <p>The procedure by which the present Convention is to be applied is defined in the Regulations <eol/>for its execution, which constitute an integral part thereof.</p>
+          <p>Protecting Powers</p>
+          <p>Article 21</p>
+          <p>The present Convention and the Regulations for its execution shall be applied with the co-<eol/>operation of the Protecting Powers responsible for safeguarding the interests of the Parties to <eol/>the conflict.</p>
+          <p>Conciliation Procedure</p>
+          <p>Article 22</p>
+          <p>1. The Protecting Powers shall lend their good offices in all cases where they may deem it <eol/>useful in the interests of cultural property, particularly if there is disagreement between the <eol/>Parties to the conflict as to the application or interpretation of the provisions of the present <eol/>Convention or the Regulations for its execution.</p>
+          <p/>
+          <p>2. For this purpose, each of the Protecting Powers may, either at the invitation of one Party, of <eol/>the Director-General of the United Nations Educational, Scientific and Cultural Organization, <eol/>or on its own initiative, propose to the Parties to the conflict a meeting of their representatives, <eol/>and in particular of the authorities responsible for the protection of cultural property, if <eol/>considered appropriate on suitably chosen neutral territory. The Parties to the conflict shall be <eol/>bound to give effect to the proposals for meeting made to them. The Protecting Powers shall <eol/>propose for approval by the Parties to the conflict a person belonging to a neutral Power or a <eol/>person presented by the Director-General of the United Nations Educational, Scientific and <eol/>Cultural Organization, which person shall be invited to take part in such a meeting in the <eol/>capacity of Chairman.</p>
+          <p>Assistance of UNESCO</p>
+          <p>Article 23</p>
+          <p>1. The High Contracting Parties may call upon the United Nations Educational, Scientific and <eol/>Cultural Organization for technical assistance in organizing the protection of their cultural <eol/>property, or in connexion with any other problem arising out of the application of the present <eol/>Convention or the Regulations for its execution. The Organization shall accord such assistance <eol/>within the limits fixed by its programme and by its resources.</p>
+          <p/>
+          <p>2. The Organization is authorized to make, on its own initiative, proposals on this matter to the <eol/>High Contracting Parties.</p>
+          <p>Special Agreements</p>
+          <p>Article 24</p>
+          <p>1. The High Contracting Parties may conclude special agreements for all matters concerning <eol/>which they deem it suitable to make separate provision.</p>
+          <p/>
+          <p>2. No special agreement may be concluded which would diminish the protection afforded by <eol/>the present Convention to cultural property and to the personnel engaged in its protection.</p>
+          <p>Dissemination of the Convention</p>
+          <p>Article 25</p>
+          <p>The High Contracting Parties undertake, in time of peace as in time of armed conflict, to <eol/>disseminate the text of the present Convention and the Regulations for its execution as widely <eol/>as possible in their respective countries. They undertake, in particular, to include the study <eol/>thereof in their programmes of military and, if possible, civilian training, so that its principles <eol/>are made known to the whole population, especially the armed forces and personnel engaged in <eol/>the protection of cultural property.</p>
+          <p>Translations, Reports</p>
+          <p>Article 26</p>
+          <p>1. The High Contracting Parties shall communicate to one another, through the Director-<eol/>General of the United Nations Educational, Scientific and Cultural Organization, the official <eol/>translations of the present Convention and of the Regulations for its execution.</p>
+          <p/>
+          <p>2. Furthermore, at least once every four years, they shall forward to the Director-General a <eol/>report giving whatever information they think suitable concerning any measures being taken, <eol/>prepared or contemplated by their respective administrations in fulfilment of the present <eol/>Convention and of the Regulations for its execution.</p>
+          <p>Meetings</p>
+          <p>Article 27</p>
+          <p>1. The Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization may, with the approval of the Executive Board, convene meetings of <eol/>representatives of the High Contracting Parties. He must convene such a meeting if at least one-<eol/>fifth of the High Contracting Parties so request.</p>
+          <p/>
+          <p>2. Without prejudice to any other functions which have been conferred on it by the present <eol/>Convention or the Regulations for its execution, the purpose of the meeting will be to study <eol/>problems concerning the application of the Convention and of the Regulations for its execution, <eol/>and to formulate recommendations in respect thereof.</p>
+          <p/>
+          <p>3. The meeting may further undertake a revision of the Convention or the Regulations for its <eol/>execution if the majority of the High Contracting Parties are represented, and in accordance <eop/>with the provisions of Article 39.</p>
+          <p>Sanctions</p>
+          <p>Article 28</p>
+          <p>The High Contracting Parties undertake to take, within the framework of their ordinary criminal <eol/>jurisdiction, all necessary steps to prosecute and impose penal or disciplinary sanctions upon <eol/>those persons, of whatever nationality, who commit or order to be committed a breach of the <eol/>present Convention.</p>
+          <p>FINAL PROVISIONS</p>
+          <p>Languages</p>
+          <p>Article 29</p>
+          <p>1. The present Convention is drawn up in English, French, Russian and Spanish, the four texts <eol/>being equally authoritative.</p>
+          <p/>
+          <p>2. The United Nations Educational, Scientific and Cultural Organization shall arrange for <eol/>translations of the Convention into the other official languages of its General Conference.</p>
+          <p>Signature</p>
+          <p>Article 30</p>
+          <p>The present Convention shall bear the date of 14 May 1954 and, until the date of 31 December <eol/>1954, shall remain open for signature by all States invited to the Conference which met at The <eol/>Hague from 21 April 1954 to 14 May 1954.</p>
+          <p>Ratification</p>
+          <p>Article 31</p>
+          <p>1. The present Convention shall be subject to ratification by Signatory States in accordance <eol/>with their respective constitutional procedures.</p>
+          <p/>
+          <p>2. The instruments of ratification shall be deposited with the Director-General of the United <eol/>Nations Educational, Scientific and Cultural Organization.</p>
+          <p>Accession</p>
+          <p>Article 32</p>
+          <p>From the date of its entry into force, the present Convention shall be open for accession by all <eol/>States mentioned in Article 30 which have not signed it, as well as any other State invited to <eol/>accede by the Executive Board of the United Nations Educational, Scientific and Cultural <eol/>Organization. Accession shall be effected by the deposit of an instrument of accession with the <eol/>Director-General of the United Nations Educational, Scientific and Cultural Organization.</p>
+          <p>Entry into Force</p>
+          <p>Article 33</p>
+          <p>1. The present Convention shall enter into force three months after five instruments of <eol/>ratification have been deposited.</p>
+          <p/>
+          <p>2. Thereafter, it shall enter into force, for each High Contracting Party, three months after the <eol/>deposit of its instrument of ratification or accession.</p>
+          <p/>
+          <p>3. The situations referred to in Articles 18 and 19 shall give immediate effect to ratifications or <eol/>accessions deposited by the Parties to the conflict either before or after the beginning of <eol/>hostilities or occupation. In such cases the Director-General of the United Nations Educational, <eol/>Scientific and Cultural Organization shall transmit the communications referred to in Article 38 <eol/>by the speediest method.</p>
+          <p>Effective Application</p>
+          <p>Article 34</p>
+          <p>1. Each State Party to the Convention on the date of its entry into force shall take all necessary <eol/>measures to ensure its effective application within a period of six months after such entry into <eol/>force.</p>
+          <p>2. This period shall be six months from the date of deposit of the instruments of ratification or <eol/>accession for any State which deposits its instrument of ratification or accession after the date <eol/>of the entry into force of the Convention.</p>
+          <p>Territorial Extension of the Convention</p>
+          <p>Article 35</p>
+          <p>Any High Contracting Party may, at the time of ratification or accession, or at any time <eol/>thereafter, declare by notification addressed to the Director-General of the United Nations <eol/>Educational, Scientific and Cultural Organization, that the present Convention shall extend to <eol/>all or any of the territories for whose international relations it is responsible. The said <eol/>notification shall take effect three months after the date of its receipt.</p>
+          <p>Relation to Previous Conventions</p>
+          <p>Article 36</p>
+          <p>1. In the relations between Powers which are bound by the Conventions of The Hague <eol/>concerning the Laws and Customs of War on Land (IV) and concerning Naval Bombardment in <eol/>Time of War (IX), whether those of 29 July 1899 or those of 18 October 1907, and which are <eol/>Parties to the present Convention, this last Convention shall be supplementary to the <eol/>aforementioned Convention (IX) and to the Regulations annexed to the aforementioned <eol/>Convention (IV) and shall substitute for the emblem described in Article 5 of the <eol/>aforementioned Convention (IX) the emblem described in Article 16 of the Present Convention, <eol/>in cases in which the present Convention and the Regulations for its execution provide for the <eol/>use of this distinctive emblem.</p>
+          <p/>
+          <p>2. In the relations between Powers which are bound by the Washington Pact of 15 April 1935 <eol/>for the Protection of Artistic and Scientific Institutions and of Historic Monuments (Roerich <eol/>Pact) and which are Parties to the present Convention, the latter Convention shall be <eol/>supplementary to the Roerich Pact and shall substitute for the distinguishing flag described in <eol/>Article III of the Pact the emblem defined in Article 16 of the present Convention, in cases in <eol/>which the present Convention and the Regulations for its execution provide for the use of this <eol/>distinctive emblem.</p>
+          <p>Denunciation</p>
+          <p>Article 37</p>
+          <p>1. Each High Contracting Party may denounce the present Convention, on its own behalf, or on <eol/>behalf of any territory for whose international relations it is responsible.</p>
+          <p/>
+          <p>2. The denunciation shall be notified by an instrument in writing, deposited with the Director-<eol/>General of the United Nations Educational, Scientific and Cultural Organization.</p>
+          <p/>
+          <p>3. The denunciation shall take effect one year after the receipt of the instrument of <eol/>denunciation. However, if, on the expiry of this period, the denouncing Party is involved in an <eol/>armed conflict, the denunciation shall not take effect until the end of hostilities, or until the <eol/>operations of repatriating cultural property are completed, whichever is the later.</p>
+          <p>Notifications</p>
+          <p>Article 38</p>
+          <p>The Director-General of the United Nations Educational, Scientific and Cultural Organization <eol/>shall inform the States referred to in Articles 30 and 32, as well as the United Nations, of the <eol/>deposit of all the instruments of ratification, accession or acceptance provided for in Articles <eol/>31, 32 and 39 and of the notifications and denunciations provided for respectively in Articles <eol/>35, 37 and 39.</p>
+          <p>Revision of the Convention and of the Regulations for its Execution</p>
+          <p>Article 39</p>
+          <p>1. Any High Contracting Party may propose amendments to the present Convention or the <eol/>Regulations for its execution. The text of any proposed amendment shall be communicated to <eol/>the Director-General of the United Nations Educational, Scientific and Cultural Organization <eol/>who shall transmit it to each High Contracting Party with the request that such Party reply <eol/>within four months stating whether it:</p>
+          <p/>
+          <p>(a) desires that a Conference be convened to consider the proposed amendment;</p>
+          <p/>
+          <p>(b) favours the acceptance of the proposed amendment without a Conference; or</p>
+          <p/>
+          <p>(c) favours the rejection of the proposed amendment without a Conference.</p>
+          <p/>
+          <p>2. The Director-General shall transmit the replies, received under paragraph I of the present <eol/>Article, to all High Contracting Parties.</p>
+          <p/>
+          <p>3. If all the High Contracting Parties which have, within the prescribed time-limit, stated their <eol/>views to the Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization, pursuant to paragraph 1 (b) of this Article, inform him that they favour <eol/>acceptance of the amendment without a Conference, notification of their decision shall be made <eol/>by the Director-General in accordance with Article 38. The amendment shall become effective <eol/>for all the High Contracting Parties on the expiry of ninety days from the date of such <eol/>notification.</p>
+          <p/>
+          <p>4. The Director-General shall convene a Conference of the High Contracting Parties to consider <eol/>the proposed amendment if requested to do so by more than one-third of the High Contracting <eol/>Parties.</p>
+          <p/>
+          <p>5. Amendments to the Convention or to the Regulations for its execution, dealt with under the <eol/>provisions of the preceding paragraph, shall enter into force only after they have been <eol/>unanimously adopted by the High Contracting Parties represented at the Conference and <eol/>accepted by each of the High Contracting Parties.</p>
+          <p/>
+          <p>6. Acceptance by the High Contracting Parties of amendments to the Convention or to the <eol/>Regulations for its execution, which have been adopted by the Conference mentioned in <eol/>paragraphs 4 and 5, shall be effected by the deposit of a formal instrument with the Director-<eol/>General of the United Nations Educational, Scientific and Cultural Organization.</p>
+          <p/>
+          <p>7. After the entry into force of amendments to the present Convention or to the Regulations for <eol/>its execution, only the text of the Convention or of the Regulations for its execution thus <eol/>amended shall remain open for ratification or accession.</p>
+          <p/>
+          <p>Registration</p>
+          <p>Article 40</p>
+          <p>In accordance with Article 102 of the Charter of the United Nations, the present Convention <eol/>shall be registered with the Secretariat of the United Nations at the request of the Director-<eol/>General of the United Nations Educational, Scientific and Cultural Organization.</p>
+          <p/>
+          <p>In faith whereof the undersigned, duly authorized, have signed the present Convention.</p>
+          <p/>
+          <p>Done at The Hague, this fourteenth day of May 1954, in a single copy which shall be deposited <eop/>in the archives of the United Nations Educational, Scientific and Cultural Organization, and <eol/>certified true copies of which shall be delivered to all the States referred to in Articles 30 and <eol/>32 as well as to the United Nations.</p>
+          <p>REGULATIONS FOR THE EXECUTION OF THE CONVENTION FOR THE PROTECTION <eol/>OF CULTURAL PROPERTY IN EVENT OF ARMED CONFLICT</p>
+          <p>CHAPTER I</p>
+          <p>CONTROL</p>
+          <p>International List of Persons</p>
+          <p>Article 1</p>
+          <p>On the entry into force of the Convention, the Director-General of the United Nations <eol/>Educational, Scientific and Cultural Organization shall compile an international list consisting <eol/>of all persons nominated by the High Contracting Parties as qualified to carry out the functions <eol/>of Commissioner-General for Cultural Property. On the initiative of the Director-General of the <eol/>United Nations Educational, Scientific and Cultural Organization, this list shall be periodically <eol/>revised on the basis of requests formulated by the High Contracting Parties.</p>
+          <p>Organization of Control</p>
+          <p>Article 2</p>
+          <p>As soon as any High Contracting Party is engaged in an armed conflict to which Article 18 of <eol/>the Convention applies:</p>
+          <p/>
+          <p>(a) It shall appoint a representative for cultural property situated in its territory; if it is in <eol/>occupation of another territory, it shall appoint a special representative for cultural property <eol/>situated in that territory;</p>
+          <p/>
+          <p>(b) The Protecting Power acting for each of the Parties in conflict with such High Contracting <eol/>Party shall appoint delegates accredited to the latter in conformity with Article 3 below; </p>
+          <p/>
+          <p>(c) A Commissioner-General for Cultural Property shall be appointed to such High Contracting <eol/>Party in accordance with Article 4.</p>
+          <p>Appointment of Delegates of Protecting Powers</p>
+          <p>Article 3</p>
+          <p>The Protecting Power shall appoint its delegates from among the members of its diplomatic or <eol/>consular staff or, with the approval of the Party to which they will be accredited, from among <eol/>other persons.</p>
+          <p>Appointment of Commissioner-General</p>
+          <p>Article 4</p>
+          <p>1. The Commissioner-General for Cultural Property shall be chosen from the international list <eop/>of persons by joint agreement between the Party to which he will be accredited and the <eol/>Protecting Powers acting on behalf of the opposing Parties.</p>
+          <p/>
+          <p>2. Should the Parties fail to reach agreement within three weeks from the beginning of their <eol/>discussions on this point, they shall request the President of the International Court of Justice to <eol/>appoint the Commissioner-General, who shall not take up his duties until the Party to which he <eol/>is accredited has approved his appointment.</p>
+          <p>Functions of Delegates</p>
+          <p>Article 5</p>
+          <p>The delegates of the Protecting Powers shall take note of violations of the Convention, <eol/>investigate, with the approval of the Party to which they are accredited, the circumstances in <eol/>which they have occurred, make representations locally to secure their cessation and, if <eol/>necessary, notify the Commissioner-General of such violations. They shall keep him informed <eol/>of their activities.</p>
+          <p>Functions of the Commissioner-General</p>
+          <p>Article 6</p>
+          <p>1. The Commissioner-General for Cultural Property shall deal with all matters referred to him <eol/>in connexion with the application of the Convention, in conjunction with the representative of <eol/>the Party to which he is accredited and with the delegates concerned.</p>
+          <p/>
+          <p>2. He shall have powers of decision and appointment in the cases specified in the present <eol/>Regulations.</p>
+          <p/>
+          <p>3. With the agreement of the Party to which he is accredited, he shall have the right to order an <eol/>investigation or to conduct it himself.</p>
+          <p/>
+          <p>4. He shall make any representations to the Parties to the conflict or to their Protecting Powers <eol/>which he deems useful for the application of the Convention.</p>
+          <p/>
+          <p>5. He shall draw up such reports as may be necessary on the application of the Convention and <eol/>communicate them to the Parties concerned and to their Protecting Powers. He shall send <eol/>copies to the Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization, who may make use only of their technical contents.</p>
+          <p/>
+          <p>6. If there is no protecting Power, the Commissioner-General shall exercise the functions of the <eol/>Protecting Power as laid down in Articles 21 and 22 of the Convention.</p>
+          <p>Inspectors and Experts</p>
+          <p>Article 7</p>
+          <p>1. Whenever the Commissioner-General for Cultural Property considers it necessary, either at <eol/>the request of the delegates concerned or after consultation with them, he shall propose, for the <eol/>approval of the Party to which he is accredited, an inspector of cultural property to be charged <eol/>with a specific mission. An inspector shall be responsible only to the Commissioner-General.</p>
+          <p/>
+          <p>2. The Commissioner-General, delegates and inspectors may have recourse to the services of <eol/>experts, who will also be proposed for the approval of the Party mentioned in the preceding <eol/>paragraph.</p>
+          <p>Discharge of the Mission of Control</p>
+          <p>Article 8</p>
+          <p>The Commissioners-General for Cultural Property, delegates of the Protecting Powers, <eol/>inspectors and experts shall in no case exceed their mandates. In particular, they shall take <eol/>account of the security needs of the High Contracting Party to which they are accredited and <eol/>shall in all circumstances act in accordance with the requirements of the military situation as <eol/>communicated to them by that High Contracting Party.</p>
+          <p>Substitutes for Protecting Powers</p>
+          <p>Article 9</p>
+          <p>If a Party to the conflict does not benefit or ceases to benefit from the activities of a Protecting <eol/>Power, a neutral State may be asked to undertake those functions of a Protecting Power which <eol/>concern the appointment of a Commissioner-General for Cultural Property in accordance with <eol/>the procedure laid down in Article 4. The Commissioner-General thus appointed shall, if need <eol/>be, entrust to inspectors the functions of delegates of Protecting Powers as specified in the <eol/>present Regulations.</p>
+          <p>Expenses</p>
+          <p>Article 10</p>
+          <p>The remuneration and expenses of the Commissioner-General for Cultural Property, inspectors <eol/>and experts shall be met by the Party to which they are accredited. Remuneration and expenses <eol/>of delegates of the Protecting Powers shall be subject to agreement between those Powers and <eol/>the States whose interests they are safeguarding.</p>
+          <p/>
+          <p>CHAPTER II</p>
+          <p>SPECIAL PROTECTION</p>
+          <p>Improvised Refuges</p>
+          <p>Article 11</p>
+          <p>1. If, during an armed conflict, any High Contracting Party is induced by unforeseen <eol/>circumstances to set up an improvised refuge and desires that it should be placed under special <eop/>protection, it shall communicate this fact forthwith to the Commissioner-General accredited to <eol/>that Party.</p>
+          <p/>
+          <p>2. If the Commissioner-General considers that such a measure is justified by the circumstances <eol/>and by the importance of the cultural property sheltered in this improvised refuge, he may <eol/>authorize the High Contracting Party to display on such refuge the distinctive emblem defined <eol/>in Article 16 of the Convention. He shall communicate his decision without delay to the <eol/>delegates of the Protecting Powers who are concerned, each of whom may, within a time-limit <eol/>of 30 days, order the immediate withdrawal of the emblem.</p>
+          <p/>
+          <p>3. As soon as such delegates have signified their agreement or if the time-limit of 30 days has <eol/>passed without any of the delegates concerned having made an objection, and if, in the view of <eol/>the Commissioner-General, the refuge fulfils the conditions laid down in Article 8 of the <eol/>Convention, the Commissioner-General shall request the Director-General of the United <eol/>Nations Educational, Scientific and Cultural Organization to enter the refuge in the Register of <eol/>Cultural Property under Special Protection.</p>
+          <p>International Register of Cultural Property under Special Protection</p>
+          <p>Article 12</p>
+          <p>1. An "International Register of Cultural Property under Special Protection" shall be prepared.</p>
+          <p/>
+          <p>2. The Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization shall maintain this Register. He shall furnish copies to the Secretary-General of <eol/>the United Nations and to the High Contracting Parties.</p>
+          <p/>
+          <p>3. The Register shall be divided into sections, each in the name of a High Contracting Party. <eol/>Each section shall be sub-divided into three paragraphs, headed: Refuges, Centres containing <eol/>Monuments, Other Immovable Cultural Property. The Director-General shall determine what <eol/>details each section shall contain.</p>
+          <p>Requests for Registration</p>
+          <p>Article 13</p>
+          <p>1. Any High Contracting Party may submit to the Director-General of the United Nations <eol/>Educational, Scientific and Cultural Organization an application for the entry in the Register of <eol/>certain refuges, centres containing monuments or other immovable cultural property situated <eol/>within its territory. Such application shall contain a description of the location of such property <eol/>and shall certify that the property complies with the provisions of Article 8 of the Convention.</p>
+          <p/>
+          <p>2. In the event of occupation, the Occupying Power shall be competent to make such <eol/>application.</p>
+          <p/>
+          <p>3. The Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization shall, without delay, send copies of applications for registration to each of the <eol/>High Contracting Parties.</p>
+          <p>Objections</p>
+          <p>Article 14</p>
+          <p>1. Any High Contracting Party may, by letter addressed to the Director-General of the United <eol/>Nations Educational, Scientific and Cultural Organization, lodge an objection to the registration <eol/>of cultural property. This letter must be received by him within four months of the day on which <eol/>he sent a copy of the application for registration.</p>
+          <p/>
+          <p>2. Such objection shall state the reasons giving rise to it, the only valid grounds being that:</p>
+          <p/>
+          <p>(a) the property is not cultural property;</p>
+          <p/>
+          <p>(b) the property does not comply with the conditions mentioned in Article 8 of the Convention.</p>
+          <p/>
+          <p>3. The Director-General shall send a copy of the letter of objection to the High Contracting <eol/>Parties without delay. He shall, if necessary, seek the advice of the International Committee on <eol/>Monuments, Artistic and Historical Sites and Archaeological Excavations and also, if he thinks <eol/>fit, of any other competent organization or person.</p>
+          <p/>
+          <p>4. The Director-General, or the High Contracting Party requesting registration, may make <eol/>whatever representations they deem necessary to the High Contracting Parties which lodged the <eol/>objection, with a view to causing the objection to be withdrawn.</p>
+          <p/>
+          <p>5. If a High Contracting Party which has made an application for registration in time of peace <eol/>becomes involved in an armed conflict before the entry has been made, the cultural property <eol/>concerned shall at once be provisionally entered in the Register, by the Director-General, <eol/>pending the confirmation, withdrawal or cancellation of any objection that may be, or may have <eol/>been, made.</p>
+          <p/>
+          <p>6. If, within a period of six months from the date of receipt of the letter of objection, the <eol/>Director-General has not received from the High Contracting Party lodging the objection a <eol/>communication stating that it has been withdrawn, the High Contracting Party applying for <eol/>registration may request arbitration in accordance with the procedure in the following <eol/>paragraph.</p>
+          <p/>
+          <p>7. The request for arbitration shall not be made more than one year after the date of receipt by <eol/>the Director-General of the letter of objection. Each of the two Parties to the dispute shall <eop/>appoint an arbitrator. When more than one objection has been lodged against an application for <eol/>registration, the High Contracting Parties which have lodged the objections shall, by common <eol/>consent, appoint a single arbitrator. These two arbitrators shall select a chief arbitrator from the <eol/>international list mentioned in Article I of the present Regulations. If such arbitrators cannot <eol/>agree upon their choice, they shall ask the President of the International Court of Justice to <eol/>appoint a chief arbitrator who need not necessarily be chosen from the international list. The <eol/>arbitral tribunal thus constituted shall fix its own procedure. There shall be no appeal from its <eol/>decisions.</p>
+          <p/>
+          <p>8. Each of the High Contracting Parties may declare, whenever a dispute to which it is a Party <eol/>arises, that it does not wish to apply the arbitration procedure provided for in the preceding <eol/>paragraph. In such cases, the objection to an application for registration shall be submitted by <eol/>the Director-General to the High Contracting Parties. The objection will be confirmed only if <eol/>the High Contracting Parties so decide by a two-third majority of the High Contracting Parties <eol/>voting. The vote shall be taken by correspondence, unless the Director-General of the United <eol/>Nations Educational, Scientific and Cultural Organization deems it essential to convene a <eol/>meeting under the powers conferred upon him by Article 27 of the Convention. If the Director-<eol/>General decides to proceed with the vote by correspondence, he shall invite the High <eol/>Contracting Parties to transmit their votes by sealed letter within six months from the day on <eol/>which they were invited to do so.</p>
+          <p>Registration</p>
+          <p>Article 15</p>
+          <p>1. The Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization shall cause to be entered in the Register under a serial number, each item of <eol/>property for which application for registration is made, provided that he has not received an <eol/>objection within the time-limit prescribed in Paragraph I of Article 14.</p>
+          <p/>
+          <p>2. If an objection has been lodged, and without prejudice to the provision of paragraph 5 of <eol/>Article 14, the Director-General shall enter property in the Register only if the objection has <eol/>been withdrawn or has failed to be confirmed following the procedures laid down in either <eol/>paragraph 7 or paragraph 8 of Article 14.</p>
+          <p/>
+          <p>3. Whenever paragraph 3 of Article 11 applies, the Director-General shall enter property in the <eol/>Register if so requested by the Commissioner-General for Cultural Property.</p>
+          <p/>
+          <p>4. The Director-General shall send without delay to the Secretary-General of the United <eol/>Nations, to the High Contracting Parties, and, at the request of the Party applying for <eol/>registration, to all other States referred to in Articles 30 and 32 of the Convention, a certified <eol/>copy of each entry in the Register. Entries shall become effective thirty days after despatch of <eol/>such copies.</p>
+          <p>Cancellation</p>
+          <p>Article 16</p>
+          <p>1. The Director-General of the United Nations Educational, Scientific and Cultural <eol/>Organization shall cause the registration of any property to be cancelled:</p>
+          <p/>
+          <p>(a) at the request of the High Contracting Party within whose territory the cultural property is <eol/>situated;</p>
+          <p/>
+          <p>(b) if the High Contracting Party which requested registration has denounced the Convention, <eol/>and when that denunciation has taken effect;</p>
+          <p/>
+          <p>(c) in the special case provided for in Article 14, paragraph 5, when an objection has been <eol/>confirmed following the procedures mentioned either in paragraph 7 or in paragraph 8 of <eol/>Article 14.</p>
+          <p/>
+          <p>2. The Director-General shall send without delay, to the Secretary-General of the United <eol/>Nations and to all States which received a copy of the entry in the Register, a certified copy of <eol/>its cancellation. Cancellation shall take effect thirty days after the despatch of such copies.</p>
+          <p/>
+          <p>CHAPTER III</p>
+          <p>TRANSPORT OF CULTURAL PROPERTY</p>
+          <p>Procedure to Obtain Immunity</p>
+          <p>Article 17</p>
+          <p>1. The request mentioned in paragraph 1 of Article 12 of the Convention shall be addressed to <eol/>the Commissioner-General for Cultural Property. It shall mention the reasons on which it is <eol/>based and specify the approximate number and the importance of the objects to be transferred, <eol/>their present location, the location now envisaged, the means of transport to be used, the route <eol/>to be followed, the date proposed for the transfer, and any other relevant information.</p>
+          <p/>
+          <p>2. If the Commissioner-General, after taking such opinions as he deems fit, considers that such <eol/>transfer is justified, he shall consult those delegates of the Protecting Powers who are <eol/>concerned, on the measures proposed for carrying it out. Following such consultation, he shall <eol/>notify the Parties to the conflict concerned of the transfer, including in such notification all <eol/>useful information.</p>
+          <p/>
+          <p>3. The Commissioner-General shall appoint one or more inspectors, who shall satisfy <eol/>themselves that only the property stated in the request is to be transferred and that the transport <eol/>is to be by the approved methods and bears the distinctive emblem. The inspector or inspectors <eop/>shall accompany the property to its destination.</p>
+          <p>Transport Abroad</p>
+          <p>Article 18</p>
+          <p>Where the transfer under special protection is to the territory of another country, it shall be <eol/>governed not only by Article 12 of the Convention and by Article 17 of the present Regulations, <eol/>but by the following further provisions:</p>
+          <p/>
+          <p>(a) while the cultural property remains on the territory of another State, that State shall be its <eol/>depositary and shall extend to it as great a measure of care as that which it bestows upon its <eol/>own cultural property of comparable importance;</p>
+          <p/>
+          <p>(b) the depositary State shall return the property only on the cessation of the conflict; such <eol/>return shall be effected within six months from the date on which it was requested;</p>
+          <p/>
+          <p>(c) during the various transfer operations, and while it remains on the territory of another State, <eol/>the cultural property shall be exempt from confiscation and may not be disposed of either by <eol/>the depositor or by the depositary. Nevertheless, when the safety of the property requires it, the <eol/>depositary may, with the assent of the depositor, have the property transported to the territory of <eol/>a third country, under the conditions laid down in the present article;</p>
+          <p/>
+          <p>(d) the request for special protection shall indicate that the State to whose territory the property <eol/>is to be transferred accepts the provisions of the present Article.</p>
+          <p>Occupied Territory</p>
+          <p>Article 19</p>
+          <p>Whenever a High Contracting Party occupying territory of another High Contracting Party <eol/>transfers cultural property to a refuge situated elsewhere in that territory, without being able to <eol/>follow the procedure provided for in Article 17 of the Regulations, the transfer in question shall <eol/>not be regarded as misappropriation within the meaning of Article 4 of the Convention, <eol/>provided that the Commissioner-General for Cultural Property certifies in writing, after having <eol/>consulted the usual custodians, that such transfer was rendered necessary by circumstances.</p>
+          <p>CHAPTER IV</p>
+          <p>THE DISTINCTIVE EMBLEM</p>
+          <p>Affixing of the Emblem</p>
+          <p>Article 20</p>
+          <p>1. The placing of the distinctive emblem and its degree of visibility shall be left to the <eol/>discretion of the competent authorities of each High Contracting Party. It may be displayed on <eol/>flags or armlets; it may be painted on an object or represented in any other appropriate form.</p>
+          <p/>
+          <p>2. However, without prejudice to any possible fuller markings, the emblem shall, in the event of <eol/>armed conflict and in the cases mentioned in Articles 12 and 13 of the Convention, be placed on <eol/>the vehicles of transport so as to be clearly visible in daylight from the air as well as from the <eol/>ground. The emblem shall be visible from the ground:</p>
+          <p/>
+          <p>(a) at regular intervals sufficient to indicate clearly the perimeter of a centre containing <eol/>monuments under special protection;</p>
+          <p/>
+          <p>(b) at the entrance to other immovable cultural property under special protection.</p>
+          <p>Identification of Persons</p>
+          <p>Article 21</p>
+          <p>1. The persons mentioned in Article 17, paragraph 2 (b) and (c) of the Convention may wear an <eol/>armlet bearing the distinctive emblem, issued and stamped by the competent authorities.</p>
+          <p/>
+          <p>2. Such persons shall carry a special identity card bearing the distinctive emblem. This card <eol/>shall mention at least the surname and first names, the date of birth, the title or rank, and the <eol/>function of the holder. The card shall bear the photograph of the holder as well as his signature <eol/>or his fingerprints, or both. It shall bear the embossed stamp of the competent authorities.</p>
+          <p/>
+          <p>3. Each High Contracting Party shall make out its own type of identity card, guided by the <eol/>model annexed, by way of example, to the present Regulations. The High Contracting Parties <eol/>shall transmit to each other a specimen of the model they are using. Identity cards shall be made <eol/>out, if possible, at least in duplicate, one copy being kept by the issuing Power.</p>
+          <p/>
+          <p>4. The said persons may not, without legitimate reason, be deprived of their identity card or of <eol/>the right to wear the armlet.</p>
+        </content>
+      </hcontainer>
+      <hcontainer name="schedule" wId="schedule-2">
+        <num>SCHEDULE 2</num>
+        <content>
+          <p>Section  <i>1</i></p>
+          <p>Second Protocol to the Hague Convention of 1954 for the Protection of Cultural Property</p>
+          <p>in the Event of Armed Conflict</p>
+          <p/>
+          <p>The Parties,</p>
+          <p/>
+          <p><i>Conscious</i> of the need to improve the protection of cultural property in the event of armed <eol/>conflict and to establish an enhanced system of protection for specifically designated cultural <eol/>property;</p>
+          <p/>
+          <p><i>Reaffirming</i> the importance of the provisions of the Convention for the Protection of Cultural <eol/>Property in the Event of Armed Conflict, done at The Hague on 14 May 1954, and emphasizing <eol/>the necessity to supplement these provisions through measures to reinforce their <eol/>implementation;</p>
+          <p/>
+          <p><i>Desiring</i> to provide the High Contracting Parties to the Convention with a means of being more <eol/>closely involved in the protection of cultural property in the event of armed conflict by <eol/>establishing appropriate procedures therefor;</p>
+          <p/>
+          <p><i>Considering</i> that the rules governing the protection of cultural property in the event of armed <eol/>conflict should reflect developments in international law;</p>
+          <p/>
+          <p><i>Affirming</i> that the rules of customary international law will continue to govern questions not <eol/>regulated by the provisions of this Protocol;</p>
+          <p/>
+          <p>Have agreed as follows:</p>
+          <p/>
+          <p>Chapter 1</p>
+          <p>Introduction</p>
+          <p>Article 1</p>
+          <p>Definitions</p>
+          <p>For the purposes of this Protocol:</p>
+          <p>a. ‘Party’ means a State Party to this Protocol;</p>
+          <p/>
+          <p>b. ‘cultural property’ means cultural property as defined in Article 1 of the Convention;</p>
+          <p/>
+          <p>c. ‘Convention’ means the Convention for the Protection of Cultural Property in the Event <eol/>of Armed Conflict, done at The Hague on 14 May 1954;</p>
+          <p/>
+          <p>d. ‘High Contracting Party’ means a State Party to the Convention;</p>
+          <p/>
+          <p>e. ‘enhanced protection’ means the system of enhanced protection established by Articles <eol/>10 and 11;</p>
+          <p/>
+          <p>f. ‘military objective’ means an object which by its nature, location, purpose, or use makes <eol/>an effective contribution to military action and whose total or partial destruction, capture <eol/>or neutralisation, in the circumstances ruling at the time, offers a definite military <eol/>advantage;</p>
+          <p/>
+          <p>g. ‘illicit’ means under compulsion or otherwise in violation of the applicable rules of the <eol/>domestic law of the occupied territory or of international law;</p>
+          <p/>
+          <p>h. ‘List’ means the International List of Cultural Property under Enhanced Protection <eol/>established in accordance with Article 27, sub-paragraph 1(b);</p>
+          <p/>
+          <p>i. ‘Director-General’ means the Director-General of UNESCO;</p>
+          <p/>
+          <p>j. ‘UNESCO’ means the United Nations Educational, Scientific and Cultural Organization;</p>
+          <p/>
+          <p>k. ‘First Protocol’ means the Protocol for the Protection of Cultural Property in the Event <eol/>of Armed Conflict done at The Hague on 14 May 1954.</p>
+          <p>Article 2</p>
+          <p>Relation to the Convention</p>
+          <p>This Protocol supplements the Convention in relations between the Parties.</p>
+          <p>Article 3</p>
+          <p>Scope of application</p>
+          <p>1. In addition to the provisions which shall apply in time of peace, this Protocol shall apply in <eol/>situations referred to in Article 18 paragraphs 1 and 2 of the Convention and in Article 22 <eop/>paragraph 1.</p>
+          <p/>
+          <p>2. When one of the parties to an armed conflict is not bound by this Protocol, the Parties to this <eol/>Protocol shall remain bound by it in their mutual relations. They shall furthermore be bound by <eol/>this Protocol in relation to a State party to the conflict which is not bound by it, if the latter <eol/>accepts the provisions of this Protocol and so long as it applies them.</p>
+          <p>Article 4</p>
+          <p>Relationship between Chapter 3 and other provisions of the Convention and this Protocol</p>
+          <p>The application of the provisions of Chapter 3 of this Protocol is without prejudice to:</p>
+          <p>a. the application of the provisions of Chapter I of the Convention and of Chapter 2 of <eol/>this Protocol;</p>
+          <p/>
+          <p>b. the application of the provisions of Chapter 2 of the Convention save that, as <eol/>between Parties to this Protocol or as between a Party and a State which accepts and <eol/>applies this Protocol in accordance with Article 3 paragraph 2, where cultural <eol/>property has been granted both special protection and enhanced protection, only the <eol/>provisions of enhanced protection shall apply.</p>
+          <p>Chapter 2</p>
+          <p>General provisions regarding protection</p>
+          <p>Article 5</p>
+          <p>Safeguarding of cultural property</p>
+          <p>Preparatory measures taken in time of peace for the safeguarding of cultural property against <eol/>the foreseeable effects of an armed conflict pursuant to Article 3 of the Convention shall <eol/>include, as appropriate, the preparation of inventories, the planning of emergency measures for <eol/>protection against fire or structural collapse, the preparation for the removal of movable <eol/>cultural property or the provision for adequate in situ protection of such property, and the <eol/>designation of competent authorities responsible for the safeguarding of cultural property.</p>
+          <p>Article 6</p>
+          <p>Respect for cultural property</p>
+          <p>With the goal of ensuring respect for cultural property in accordance with Article 4 of the <eol/>Convention:</p>
+          <p>a. a waiver on the basis of imperative military necessity pursuant to Article 4 paragraph 2 <eol/>of the Convention may only be invoked to direct an act of hostility against cultural <eol/>property when and for as long as:</p>
+          <p/>
+          <p>i. that cultural property has, by its function, been made into a military objective; and</p>
+          <p/>
+          <p>ii. there is no feasible alternative available to obtain a similar military advantage to <eol/>that offered by directing an act of hostility against that objective;</p>
+          <p/>
+          <p>b. a waiver on the basis of imperative military necessity pursuant to Article 4 paragraph 2 <eol/>of the Convention may only be invoked to use cultural property for purposes which are <eol/>likely to expose it to destruction or damage when and for as long as no choice is <eol/>possible between such use of the cultural property and another feasible method for <eol/>obtaining a similar military advantage;</p>
+          <p/>
+          <p>c. the decision to invoke imperative military necessity shall only be taken by an officer <eol/>commanding a force the equivalent of a battalion in size or larger, or a force smaller in <eol/>size where circumstances do not permit otherwise;</p>
+          <p/>
+          <p>d. in case of an attack based on a decision taken in accordance with sub-paragraph (a), an <eol/>effective advance warning shall be given whenever circumstances permit.</p>
+          <p>Article 7</p>
+          <p>Precautions in attack</p>
+          <p>Without prejudice to other precautions required by international humanitarian law in the <eol/>conduct of military operations, each Party to the conflict shall:</p>
+          <p/>
+          <p>a. do everything feasible to verify that the objectives to be attacked are not cultural <eol/>property protected under Article 4 of the Convention;</p>
+          <p/>
+          <p>b. take all feasible precautions in the choice of means and methods of attack with a view <eol/>to avoiding, and in any event to minimizing, incidental damage to cultural property <eol/>protected under Article 4 of the Convention;</p>
+          <p/>
+          <p>c. refrain from deciding to launch any attack which may be expected to cause incidental <eol/>damage to cultural property protected under Article 4 of the Convention which would <eol/>be excessive in relation to the concrete and direct military advantage anticipated; and</p>
+          <p/>
+          <p>d. cancel or suspend an attack if it becomes apparent:</p>
+          <p/>
+          <p>i. that the objective is cultural property protected under Article 4 of the <eol/>Convention;</p>
+          <p/>
+          <p>ii. that the attack may be expected to cause incidental damage to cultural property <eol/>protected under Article 4 of the Convention which would be excessive in <eol/>relation to the concrete and direct military advantage anticipated.</p>
+          <p>Article 8</p>
+          <p>Precautions against the effects of hostilities</p>
+          <p>The Parties to the conflict shall, to the maximum extent feasible:</p>
+          <p>a. remove movable cultural property from the vicinity of military objectives or provide <eol/>for adequate in situ protection;</p>
+          <p>b. avoid locating military objectives near cultural property.</p>
+          <p>Article 9</p>
+          <p>Protection of cultural property in occupied territory</p>
+          <p>1. Without prejudice to the provisions of Articles 4 and 5 of the Convention, a Party in <eol/>occupation of the whole or part of the territory of another Party shall prohibit and prevent in <eol/>relation to the occupied territory:</p>
+          <p/>
+          <p>a. any illicit export, other removal or transfer of ownership of cultural property;</p>
+          <p/>
+          <p>b. any archaeological excavation, save where this is strictly required to safeguard, <eol/>record or preserve cultural property</p>
+          <p/>
+          <p>c. any alteration to, or change of use of, cultural property which is intended to conceal <eol/>or destroy cultural, historical or scientific evidence.</p>
+          <p/>
+          <p>2. Any archaeological excavation of, alteration to, or change of use of, cultural property in <eol/>occupied territory shall, unless circumstances do not permit, be carried out in close co-<eol/>operation with the competent national authorities of the occupied territory.</p>
+          <p>Chapter 3</p>
+          <p>Enhanced Protection</p>
+          <p>Article 10</p>
+          <p>Enhanced protection</p>
+          <p>Cultural property may be placed under enhanced protection provided that it meets the following <eol/>three conditions:</p>
+          <p>a. it is cultural heritage of the greatest importance for humanity;</p>
+          <p/>
+          <p>b. it is protected by adequate domestic legal and administrative measures recognising its <eol/>exceptional cultural and historic value and ensuring the highest level of protection;</p>
+          <p/>
+          <p>c. it is not used for military purposes or to shield military sites and a declaration has <eol/>been made by the Party which has control over the cultural property, confirming that it <eol/>will not be so used.</p>
+          <p/>
+          <p>Article 11</p>
+          <p>The granting of enhanced protection</p>
+          <p>1. Each Party should submit to the Committee a list of cultural property for which it intends to <eol/>request the granting of enhanced protection.</p>
+          <p/>
+          <p>2. The Party which has jurisdiction or control over the cultural property may request that it be <eol/>included in the List to be established in accordance with Article 27 sub-paragraph 1(b). This <eol/>request shall include all necessary information related to the criteria mentioned in Article 10. <eol/>The Committee may invite a Party to request that cultural property be included in the List.</p>
+          <p/>
+          <p>3. Other Parties, the International Committee of the Blue Shield and other non-governmental <eol/>organisations with relevant expertise may recommend specific cultural property to the <eol/>Committee. In such cases, the Committee may decide to invite a Party to request inclusion of <eol/>that cultural property in the List.</p>
+          <p/>
+          <p>4. Neither the request for inclusion of cultural property situated in a territory, sovereignty or <eol/>jurisdiction over which is claimed by more than one State, nor its inclusion, shall in any way <eol/>prejudice the rights of the parties to the dispute.</p>
+          <p/>
+          <p>5. Upon receipt of a request for inclusion in the List, the Committee shall inform all Parties of <eol/>the request. Parties may submit representations regarding such a request to the Committee <eol/>within sixty days. These representations shall be made only on the basis of the criteria <eol/>mentioned in Article 10. They shall be specific and related to facts. The Committee shall <eol/>consider the representations, providing the Party requesting inclusion with a reasonable <eol/>opportunity to respond before taking the decision. When such representations are before the <eol/>Committee, decisions for inclusion in the List shall be taken, notwithstanding Article 26, by a <eol/>majority of four-fifths of its members present and voting.</p>
+          <p/>
+          <p>6. In deciding upon a request, the Committee should ask the advice of governmental and non-<eol/>governmental organisations, as well as of individual experts.</p>
+          <p/>
+          <p>7. A decision to grant or deny enhanced protection may only be made on the basis of the criteria <eol/>mentioned in Article 10.</p>
+          <p/>
+          <p>8. In exceptional cases, when the Committee has concluded that the Party requesting inclusion <eol/>of cultural property in the List cannot fulfil the criteria of Article 10 sub-paragraph (b), the <eol/>Committee may decide to grant enhanced protection, provided that the requesting Party submits <eol/>a request for international assistance under Article 32.</p>
+          <p/>
+          <p>9. Upon the outbreak of hostilities, a Party to the conflict may request, on an emergency basis, <eol/>enhanced protection of cultural property under its jurisdiction or control by communicating this <eol/>request to the Committee. The Committee shall transmit this request immediately to all Parties <eol/>to the conflict. In such cases the Committee will consider representations from the Parties <eol/>concerned on an expedited basis. The decision to grant provisional enhanced protection shall be <eol/>taken as soon as possible and, notwithstanding Article 26, by a majority of four-fifths of its <eol/>members present and voting. Provisional enhanced protection may be granted by the Committee <eol/>pending the outcome of the regular procedure for the granting of enhanced protection, provided <eol/>that the provisions of Article 10 sub-paragraphs (a) and (c) are met.</p>
+          <p/>
+          <p>10. Enhanced protection shall be granted to cultural property by the Committee from the <eol/>moment of its entry in the List.</p>
+          <p/>
+          <p>11. The Director-General shall, without delay, send to the Secretary-General of the United <eol/>Nations and to all Parties notification of any decision of the Committee to include cultural <eol/>property on the List.</p>
+          <p>Article 12</p>
+          <p>Immunity of cultural property under enhanced protection</p>
+          <p>The Parties to a conflict shall ensure the immunity of cultural property under enhanced <eol/>protection by refraining from making such property the object of attack from any use of the <eol/>property or its immediate surroundings in support of military action.</p>
+          <p>Article 13</p>
+          <p>Loss of enhanced protection</p>
+          <p>1. Cultural property under enhanced protection shall only lose such protection:</p>
+          <p/>
+          <p>a. if such protection is suspended or cancelled in accordance with Article 14; or</p>
+          <p/>
+          <p>b. if, and for as long as, the property has, by its use, become a military objective.</p>
+          <p/>
+          <p>2. In the circumstances of sub-paragraph 1(b), such property may only be the object of attack if:</p>
+          <p/>
+          <p>a. the attack is the only feasible means of terminating the use of the property referred to <eol/>in sub-paragraph 1(b);</p>
+          <p/>
+          <p>b. all feasible precautions are taken in the choice of means and methods of attack, with a <eol/>view to terminating such use and avoiding, or in any event minimising, damage to the <eol/>cultural property;</p>
+          <p/>
+          <p>c. unless circumstances do not permit, due to requirements of immediate self-defence:</p>
+          <p/>
+          <p>i. the attack is ordered at the highest operational level of command;</p>
+          <p/>
+          <p>ii effective advance warning is issued to the opposing forces requiring the <eol/>termination of the use referred to in sub-paragraph 1(b); and</p>
+          <p/>
+          <p>iii. reasonable time is given to the opposing forces to redress the situation.</p>
+          <p>Article 14</p>
+          <p>Suspension and cancellation of enhanced protection</p>
+          <p>1. Where cultural property no longer meets any one of the criteria in Article 10 of this Protocol, <eol/>the Committee may suspend its enhanced protection status or cancel that status by removing <eol/>that cultural property from the List.</p>
+          <p/>
+          <p>2. In the case of a serious violation of Article 12 in relation to cultural property under enhanced <eol/>protection arising from its use in support of military action, the Committee may suspend its <eol/>enhanced protection status. Where such violations are continuous, the Committee may <eol/>exceptionally cancel the enhanced protection status by removing the cultural property from the <eol/>List.</p>
+          <p/>
+          <p>3. The Director-General shall, without delay, send to the Secretary-General of the United <eol/>Nations and to all Parties to this Protocol notification of any decision of the Committee to <eol/>suspend or cancel the enhanced protection of cultural property.</p>
+          <p/>
+          <p>4. Before taking such a decision, the Committee shall afford an opportunity to the Parties to <eol/>make their views known.</p>
+          <p>Chapter 4</p>
+          <p>Criminal responsibility and jurisdiction</p>
+          <p>Article 15</p>
+          <p>Serious violations of this Protocol</p>
+          <p>1. Any person commits an offence within the meaning of this Protocol if that person <eol/>intentionally and in violation of the Convention or this Protocol commits any of the following <eol/>acts:</p>
+          <p/>
+          <p>a. making cultural property under enhanced protection the object of attack;</p>
+          <p/>
+          <p>b. using cultural property under enhanced protection or its immediate surroundings in <eol/>support of military action;</p>
+          <p/>
+          <p>c. extensive destruction or appropriation of cultural property protected under the <eol/>Convention and this Protocol;</p>
+          <p/>
+          <p>d. making cultural property protected under the Convention and this Protocol the object <eol/>of attack;</p>
+          <p/>
+          <p>e. theft, pillage or misappropriation of, or acts of vandalism directed against cultural <eol/>property protected under the Convention.</p>
+          <p/>
+          <p>2. Each Party shall adopt such measures as may be necessary to establish as criminal offences <eol/>under its domestic law the offences set forth in this Article and to make such offences <eol/>punishable by appropriate penalties. When doing so, Parties shall comply with general <eol/>principles of law and international law, including the rules extending individual criminal <eol/>responsibility to persons other than those who directly commit the act.</p>
+          <p>Article 16</p>
+          <p>Jurisdiction</p>
+          <p>1. Without prejudice to paragraph 2, each Party shall take the necessary legislative measures to <eol/>establish its jurisdiction over offences set forth in Article 15 in the following cases:</p>
+          <p/>
+          <p>a. when such an offence is committed in the territory of that State;</p>
+          <p/>
+          <p>b. when the alleged offender is a national of that State;</p>
+          <p/>
+          <p>c. in the case of offences set forth in Article 15 sub-paragraphs (a) to (c), when the <eol/>alleged offender is present in its territory.</p>
+          <p/>
+          <p>2. With respect to the exercise of jurisdiction and without prejudice to Article 28 of the <eol/>Convention:</p>
+          <p>a. this Protocol does not preclude the incurring of individual criminal responsibility or <eol/>the exercise of jurisdiction under national and international law that may be <eol/>applicable, or affect the exercise of jurisdiction under customary international law;</p>
+          <p/>
+          <p>b. Except in so far as a State which is not Party to this Protocol may accept and apply its <eol/>provisions in accordance with Article 3 paragraph 2, members of the armed forces and <eol/>nationals of a State which is not Party to this Protocol, except for those nationals <eol/>serving in the armed forces of a State which is a Party to this Protocol, do not incur <eol/>individual criminal responsibility by virtue of this Protocol, nor does this Protocol <eol/>impose an obligation to establish jurisdiction over such persons or to extradite them.</p>
+          <p>Article 17</p>
+          <p>Prosecution</p>
+          <p>1. The Party in whose territory the alleged offender of an offence set forth in Article 15 sub-<eol/>paragraphs 1 (a) to (c) is found to be present shall, if it does not extradite that person, submit, <eol/>without exception whatsoever and without undue delay, the case to its competent authorities, <eol/>for the purpose of prosecution, through proceedings in accordance with its domestic law or <eol/>with, if applicable, the relevant rules of international law.</p>
+          <p/>
+          <p>2. Without prejudice to, if applicable, the relevant rules of international law, any person <eol/>regarding whom proceedings are being carried out in connection with the Convention or this <eol/>Protocol shall be guaranteed fair treatment and a fair trial in accordance with domestic law and <eol/>international law at all stages of the proceedings, and in no cases shall be provided guarantees <eol/>less favourable to such person than those provided by international law.</p>
+          <p>Article 18</p>
+          <p>Extradition</p>
+          <p>1. The offences set forth in Article 15 sub-paragraphs 1 (a) to (c) shall be deemed to be <eol/>included as extraditable offences in any extradition treaty existing between any of the Parties <eol/>before the entry into force of this Protocol. Parties undertake to include such offences in every <eol/>extradition treaty to be subsequently concluded between them.</p>
+          <p/>
+          <p>2. When a Party which makes extradition conditional on the existence of a treaty receives a <eol/>request for extradition from another Party with which it has no extradition treaty, the requested <eop/>Party may, at its option, consider the present Protocol as the legal basis for extradition in <eol/>respect of offences as set forth in Article 15 sub-paragraphs 1 (a) to (c).</p>
+          <p/>
+          <p>3. Parties which do not make extradition conditional on the existence of a treaty shall recognise <eol/>the offences set forth in Article 15 sub-paragraphs 1 (a) to (c) as extraditable offences between <eol/>them, subject to the conditions provided by the law of the requested Party.</p>
+          <p/>
+          <p>4. If necessary, offences set forth in Article 15 sub-paragraphs 1 (a) to (c) shall be treated, for <eol/>the purposes of extradition between Parties, as if they had been committed not only in the place <eol/>in which they occurred but also in the territory of the Parties that have established jurisdiction <eol/>in accordance with Article 16 paragraph 1.</p>
+          <p>Article 19</p>
+          <p>Mutual legal assistance</p>
+          <p>1. Parties shall afford one another the greatest measure of assistance in connection with <eol/>investigations or criminal or extradition proceedings brought in respect of the offences set forth <eol/>in Article 15, including assistance in obtaining evidence at their disposal necessary for the <eol/>proceedings.</p>
+          <p/>
+          <p>2. Parties shall carry out their obligations under paragraph 1 in conformity with any treaties or <eol/>other arrangements on mutual legal assistance that may exist between them. In the absence of <eol/>such treaties or arrangements, Parties shall afford one another assistance in accordance with <eol/>their domestic law.</p>
+          <p>Article 20</p>
+          <p>Grounds for refusal</p>
+          <p>1. For the purpose of extradition, offences set forth in Article 15 sub-paragraphs 1 (a) to (c), <eol/>and for the purpose of mutual legal assistance, offences set forth in Article 15 shall not be <eol/>regarded as political offences nor as offences connected with political offences nor as offences <eol/>inspired by political motives. Accordingly, a request for extradition or for mutual legal <eol/>assistance based on such offences may not be refused on the sole ground that it concerns a <eol/>political offence or an offence connected with a political offence or an offence inspired by <eol/>political motives.</p>
+          <p/>
+          <p>2. Nothing in this Protocol shall be interpreted as imposing an obligation to extradite or to <eol/>afford mutual legal assistance if the requested Party has substantial grounds for believing that <eol/>the request for extradition for offences set forth in Article 15 sub-paragraphs 1 (a) to (c) or for <eol/>mutual legal assistance with respect to offences set forth in Article 15 has been made for the <eol/>purpose of prosecuting or punishing a person on account of that person's race, religion, <eol/>nationality, ethnic origin or political opinion or that compliance with the request would cause <eol/>prejudice to that person's position for any of these reasons.</p>
+          <p>Article 21</p>
+          <p>Measures regarding other violations</p>
+          <p>Without prejudice to Article 28 of the Convention, each Party shall adopt such legislative, <eol/>administrative or disciplinary measures as may be necessary to suppress the following acts <eol/>when committed intentionally:</p>
+          <p>a. any use of cultural property in violation of the Convention or this Protocol;</p>
+          <p/>
+          <p>b. any illicit export, other removal or transfer of ownership of cultural property from <eol/>occupied territory in violation of the Convention or this Protocol.</p>
+          <p/>
+          <p>Chapter 5</p>
+          <p>The protection of cultural property in armed conflicts not of <eol/>an international character</p>
+          <p>Article 22</p>
+          <p>Armed conflicts not of an international character</p>
+          <p>1. This Protocol shall apply in the event of an armed conflict not of an international character, <eol/>occurring within the territory of one of the Parties.</p>
+          <p/>
+          <p>2. This Protocol shall not apply to situations of internal disturbances and tensions, such as riots, <eol/>isolated and sporadic acts of violence and other acts of a similar nature.</p>
+          <p/>
+          <p>3. Nothing in this Protocol shall be invoked for the purpose of affecting the sovereignty of a <eol/>State or the responsibility of the government, by all legitimate means, to maintain or re-<eol/>establish law and order in the State or to defend the national unity and territorial integrity of the <eol/>State.</p>
+          <p/>
+          <p>4. Nothing in this Protocol shall prejudice the primary jurisdiction of a Party in whose territory <eol/>an armed conflict not of an international character occurs over the violations set forth in Article <eol/>15.</p>
+          <p/>
+          <p>5. Nothing in this Protocol shall be invoked as a justification for intervening, directly or <eol/>indirectly, for any reason whatever, in the armed conflict or in the internal or external affairs of <eol/>the Party in the territory of which that conflict occurs.</p>
+          <p/>
+          <p>6. The application of this Protocol to the situation referred to in paragraph 1 shall not affect the <eol/>legal status of the parties to the conflict.</p>
+          <p/>
+          <p>7. UNESCO may offer its services to the parties to the conflict.</p>
+          <p>Chapter 6</p>
+          <p>Institutional Issues</p>
+          <p>Article 23</p>
+          <p>Meeting of the Parties</p>
+          <p>1. The Meeting of the Parties shall be convened at the same time as the General Conference of <eol/>UNESCO, and in co-ordination with the Meeting of the High Contracting Parties, if such a <eol/>meeting has been called by the Director-General.</p>
+          <p/>
+          <p>2. The Meeting of the Parties shall adopt its Rules of Procedure.</p>
+          <p/>
+          <p>3. The Meeting of the Parties shall have the following functions:</p>
+          <p/>
+          <p>(a)to elect the Members of the Committee, in accordance with Article 24 paragraph 1;</p>
+          <p>(b) to endorse the Guidelines developed by the Committee in accordance with Article 27 <eol/>sub-paragraph 1(a);</p>
+          <p/>
+          <p>(c) to provide guidelines for, and to supervise the use of the Fund by the Committee;</p>
+          <p/>
+          <p>(d) to consider the report submitted by the Committee in accordance with Article 27 sub-<eol/>paragraph 1(d);</p>
+          <p/>
+          <p>(e) to discuss any problem related to the application of this Protocol, and to make <eol/>recommendations, as appropriate.</p>
+          <p/>
+          <p>4. At the request of at least one-fifth of the Parties, the Director-General shall convene an <eol/>Extraordinary Meeting of the Parties.</p>
+          <p/>
+          <p>Article 24</p>
+          <p>Committee for the protection of cultural property in the event of armed conflict</p>
+          <p>1. The Committee for the Protection of Cultural Property in the Event of Armed Conflict is <eol/>hereby established. It shall be composed of twelve Parties which shall be elected by the <eop/>Meeting of the Parties.</p>
+          <p/>
+          <p>2. The Committee shall meet once a year in ordinary session and in extra-ordinary sessions <eol/>whenever it deems necessary.</p>
+          <p/>
+          <p>3. In determining membership of the Committee, Parties shall seek to ensure an equitable <eol/>representation of the different regions and cultures of the world.</p>
+          <p/>
+          <p>4. Parties members of the Committee shall choose as their representatives persons qualified in <eol/>the fields of cultural heritage, defence or international law, and they shall endeavour, in <eol/>consultation with one another, to ensure that the Committee as a whole contains adequate <eol/>expertise in all these fields.</p>
+          <p/>
+          <p>Article 25</p>
+          <p>Term of office</p>
+          <p>1. A Party shall be elected to the Committee for four years and shall be eligible for immediate <eol/>re-election only once.</p>
+          <p/>
+          <p>2. Notwithstanding the provisions of paragraph 1, the term of office of half of the members <eol/>chosen at the time of the first election shall cease at the end of the first ordinary session of the <eol/>Meeting of the Parties following that at which they were elected. These members shall be <eol/>chosen by lot by the President of this Meeting after the first election.</p>
+          <p>Article 26</p>
+          <p>Rules of procedure</p>
+          <p>1. The Committee shall adopt its Rules of Procedure.</p>
+          <p/>
+          <p>2. A majority of the members shall constitute a quorum. Decisions of the Committee shall be <eol/>taken by a majority of two-thirds of its members voting.</p>
+          <p/>
+          <p>3. Members shall not participate in the voting on any decisions relating to cultural property <eol/>affected by an armed conflict to which they are parties.</p>
+          <p>Article 27</p>
+          <p>Functions</p>
+          <p>1. The Committee shall have the following functions:</p>
+          <p/>
+          <p>(a) to develop Guidelines for the implementation of this Protocol;</p>
+          <p/>
+          <p>(b) to grant, suspend or cancel enhanced protection for cultural property and to establish, <eol/>maintain and promote the List of cultural property under enhanced protection;</p>
+          <p/>
+          <p>(c) to monitor and supervise the implementation of this Protocol and promote the <eol/>identification of cultural property under enhanced protection;</p>
+          <p/>
+          <p>(d) to consider and comment on reports of the Parties, to seek clarifications as required, <eol/>and prepare its own report on the implementation of this Protocol for the Meeting of <eol/>the Parties;</p>
+          <p/>
+          <p>(e) to receive and consider requests for international assistance under Article 32;</p>
+          <p/>
+          <p>(f) to determine the use of the Fund</p>
+          <p/>
+          <p>(g) to perform any other function which may be assigned to it by the Meeting of the <eol/>Parties.</p>
+          <p/>
+          <p>2. The functions of the Committee shall be performed in co-operation with the Director-<eol/>General.</p>
+          <p/>
+          <p>3. The Committee shall co-operate with international and national governmental and non-<eol/>governmental organizations having objectives similar to those of the Convention, its First <eol/>Protocol and this Protocol. To assist in the implementation of its functions, the Committee may <eol/>invite to its meetings, in an advisory capacity, eminent professional organizations such as those <eol/>which have formal relations with UNESCO, including the International Committee of the Blue <eol/>Shield (ICBS) and its constituent bodies. Representatives of the International Centre for the <eol/>Study of the Preservation and Restoration of Cultural Property (Rome Centre) (ICCROM) and <eol/>of the International Committee of the Red Cross (ICRC) may also be invited to attend in an <eol/>advisory capacity.</p>
+          <p/>
+          <p>Article 28</p>
+          <p>Secretariat</p>
+          <p>The Committee shall be assisted by the Secretariat of UNESCO which shall prepare the <eol/>Committee's documentation and the agenda for its meetings and shall have the responsibility for <eop/>the implementation of its decisions.</p>
+          <p>Article 29</p>
+          <p>The Fund for the protection of cultural property in the event of armed conflict</p>
+          <p>1. A Fund is hereby established for the following purposes:</p>
+          <p/>
+          <p>(a) to provide financial or other assistance in support of preparatory or other measures to <eol/>be taken in peacetime in accordance with, inter alia, Article 5, Article 10 sub-<eol/>paragraph (b) and Article 30; and</p>
+          <p/>
+          <p>(b) to provide financial or other assistance in relation to emergency, provisional or other <eol/>measures to be taken in order to protect cultural property during periods of armed <eol/>conflict or of immediate recovery after the end of hostilities in accordance with, inter <eol/>alia, Article 8 sub-paragraph (a).</p>
+          <p/>
+          <p>2. The Fund shall constitute a trust fund, in conformity with the provisions of the financial <eol/>regulations of UNESCO.</p>
+          <p/>
+          <p>3. Disbursements from the Fund shall be used only for such purpose as the Committee shall <eol/>decide in accordance with the guidelines as defined in Article 23 sub-paragraph 3(c). The <eol/>Committee may accept contributions to be used only for a certain programme or project, <eol/>provided that the Committee shall have decided on the implementation of such programme or <eol/>project.</p>
+          <p/>
+          <p>4. The resources of the Fund shall consist of:</p>
+          <p/>
+          <p>(a) voluntary contributions made by the Parties;</p>
+          <p/>
+          <p>(b) contributions, gifts or bequests made by:</p>
+          <p/>
+          <p> (i) other States;</p>
+          <p/>
+          <p> (ii) UNESCO or other organizations of the United Nations system;</p>
+          <p/>
+          <p> (iii) other intergovernmental or non-governmental organizations; and</p>
+          <p/>
+          <p> (iv) public or private bodies or individuals;</p>
+          <p/>
+          <p>(c) any interest accruing on the Fund;</p>
+          <p/>
+          <p>(d) funds raised by collections and receipts from events organized for the benefit of the <eol/>Fund; and</p>
+          <p/>
+          <p>(e) all other resources authorized by the guidelines applicable to the Fund.</p>
+          <p>Chapter 7</p>
+          <p>Dissemination of Information and International Assistance</p>
+          <p>Article 30</p>
+          <p>Dissemination</p>
+          <p>1. The Parties shall endeavour by appropriate means, and in particular by educational and <eol/>information programmes, to strengthen appreciation and respect for cultural property by their <eol/>entire population.</p>
+          <p/>
+          <p>2. The Parties shall disseminate this Protocol as widely as possible, both in time of peace and in <eol/>time of armed conflict.</p>
+          <p/>
+          <p>3. Any military or civilian authorities who, in time of armed conflict, assume responsibilities <eol/>with respect to the application of this Protocol, shall be fully acquainted with the text thereof. <eol/>To this end the Parties shall, as appropriate:</p>
+          <p/>
+          <p>(a) incorporate guidelines and instructions on the protection of cultural property in their <eol/>military regulations;</p>
+          <p/>
+          <p>(b) develop and implement, in cooperation with UNESCO and relevant governmental and <eol/>non-governmental organizations, peacetime training and educational programmes;</p>
+          <p/>
+          <p>(c) communicate to one another, through the Director-General, information on the laws, <eol/>administrative provisions and measures taken under sub-paragraphs (a) and (b);</p>
+          <p/>
+          <p>(d) communicate to one another, as soon as possible, through the Director-General, the <eol/>laws and administrative provisions which they may adopt to ensure the application of <eol/>this Protocol.</p>
+          <p>Article 31</p>
+          <p>International cooperation</p>
+          <p>In situations of serious violations of this Protocol, the Parties undertake to act, jointly through <eol/>the Committee, or individually, in cooperation with UNESCO and the United Nations and in <eol/>conformity with the Charter of the United Nations.</p>
+          <p>Article 32</p>
+          <p>International assistance</p>
+          <p>1. A Party may request from the Committee international assistance for cultural property under <eol/>enhanced protection as well as assistance with respect to the preparation, development or <eol/>implementation of the laws, administrative provisions and measures referred to in Article 10.</p>
+          <p/>
+          <p>2. A party to the conflict, which is not a Party to this Protocol but which accepts and applies <eol/>provisions in accordance with Article 3, paragraph 2, may request appropriate international <eol/>assistance from the Committee.</p>
+          <p/>
+          <p>3. The Committee shall adopt rules for the submission of requests for international assistance <eol/>and shall define the forms the international assistance may take.</p>
+          <p/>
+          <p>4. Parties are encouraged to give technical assistance of all kinds, through the Committee, to <eol/>those Parties or parties to the conflict who request it.</p>
+          <p>Article 33</p>
+          <p>Assistance of UNESCO</p>
+          <p>1. A Party may call upon UNESCO for technical assistance in organizing the protection of its <eol/>cultural property, such as preparatory action to safeguard cultural property, preventive and <eol/>organizational measures for emergency situations and compilation of national inventories of <eol/>cultural property, or in connection with any other problem arising out of the application of this <eol/>Protocol. UNESCO shall accord such assistance within the limits fixed by its programme and <eol/>by its resources.</p>
+          <p/>
+          <p>2. Parties are encouraged to provide technical assistance at bilateral or multilateral level.</p>
+          <p/>
+          <p>3. UNESCO is authorized to make, on its own initiative, proposals on these matters to the <eol/>Parties.</p>
+          <p>Chapter 8</p>
+          <p>Execution of this Protocol</p>
+          <p>Article 34</p>
+          <p>Protecting Powers</p>
+          <p>This Protocol shall be applied with the co-operation of the Protecting Powers responsible for <eol/>safeguarding the interests of the Parties to the conflict.</p>
+          <p>Article 35</p>
+          <p>Conciliation procedure</p>
+          <p>1. The Protecting Powers shall lend their good offices in all cases where they may deem it <eol/>useful in the interests of cultural property, particularly if there is disagreement between the <eol/>Parties to the conflict as to the application or interpretation of the provisions of this Protocol.</p>
+          <p/>
+          <p>2. For this purpose, each of the Protecting Powers may, either at the invitation of one Party, of <eol/>the Director-General, or on its own initiative, propose to the parties to the conflict a meeting of <eol/>their representatives, and in particular of the authorities responsible for the protection of <eol/>cultural property, if considered appropriate, on the territory of a State not party to the conflict. <eol/>The parties to the conflict shall be bound to give effect to the proposals for meeting made to <eol/>them. The Protecting Powers shall propose for approval by the Parties to the conflict a person <eol/>belonging to a State not party to the conflict or a person presented by the Director-General, <eol/>which person shall be invited to take part in such a meeting in the capacity of Chairman.</p>
+          <p>Article 36</p>
+          <p>Conciliation in absence of Protecting Powers</p>
+          <p>1. In a conflict where no Protecting Powers are appointed the Director-General may lend good <eol/>offices or act by any other form of conciliation or mediation, with a view to settling the <eol/>disagreement.</p>
+          <p/>
+          <p>2. At the invitation of one Party or of the Director-General, the Chairman of the Committee may <eol/>propose to the Parties to the conflict a meeting of their representatives, and in particular of the <eol/>authorities responsible for the protection of cultural property, if considered appropriate, on the <eol/>territory of a State not party to the conflict.</p>
+          <p>Article 37</p>
+          <p>Translations and reports</p>
+          <p>1. The Parties shall translate this Protocol into their official languages and shall communicate <eol/>these official translations to the Director-General.</p>
+          <p/>
+          <p>2. The Parties shall submit to the Committee, every four years, a report on the implementation <eol/>of this Protocol.</p>
+          <p>Article 38</p>
+          <p>State responsibility</p>
+          <p>No provision in this Protocol relating to individual criminal responsibility shall affect the <eol/>responsibility of States under international law, including the duty to provide reparation.</p>
+          <p>Chapter 9</p>
+          <p>Final Clauses</p>
+          <p>Article 39</p>
+          <p>Languages</p>
+          <p>This Protocol is drawn up in Arabic, Chinese, English, French, Russian and Spanish, the six <eol/>texts being equally authentic.</p>
+          <p>Article 40</p>
+          <p>Signature</p>
+          <p>This Protocol shall bear the date of 26 March 1999. It shall be opened for signature by all High <eol/>Contracting Parties at The Hague from 17 May 1999 until 31 December 1999.</p>
+          <p>Article 41</p>
+          <p>Ratification, acceptance or approval</p>
+          <p>1. This Protocol shall be subject to ratification, acceptance or approval by High Contracting <eol/>Parties which have signed this Protocol, in accordance with their respective constitutional <eol/>procedures.</p>
+          <p/>
+          <p>2. The instruments of ratification, acceptance or approval shall be deposited with the Director-<eol/>General.</p>
+          <p>Article 42</p>
+          <p>Accession</p>
+          <p>1. This Protocol shall be open for accession by other High Contracting Parties from 1 January <eol/>2000.</p>
+          <p/>
+          <p>2. Accession shall be effected by the deposit of an instrument of accession with the Director-<eol/>General.</p>
+          <p>Article 43</p>
+          <p>Entry into force</p>
+          <p>1. This Protocol shall enter into force three months after twenty instruments of ratification, <eol/>acceptance, approval or accession have been deposited.</p>
+          <p/>
+          <p>2. Thereafter, it shall enter into force, for each Party, three months after the deposit of its <eol/>instrument of ratification, acceptance, approval or accession.</p>
+          <p>Article 44</p>
+          <p>Entry into force in situations of armed conflict</p>
+          <p>The situations referred to in Articles 18 and 19 of the Convention shall give immediate effect to <eol/>ratifications, acceptances or approvals of or accessions to this Protocol deposited by the parties <eol/>to the conflict either before or after the beginning of hostilities or occupation. In such cases the <eol/>Director-General shall transmit the communications referred to in Article 46 by the speediest <eol/>method.</p>
+          <p>Article 45</p>
+          <p>Denunciation</p>
+          <p>1. Each Party may denounce this Protocol.</p>
+          <p/>
+          <p>2. The denunciation shall be notified by an instrument in writing, deposited with the Director-<eol/>General.</p>
+          <p/>
+          <p>3. The denunciation shall take effect one year after the receipt of the instrument of <eol/>denunciation. However, if, on the expiry of this period, the denouncing Party is involved in an <eol/>armed conflict, the denunciation shall not take effect until the end of hostilities, or until the <eol/>operations of repatriating cultural property are completed, whichever is the later.</p>
+          <p>Article 46</p>
+          <p>Notifications</p>
+          <p>The Director-General shall inform all High Contracting Parties as well as the United Nations, <eol/>of the deposit of all the instruments of ratification, acceptance, approval or accession provided <eol/>for in Articles 41 and 42 and of denunciations provided for in Article 45.</p>
+          <p>Article 47</p>
+          <p>Registration with the United Nations</p>
+          <p>In conformity with Article 102 of the Charter of the United Nations, this Protocol shall be <eop/>registered with the Secretariat of the United Nations at the request of the Director-General.</p>
+          <p/>
+          <p>IN FAITH WHEREOF the undersigned, duly authorized, have signed the present Protocol.</p>
+          <p/>
+          <p>DONE at The Hague, this twenty-sixth day of March 1999, in a single copy which shall be <eol/>deposited in the archives of the UNESCO, and certified true copies of which shall be delivered <eol/>to all the High Contracting Parties.</p>
+        </content>
+      </hcontainer>
+    </body>
+  </bill>
+</akomaNtoso>

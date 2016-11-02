@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/74"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/74"/>
+          <FRBRdate date="2016-07-20" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="74"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/74/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/74/initiated/en"/>
+          <FRBRdate date="2016-07-20" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/74/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/74/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um Cheartas Coiriúil (Pianbhreitheanna Príosúnachta Fionraithe), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Criminal Justice (Suspended Sentences of Imprisonment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHEARTAS COIRIÚIL (PIANBHREITHEANNA PRÍOSÚNACHTA FIONRAITHE), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Criminal Justice (Suspended Sentences of Imprisonment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Definition</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 99 of Criminal Justice Act 2006</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Construction of references</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Criminal Justice (Theft and Fraud Offences) Act 2001 (No. 50)</p>
+        <p class="act-referred-to">Criminal Justice Act 1951 (No. 2)</p>
+        <p class="act-referred-to">Criminal Justice Act 1984 (No. 22)</p>
+        <p class="act-referred-to">Criminal Justice Act 2006 (No. 26)</p>
+        <p class="act-referred-to">Criminal Law Act 1976 (No. 32)</p>
+        <p class="act-referred-to">Interpretation Act 2005 (No. 23)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE UM CHEARTAS COIRIÚIL (PIANBHREITHEANNA PRÍOSÚNACHTA FIONRAITHE), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Criminal Justice (Suspended Sentences of Imprisonment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend section 99 of the Criminal Justice Act 2006 in certain respects; and to <eol/>provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Definition</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act “Act of 2006” means the Criminal Justice Act 2006.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 99 of Criminal Justice Act 2006</heading>
+        <num>2.</num>
+        <intro>
+          <p>Section 99 of the Act of 2006 is amended⁠—</p>
+        </intro>
+        <paragraph wId="section-2-a">
+          <num>(a)</num>
+          <content>
+            <p>in subsection (7), by the insertion of “, by electronic or other means,” after “it <eol/>shall cause a copy of the order to be given”,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-b">
+          <num>(b)</num>
+          <content>
+            <p>in subsection (8), by the insertion of “, by electronic or other means,” after “it <eol/>shall cause a copy of the order and the conditions to be given”,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-c">
+          <num>(c)</num>
+          <content>
+            <p>by the insertion of the following subsections after subsection (8):</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <paragraph>
+                    <num>“(8A) (a)</num>
+                    <intro>
+                      <p>Where a person to whom an order under subsection (1) applies⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(i)</num>
+                      <content>
+                        <p>commits an offence after the making of that order and during the <eol/>period of suspension of the sentence concerned (in this section <eol/>referred to as the ‘triggering offence’), and</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(ii)</num>
+                      <content>
+                        <p>subject to subsection (8B), is convicted of the triggering <eol/>offence,</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph>
+                    <intro>
+                      <p>the court before which proceedings for the triggering offence are <eol/>brought shall, after imposing sentence for that offence, remand the <eol/>person in custody or on bail to a sitting of the court that made the <eol/>said order to be held⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(I)</num>
+                      <content>
+                        <p>no later than 15 days after such remand, or</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(II)</num>
+                      <content>
+                        <p>if there is no sitting of that court within that period, to the next <eol/>sitting of that court thereafter,</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                  <paragraph>
+                    <content>
+                      <p>and, if there is no sitting of that court on the day to which that <eol/>person has been remanded, he or she shall stand so remanded to the <eol/>sitting of that court next held after that day.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>The remand of a person in custody or on bail under paragraph (a) to <eol/>a sitting of the court that made the order under subsection (1) <eol/>concerned applying to the person may be to a sitting of that court <eol/>other than a sitting thereof referred to in paragraph (c).</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(c)</num>
+                    <content>
+                      <p>Subject to paragraph (b), references in paragraph (a) to a sitting of <eol/>a court shall be construed as references to a sitting of the court at a <eol/>place and time appointed or fixed for sittings of that court by or <eol/>under statute.</p>
+                      <p>(8B)Subsection (8A) applies to a conviction of a person for an offence if <eol/>proceedings for the offence are instituted against the person during the <eol/>period of suspension of the sentence concerned pursuant to the order <eol/>under subsection (1) applying to the person and 12 months thereafter.</p>
+                      <p>(8C)Subject to subsection (8D), a court to which a person has been <eol/>remanded under subsection (8A) shall revoke the order under <eol/>subsection (1) concerned unless it considers that the revocation of that <eol/>order would be unjust in all the circumstances of the case, and where <eol/>the court revokes that order, the person shall be required to serve the <eol/>entire of the sentence of imprisonment originally imposed by the court, <eol/>or such part of the sentence as the court considers just having regard to <eol/>all of the circumstances of the case, less any period of that sentence <eol/>already served in prison and any period spent in custody (other than a <eol/>period spent in custody by the person in respect of the triggering <eol/>offence) pending the revocation of the said order.</p>
+                      <p>(8D)Where a person appeals against conviction or sentence for the <eol/>triggering offence, a court referred to in subsection (8C) may, upon <eol/>application in that behalf by the person, adjourn the proceedings under <eol/>that subsection for such period as the court considers appropriate to <eol/>enable that person to bring the appeal and for it to be determined.</p>
+                      <p>(8E)If an appeal brought by the person concerned against conviction or <eol/>sentence for the triggering offence is withdrawn or abandoned, the <eol/>court referred to in subsection (8C) shall, in accordance with that <eol/>subsection, consider the revocation of the order under subsection (1) <eol/>concerned.</p>
+                      <p>(8F)On the determination of an appeal against conviction or sentence for <eol/>the triggering offence brought by the person concerned⁠—</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(a)</num>
+                    <content>
+                      <p>if the order of the court before which proceedings for that offence <eol/>were brought is reversed insofar as it relates to the conviction for <eol/>that offence or the conviction for that offence is quashed, the court <eol/>referred to in subsection (8C) shall dismiss the proceedings under <eol/>that subsection, and</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>in all other cases, the court referred to in subsection (8C) shall, in <eol/>accordance with that subsection, consider the revocation of the <eol/>order under subsection (1) concerned.</p>
+                      <p>(8G)When an appeal against conviction or sentence for the triggering <eol/>offence is withdrawn, abandoned or determined, the person concerned <eol/>shall, for the purposes of subsections (8E) and (8F), appear before the <eol/>court referred to in subsection (8C) whenever he or she is required to <eol/>do so by that court.</p>
+                      <p>(8H)In subsections (8D) to (8G), references to an appeal against conviction <eol/>or sentence for the triggering offence shall be construed as references <eol/>to an appeal against conviction or sentence, as the case may be, for <eol/>that offence, whether by way of rehearing, case stated or otherwise.”,</p>
+                    </content>
+                  </paragraph>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-d">
+          <num>(d)</num>
+          <content>
+            <p>by the deletion of subsection (10A),</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-e">
+          <num>(e)</num>
+          <content>
+            <p>by the substitution of the following subsection for subsection (11):</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <paragraph>
+                    <num>“(11) (a)</num>
+                    <content>
+                      <p>Where an order under subsection (1) applying to a person is <eol/>revoked under subsection (8C), any period of imprisonment <eol/>required to be served by the person as a result of that revocation <eol/>shall be consecutive on any sentence of imprisonment (other than a <eol/>sentence consisting of imprisonment for life) imposed on the <eol/>person in respect of the triggering offence.</p>
+                    </content>
+                  </paragraph>
+                  <paragraph>
+                    <num>(b)</num>
+                    <content>
+                      <p>Paragraph (a) shall not apply if the execution of the sentence of <eol/>imprisonment imposed on the person in respect of the triggering <eol/>offence is wholly suspended under subsection (1).”,</p>
+                    </content>
+                  </paragraph>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-f">
+          <num>(f)</num>
+          <content>
+            <p>in subsection (13), by the substitution of “a person to whom an order under <eol/>subsection (1) applies has contravened the condition referred to in subsection (2) <eol/>or a condition imposed under subsection (3), he or she may apply” for “a person <eol/>to whom an order under this section applies has contravened the condition <eol/>referred to in subsection (2) he or she may apply”,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-g">
+          <num>(g)</num>
+          <content>
+            <p>by the insertion of the following subsection after subsection (13):</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“(13A)</num>
+                    <content>
+                      <p>The Director of Public Prosecutions may, if he or she has reasonable <eol/>grounds for believing that a person to whom an order under subsection <eol/>(1) applies has contravened a condition imposed under subsection (3), <eol/>apply to the court to fix a date for the hearing of an application for an <eol/>order revoking the order under subsection (1).”,</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-h">
+          <num>(h)</num>
+          <content>
+            <p>in subsection (14), by the deletion of “(3) or” after “has contravened a condition <eol/>imposed under subsection”,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-i">
+          <num>(i)</num>
+          <content>
+            <p>in subsection (15), by the substitution of “the hearing of an application referred to <eol/>in subsection (13), (13A) or (14)” for “the hearing of an application referred to in <eol/>subsection (13) or (14)”,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-j">
+          <num>(j)</num>
+          <content>
+            <p>by the insertion of the following subsection after subsection (18):</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“(18A)</num>
+                    <content>
+                      <p>Where, under subsection (8C) or (17), a court revokes an order under <eol/>subsection (1) applying to a person and the person is required to serve <eop/>a part of the sentence of imprisonment originally imposed on him or <eol/>her, the court may make a further order suspending the execution of <eol/>the part of the sentence of imprisonment that is not required to be <eol/>served by the person and such further order shall, for the purposes of <eol/>this section, be regarded as an order made under subsection (1) <eol/>applying to the person and that subsection shall apply accordingly.”,</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-k">
+          <num>(k)</num>
+          <content>
+            <p>by the insertion of the following subsections after subsection (19):</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“(19A)</num>
+                    <intro>
+                      <p>If, in relation to a person, the application of subsection (11) conflicts <eol/>with any of the other consecutive sentencing provisions with regard to <eol/>the sequence in which the following shall be served by the person, <eol/>namely⁠—</p>
+                    </intro>
+                    <paragraph>
+                      <num>(a)</num>
+                      <content>
+                        <p>a sentence of a term of imprisonment imposed on the person for the <eol/>triggering offence,</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(b)</num>
+                      <content>
+                        <p>the period of imprisonment required to be served by the person <eol/>under subsection (8C), and</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(c)</num>
+                      <content>
+                        <p>a sentence of a term of imprisonment imposed on the person for <eol/>another offence of which he or she is convicted,</p>
+                      </content>
+                    </paragraph>
+                    <wrapUp>
+                      <p>the court referred to in subsection (8C) or any other court concerned <eol/>may determine that sequence in such manner as it considers just, <eol/>provided that the sentences of imprisonment referred to in paragraphs <eol/>(a) and (c) and the period of imprisonment referred to in paragraph (b) <eol/>shall be consecutive on each other.</p>
+                    </wrapUp>
+                  </subsection>
+                  <subsection>
+                    <num>(19B)</num>
+                    <intro>
+                      <p>Where a person is convicted of the triggering offence by the District <eol/>Court and an order under subsection (1) applying to the person is <eol/>revoked by the District Court under subsection (8C), the aggregate <eol/>of⁠—</p>
+                    </intro>
+                    <paragraph>
+                      <num>(a)</num>
+                      <content>
+                        <p>a sentence of a term of imprisonment imposed on the person for the <eol/>triggering offence,</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(b)</num>
+                      <content>
+                        <p>the period of imprisonment required to be served by the person <eol/>under subsection (8C), and</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(c)</num>
+                      <content>
+                        <p>a sentence of a term of imprisonment for any other offence imposed <eol/>on the person by the District Court that is required by any of the <eol/>other consecutive sentencing provisions to be consecutive on the <eol/>sentence of imprisonment referred to in paragraph (a) or the period <eol/>of imprisonment referred to in paragraph (b) or vice versa,</p>
+                      </content>
+                    </paragraph>
+                    <wrapUp>
+                      <p>shall not exceed 2 years.”,</p>
+                    </wrapUp>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+            <p>and</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-l">
+          <num>(l)</num>
+          <content>
+            <p>by the addition of the following subsections:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <num>“(21)</num>
+                    <intro>
+                      <p>Where⁠—</p>
+                    </intro>
+                    <paragraph>
+                      <num>(a)</num>
+                      <content>
+                        <p>under subsection (8C), an order under subsection (1) applying to a <eol/>person is revoked and the person is required to serve a part of the <eop/>sentence of imprisonment originally imposed on him or her under <eol/>that subsection, and</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(b)</num>
+                      <content>
+                        <p>a court imposes a sentence of a term of imprisonment on the person <eol/>that is to be consecutive on the sentence of imprisonment referred <eol/>to in paragraph (a),</p>
+                      </content>
+                    </paragraph>
+                    <wrapUp>
+                      <p>the sentence of imprisonment referred to in paragraph (b) shall <eol/>commence at the expiration of the period of imprisonment required to <eol/>be served by the person under subsection (8C) referred to in paragraph <eol/>(a).</p>
+                    </wrapUp>
+                  </subsection>
+                  <subsection>
+                    <num>(22)</num>
+                    <intro>
+                      <p>Where an order under subsection (1) is made by a court on appeal <eol/>from another court⁠—</p>
+                    </intro>
+                    <paragraph>
+                      <num>(a)</num>
+                      <content>
+                        <p>the reference in subsection (8A) to the court that made the order <eol/>under subsection (1),</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(b)</num>
+                      <content>
+                        <p>the references in subsections (8C), (8D), (8G), (13) to (17), (18A) <eol/>and (19A) to the court that may exercise jurisdiction under each of <eol/>those subsections, and</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(c)</num>
+                      <content>
+                        <p>the reference in subsection (12) to the court that revoked the order <eol/>under subsection (1),</p>
+                      </content>
+                    </paragraph>
+                    <wrapUp>
+                      <p>shall be construed as references to the court from whose order or <eol/>decision the appeal was taken.</p>
+                    </wrapUp>
+                  </subsection>
+                  <subsection>
+                    <num>(23)</num>
+                    <intro>
+                      <p>In this section the ‘other consecutive sentencing provisions’ means⁠—</p>
+                    </intro>
+                    <paragraph>
+                      <num>(a)</num>
+                      <content>
+                        <p>section 5 of the Criminal Justice Act 1951,</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(b)</num>
+                      <content>
+                        <p>section 13 of the Criminal Law Act 1976,</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(c)</num>
+                      <content>
+                        <p>section 11 of the Criminal Justice Act 1984,</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(d)</num>
+                      <content>
+                        <p>section 54A of the Criminal Justice (Theft and Fraud Offences) Act 2001, and</p>
+                      </content>
+                    </paragraph>
+                    <paragraph>
+                      <num>(e)</num>
+                      <content>
+                        <p>any other enactment that requires or permits a court to impose a <eol/>consecutive sentence.”.</p>
+                      </content>
+                    </paragraph>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+      </section>
+      <section wId="section-3">
+        <heading>Construction of references</heading>
+        <num>3.</num>
+        <intro>
+          <p>A reference in any enactment, within the meaning of the Interpretation Act 2005, to⁠—</p>
+        </intro>
+        <paragraph wId="section-3-a">
+          <num>(a)</num>
+          <content>
+            <p>subsection (9) of section 99 of the Act of 2006 shall be construed as a reference <eol/>to subsections (8A) and (8B) (inserted by <i>section </i> <i>2</i> <i>(c)</i>) of the said section 99, and</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-3-b">
+          <num>(b)</num>
+          <content>
+            <p>subsection (10) of section 99 of the Act of 2006 shall be construed as a reference <eol/>to subsection (8C) (inserted by <i>section </i> <i>2</i> <i>(c)</i>) of the said section 99.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section wId="section-4">
+        <heading>Short title and commencement</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Criminal Justice (Suspended Sentences of Imprisonment) <eol/>Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into operation on such day or days as the Minister for Justice and <eol/>Equality may by order or orders appoint either generally or with reference to any <eol/>particular purpose or provision and different days may be so appointed for different <eol/>purposes or different provisions.</p>
+            <p/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

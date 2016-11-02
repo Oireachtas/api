@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/34"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/34"/>
+          <FRBRdate date="2016-05-31" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="34"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/34/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/34/initiated/en"/>
+          <FRBRdate date="2016-05-31" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/34/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/34/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille Sláinte (Earraí Liachta a Phraghsáil agus a Sholáthar) (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Health (Pricing and Supply of Medical Goods) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE SLÁINTE (EARRAÍ LIACHTA A PHRAGHSÁIL AGUS A SHOLÁTHAR) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Health (Pricing and Supply of Medical Goods) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 5 of Act of 2013</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Amendment of section 13 of Act of 2013</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Health (Pricing and Supply of Medical Goods) Act 2013 (No. 14)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">AN BILLE SLÁINTE (EARRAÍ LIACHTA A PHRAGHSÁIL AGUS A SHOLÁTHAR) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Health (Pricing and Supply of Medical Goods) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend the Health (Pricing and Supply of Medical Goods) Act 2013 to allow <eol/>interchangeability between biologic and biosimilar medical goods.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“Act of 2013” means the Health (Pricing and Supply of Medical Goods) Act 2013.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 5 of Act of 2013</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 5 of the Act of 2013 is amended by the deletion of subsection (7)(d).</p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Amendment of section 13 of Act of 2013</heading>
+        <num>3.</num>
+        <content>
+          <p>Section 13 of the Act of 2013 is amended by the insertion of the following at the end of <eol/>subsection (1):</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <p>“Notwithstanding the provision contained in this subsection, in the case <eol/>of a new patient seeking a treatment for the first time, where a prescriber <eol/>is satisfied that a medicinal product can be substituted in accordance with <eol/>Chapter 2, the prescriber shall have the discretion to waive the clinical <eol/>exemption and substitute accordingly.”.</p>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-4">
+        <heading>Short title and commencement</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Health (Pricing and Supply of Medical Goods) <eol/>(Amendment) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act comes into operation on such day or days as the Minister for Health may <eol/>appoint by order or orders.</p>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

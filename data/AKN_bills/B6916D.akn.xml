@@ -21,7 +21,7 @@
         <FRBRManifestation>
           <FRBRthis value="/ie/oireachtas/bill/2016/69/initiated/en/xml"/>
           <FRBRuri value="/ie/oireachtas/bill/2016/69/initiated/en/xml"/>
-          <FRBRdate date="2016-10-23" name="transformed"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
           <FRBRauthor href=""/>
           <FRBRformat value="application/akn+xml"/>
         </FRBRManifestation>
@@ -59,56 +59,56 @@
       <block name="horizontal-rule"/>
       <toc>
         <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
-        <tocItem class="heading" href="" level="0">Section</tocItem>
-        <tocItem class="section" href="#toc_book_1" level="1">
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
           <inline name="tocNum">1.</inline>
           <inline name="tocHeading">Interpretation</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_2" level="1">
+        <tocItem class="section" href="#section-2" level="1">
           <inline name="tocNum">2.</inline>
           <inline name="tocHeading">Excess product</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_3" level="1">
+        <tocItem class="section" href="#section-3" level="1">
           <inline name="tocNum">3.</inline>
           <inline name="tocHeading">Location of turbines</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_4" level="1">
+        <tocItem class="section" href="#section-4" level="1">
           <inline name="tocNum">4.</inline>
           <inline name="tocHeading">Public consultation</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_5" level="1">
+        <tocItem class="section" href="#section-5" level="1">
           <inline name="tocNum">5.</inline>
           <inline name="tocHeading">Noise and shadow flickers</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_6" level="1">
+        <tocItem class="section" href="#section-6" level="1">
           <inline name="tocNum">6.</inline>
           <inline name="tocHeading">Set back distances</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_7" level="1">
+        <tocItem class="section" href="#section-7" level="1">
           <inline name="tocNum">7.</inline>
           <inline name="tocHeading">Transitional provisions and duties of planning authorities</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_8" level="1">
+        <tocItem class="section" href="#section-8" level="1">
           <inline name="tocNum">8.</inline>
           <inline name="tocHeading">Compliance and penalties</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_9" level="1">
+        <tocItem class="section" href="#section-9" level="1">
           <inline name="tocNum">9.</inline>
           <inline name="tocHeading">Financial evidence</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_10" level="1">
+        <tocItem class="section" href="#section-10" level="1">
           <inline name="tocNum">10.</inline>
           <inline name="tocHeading">Responsibility upon decommissioning</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_11" level="1">
+        <tocItem class="section" href="#section-11" level="1">
           <inline name="tocNum">11.</inline>
           <inline name="tocHeading">Co-ownership for Local Communities</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_12" level="1">
+        <tocItem class="section" href="#section-12" level="1">
           <inline name="tocNum">12.</inline>
           <inline name="tocHeading">Civil liabilities</inline>
         </tocItem>
-        <tocItem class="section" href="#toc_book_13" level="1">
+        <tocItem class="section" href="#section-13" level="1">
           <inline name="tocNum">13.</inline>
           <inline name="tocHeading">Short title</inline>
         </tocItem>
@@ -147,170 +147,170 @@
       </formula>
     </preamble>
     <body>
-      <section wId="sec_1">
+      <section wId="section-1">
         <heading>Interpretation</heading>
         <num>1.</num>
         <intro>
           <p>In this Act:</p>
         </intro>
-        <subsection wId="sec_1__subsec_1">
+        <subsection wId="section-1-1">
           <content>
             <p>“Act of 2000” means the Planning and Development Act 2000;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_2">
+        <subsection wId="section-1-2">
           <content>
             <p>“Act of 2006” means the Planning and Development (Strategic Infrastructure) Act 2006;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_3">
+        <subsection wId="section-1-3">
           <content>
             <p>“Act of 2011” means the Environment (Miscellaneous Provisions) Act 2011;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_4">
+        <subsection wId="section-1-4">
           <content>
             <p>“curtilage” in relation to a dwelling, means an area immediately surrounding or adjacent to the dwelling which is used in conjunction with the dwelling, other than any part of that area that is a public place;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_5">
+        <subsection wId="section-1-5">
           <intro>
             <p>“dwelling” includes⁠—</p>
           </intro>
-          <paragraph wId="sec_1__subsec_5__para_a">
+          <paragraph wId="section-1-5-a">
             <num>(a)</num>
             <content>
               <p>a building or structure (whether temporary or not) which is constructed or adapted for use as a dwelling and is being so used,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_1__subsec_5__para_b">
+          <paragraph wId="section-1-5-b">
             <num>(b)</num>
             <content>
               <p>a vehicle or vessel (whether mobile or not) which is constructed or adapted for use as a dwelling and is being so used,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_1__subsec_5__para_c">
+          <paragraph wId="section-1-5-c">
             <num>(c)</num>
             <content>
               <p>a part of a dwelling, or</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_1__subsec_5__para_d">
+          <paragraph wId="section-1-5-d">
             <num>(d)</num>
             <content>
               <p>the curtilage of a dwelling;</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_1__subsec_6">
+        <subsection wId="section-1-6">
           <content>
             <p>“excess product” has the meaning given to it under <i>section</i> <i>2</i> <i>(2)</i>;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_7">
+        <subsection wId="section-1-7">
           <content>
             <p>“generated product” means electrical power generated directly from wind turbines;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_8">
+        <subsection wId="section-1-8">
           <content>
             <p>“host community” means the community within a 3 mile radius from the location of the wind turbine;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_9">
+        <subsection wId="section-1-9">
           <content>
             <p>“landscape” means the immediate and extended setting upon which the proposed wind turbines are to be placed;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_10">
+        <subsection wId="section-1-10">
           <content>
             <p>“Minister” means the Minister for the Environment, Community and Local Government;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_11">
+        <subsection wId="section-1-11">
           <content>
             <p>“planning gain” means any aspects of a development proposal required for the development to go ahead (including financial contributions to public services), secured by the local authority to mitigate the impact of the development on the local community;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_12">
+        <subsection wId="section-1-12">
           <content>
             <p>“public place” means any place to which the public have access whether as of right or by permission and whether subject to or free of charge;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_13">
+        <subsection wId="section-1-13">
           <content>
             <p>“self-sufficient” means where the level of electrical power generated from renewable sources, including from wind turbines on the island of Ireland is deemed to be sufficient to meet electricity demand;</p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_14">
+        <subsection wId="section-1-14">
           <content>
             <p>“vista” means the immediate and extended view (or short and long range view) of the site and its general environs; </p>
           </content>
         </subsection>
-        <subsection wId="sec_1__subsec_15">
+        <subsection wId="section-1-15">
           <content>
             <p>“wind turbine” means a commercial turbine which supplies grid connected electricity generation that is greater than 11kW when connected to the three phase grid of 400V.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_2">
+      <section wId="section-2">
         <heading>Excess product</heading>
         <num>2.</num>
-        <subsection wId="sec_2__subsec_1">
+        <subsection wId="section-2-1">
           <num>(1)</num>
           <content>
             <p>The generated product from wind turbines within the State and as regulated in accordance with this Act, shall not be exported outside the island of Ireland, until such a time as the Minister is satisfied, subject to the conditions outlined in <i>subsection</i> <i>(2)</i>, that the generated product is product which may be deemed excess product.</p>
           </content>
         </subsection>
-        <subsection wId="sec_2__subsec_2">
+        <subsection wId="section-2-2">
           <num>(2)</num>
           <content>
             <p>In accordance with subsection(1) the Minister shall, in determining whether such product is excess product, have regard to whether the product generated from wind turbines and other forms of renewable resources is of an amount that is greater than the amount of energy needed for the island of Ireland to be deemed self-sufficient in the generation and consumption of electrical power, and consult with the Oireachtas Committee on Communications, Climate Change and Natural Resources and have regard to any other considerations that the Committee sees fit.</p>
           </content>
         </subsection>
-        <subsection wId="sec_2__subsec_3">
+        <subsection wId="section-2-3">
           <num>(3)</num>
           <content>
             <p>The Memorandum of Understanding between Ireland and the UK on Cooperation in the Energy Sector shall not take effect until the conditions outlined in <i>subsection</i> <i>(2)</i>are outlined.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_3">
+      <section wId="section-3">
         <heading>Location of turbines</heading>
         <num>3.</num>
-        <subsection wId="sec_3__subsec_1">
+        <subsection wId="section-3-1">
           <num>(1)</num>
           <intro>
             <p>All locations for proposed wind turbines must be⁠—</p>
           </intro>
-          <paragraph wId="sec_3__subsec_1__para_a">
+          <paragraph wId="section-3-1-a">
             <num>(a)</num>
             <content>
               <p>designated in County Development Plans,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_b">
+          <paragraph wId="section-3-1-b">
             <num>(b)</num>
             <content>
               <p>consistent with the plan, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_1__para_c">
+          <paragraph wId="section-3-1-c">
             <num>(c)</num>
             <content>
               <p>be designated with the approval of the relevant elected local authority.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_3__subsec_2">
+        <subsection wId="section-3-2">
           <num>(2)</num>
-          <paragraph wId="sec_3__subsec_2__para_a">
+          <paragraph wId="section-3-2-a">
             <num>(a)</num>
             <content>
               <p>Any decision made in accordance with <i>subsection</i> <i>(1)</i> shall not be subject to, or amended by, the Act of 2006.</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_3__subsec_2__para_b">
+          <paragraph wId="section-3-2-b">
             <num>(b)</num>
             <content>
               <p>Any decision made in accordance with <i>subsection</i> <i>(1)</i> cannot be deferred to the Strategic Infrastructure Board.</p>
@@ -318,192 +318,192 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_4">
+      <section wId="section-4">
         <heading>Public consultation</heading>
         <num>4.</num>
-        <subsection wId="sec_4__subsec_1">
+        <subsection wId="section-4-1">
           <num>(1)</num>
           <intro>
             <p>Every person applying for permission under the Act of 2000 to construct a wind turbine or wind farm shall be obliged to place a notice in a local and national newspaper, and in a prominent place on the proposed site that is accessible to the public view, outlining the following information:</p>
           </intro>
-          <paragraph wId="sec_4__subsec_1__para_a">
+          <paragraph wId="section-4-1-a">
             <num>(a)</num>
             <content>
               <p>a description of any changes to the proposed site, outlining the physical and technical characteristics of the proposed wind turbine development;</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_1__para_b">
+          <paragraph wId="section-4-1-b">
             <num>(b)</num>
             <intro>
               <p>a formal assessment in writing and a non-technical outline of the effects of the proposed development on the local environment must be lodged with the local council and public library for public consultation outlining at a minimum the following information—</p>
             </intro>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_i">
+            <subparagraph wId="section-4-1-b-i">
               <num>(i)</num>
               <content>
                 <p>an ordnance survey map showing the location of each turbine relating to all planning applications for that area held by the planning authority,</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_ii">
+            <subparagraph wId="section-4-1-b-ii">
               <num>(ii)</num>
               <content>
                 <p>the potential impacts of the proposed construction on the physical and mental health of the host community,</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_iii">
+            <subparagraph wId="section-4-1-b-iii">
               <num>(iii)</num>
               <content>
                 <p>the physical effects on the natural environment, the vista and landscape, the cultural heritage, and</p>
               </content>
             </subparagraph>
-            <subparagraph wId="sec_4__subsec_1__para_b__subpara_iv">
+            <subparagraph wId="section-4-1-b-iv">
               <num>(iv)</num>
               <content>
                 <p>the measures proposed to prevent or reduce such effects;</p>
               </content>
             </subparagraph>
           </paragraph>
-          <paragraph wId="sec_4__subsec_1__para_c">
+          <paragraph wId="section-4-1-c">
             <num>(c)</num>
             <content>
               <p>the envisaged length of the construction works; and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_4__subsec_1__para_d">
+          <paragraph wId="section-4-1-d">
             <num>(d)</num>
             <content>
               <p>the planning gain of the proposal.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_4__subsec_2">
+        <subsection wId="section-4-2">
           <num>(2)</num>
           <content>
             <p>Every person applying for permission under the Act of 2000 to construct a wind turbine generator shall place an advertisement in a newspaper circulating in the area of the proposed development with an ordnance survey map marked with the exact location of each proposed wind turbine; and on a local radio station broadcasting in the area of the proposed development to the effect that it is arranging a public meeting to be held at a named convenient time and in a named convenient location near to the proposed development, at which persons occupying dwellings within the minimum distances specified in <i>section</i> <i>6</i> and other members of the public may submit, in writing or verbally any comments, information, analyses or opinions that they consider to be relevant to the proposed development.</p>
           </content>
         </subsection>
-        <subsection wId="sec_4__subsec_3">
+        <subsection wId="section-4-3">
           <num>(3)</num>
           <content>
             <p>Every person applying for permission under the Act of 2000 to construct a wind turbine generator shall submit to the planning authority and An Bord Pleanála, a report of the meeting held in accordance with <i>subsection</i> <i>(2)</i> which shall be available to the public upon request.</p>
           </content>
         </subsection>
-        <subsection wId="sec_4__subsec_4">
+        <subsection wId="section-4-4">
           <num>(4)</num>
           <content>
             <p>Section 8 of the Act of 2011 shall apply to this section, and a word or expression used in this section has the same meaning as in the Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters done at Aarhus, Denmark on 25 June 1998.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_5">
+      <section wId="section-5">
         <heading>Noise and shadow flickers</heading>
         <num>5.</num>
         <intro>
           <p>Every person applying for permission under the Act of 2000 to construct a wind turbine, and every operator of a wind turbine shall ensure the following⁠—</p>
         </intro>
-        <paragraph wId="sec_5__para_a">
+        <paragraph wId="section-5-a">
           <num>(a)</num>
           <content>
             <p>that the noise from the wind turbine does not exceed the noise limits specified in the World Health Organisation Guidelines for Community Noise (1999), or any preceding or replacement guidelines, and</p>
           </content>
         </paragraph>
-        <paragraph wId="sec_5__para_b">
+        <paragraph wId="section-5-b">
           <num>(b)</num>
           <content>
             <p>that the distance of the wind turbine is such that any shadow flicker from the turbine does not pass over the dwelling.</p>
           </content>
         </paragraph>
       </section>
-      <section wId="sec_6">
+      <section wId="section-6">
         <heading>Set back distances</heading>
         <num>6.</num>
-        <subsection wId="sec_6__subsec_1">
+        <subsection wId="section-6-1">
           <num>(1)</num>
           <content>
             <p>Subject to the duties in <i>section</i> <i>4</i>, the minimum distance between a wind turbine and a dwelling shall be as set out in <i>subsection</i> <i>(3)</i>.</p>
           </content>
         </subsection>
-        <subsection wId="sec_6__subsec_2">
+        <subsection wId="section-6-2">
           <num>(2)</num>
           <content>
             <p>If a number of wind turbines are proposed as part of the same development, then the minimum distance requirements in <i>subsection</i> <i>(3)</i> apply to each individual wind turbine.</p>
           </content>
         </subsection>
-        <subsection wId="sec_6__subsec_3">
+        <subsection wId="section-6-3">
           <num>(3)</num>
           <content>
             <p>Wind turbines that are of a height which is greater than 25 metres shall be located not less than a distance of ten times the height of the turbine away from any dwelling.</p>
           </content>
         </subsection>
-        <subsection wId="sec_6__subsec_4">
+        <subsection wId="section-6-4">
           <num>(4)</num>
           <content>
             <p>The height of a wind turbine is measured from the ground to the end of the blade tip at its highest point.</p>
           </content>
         </subsection>
-        <subsection wId="sec_6__subsec_5">
+        <subsection wId="section-6-5">
           <num>(5)</num>
           <content>
             <p>The distance from a dwelling is measured from the base of the wind turbine to the point of the dwelling nearest the base of the wind turbine.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_7">
+      <section wId="section-7">
         <heading>Transitional provisions and duties of planning authorities</heading>
         <num>7.</num>
-        <subsection wId="sec_7__subsec_1">
+        <subsection wId="section-7-1">
           <num>(1)</num>
           <content>
             <p>The operator of a wind turbine shall be responsible for ensuring that the provisions in <i>section</i> <i>6</i> come into operation no later than one year after the enactment of this Act.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_2">
+        <subsection wId="section-7-2">
           <num>(2)</num>
           <intro>
             <p>The operator of a wind turbine to which <i>subsection</i> <i>(1)</i> applies shall, no later than six months after the enactment of this Act, prepare a plan that contains the specific preparatory measures required to comply with <i>subsection</i> <i>(1)</i> and shall then communicate that plan without delay to⁠—</p>
           </intro>
-          <paragraph wId="sec_7__subsec_2__para_a">
+          <paragraph wId="section-7-2-a">
             <num>(a)</num>
             <content>
               <p>persons occupying dwellings within the minimum distances specified in <i>section </i><i/> <i>6</i>, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_2__para_b">
+          <paragraph wId="section-7-2-b">
             <num>(b)</num>
             <content>
               <p>the planning authority or, as the case may be, An Bord Pleanála.</p>
             </content>
           </paragraph>
         </subsection>
-        <subsection wId="sec_7__subsec_3">
+        <subsection wId="section-7-3">
           <num>(3)</num>
           <content>
             <p>Every relevant authority shall, in carrying out their duties and functions, ensure that every person applying for permission under the Act of 2000 to construct a wind turbine generator, and every operator of a wind turbine generator, complies with the duties in this Act.</p>
           </content>
         </subsection>
-        <subsection wId="sec_7__subsec_4">
+        <subsection wId="section-7-4">
           <num>(4)</num>
           <intro>
             <p>In this section, “relevant authority” means⁠—</p>
           </intro>
-          <paragraph wId="sec_7__subsec_4__para_a">
+          <paragraph wId="section-7-4-a">
             <num>(a)</num>
             <content>
               <p>a planning authority within the meaning of the Act of 2000,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_b">
+          <paragraph wId="section-7-4-b">
             <num>(b)</num>
             <content>
               <p>An Bord Pleanála,</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_c">
+          <paragraph wId="section-7-4-c">
             <num>(c)</num>
             <content>
               <p>the Minister for the Environment, Community and Local Government, and</p>
             </content>
           </paragraph>
-          <paragraph wId="sec_7__subsec_4__para_d">
+          <paragraph wId="section-7-4-d">
             <num>(d)</num>
             <content>
               <p>any other Minister exercising functions in connection with any grant aid or financial assistance related to a wind turbine, including a connection with a Renewable Energy Feed-in-Tariff Scheme (REFIT).</p>
@@ -511,96 +511,96 @@
           </paragraph>
         </subsection>
       </section>
-      <section wId="sec_8">
+      <section wId="section-8">
         <heading>Compliance and penalties</heading>
         <num>8.</num>
-        <subsection wId="sec_8__subsec_1">
+        <subsection wId="section-8-1">
           <num>(1)</num>
           <content>
             <p>Where a person or company responsible for the construction or operation of a wind turbine fails to comply with the provisions of this Act, then the person or company shall be liable for a penalty to be determined by the Minister upon the enactment of this Act.</p>
           </content>
         </subsection>
-        <subsection wId="sec_8__subsec_2">
+        <subsection wId="section-8-2">
           <num>(2)</num>
           <content>
             <p>No contract or agreement, which is contrary to the provisions contained within this Act, shall be made by a person or company applying for permission to construct a wind turbine under the Act of 2000, or by any person or company constructing or operating a wind turbine, or any other person acting on their behalf, with any private member or members of the host community, community group, business, residents association, local co-operative, representative person or body or any other person or group of persons that form part of the host community.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_9">
+      <section wId="section-9">
         <heading>Financial evidence</heading>
         <num>9.</num>
         <content>
           <p>Any person or company applying for permission to construct a wind turbine in accordance with the Act of 2000 shall enter a legally binding bond with the Local Authority which shall provide financial recompense on the part of the person or company to pay for the repair of any damage caused to or facilitate maintenance of local public infrastructure including, but not limited to, damage and/or maintenance to roads, water services, bridges, buildings or any other public infrastructure the Local Authority deem appropriate for the purposes of this section.</p>
         </content>
       </section>
-      <section wId="sec_10">
+      <section wId="section-10">
         <heading>Responsibility upon decommissioning</heading>
         <num>10.</num>
-        <subsection wId="sec_10__subsec_1">
+        <subsection wId="section-10-1">
           <num>(1)</num>
           <content>
             <p>The person or company responsible for the operation of the wind turbine is solely responsible for the proper recycling of the turbine upon its decommissioning.</p>
           </content>
         </subsection>
-        <subsection wId="sec_10__subsec_2">
+        <subsection wId="section-10-2">
           <num>(2)</num>
           <content>
             <p>Failure to comply with <i>subsection</i> <i>(1)</i> will result in the person or company being liable for a penalty to be specified by the Minister upon the enactment of this Act.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_11">
+      <section wId="section-11">
         <heading>Co-ownership for Local Communities</heading>
         <num>11.</num>
-        <subsection wId="sec_11__subsec_1">
+        <subsection wId="section-11-1">
           <num>(1)</num>
           <content>
             <p>Wind turbine developers shall provide an opportunity to local residents to purchase up to a 20 per cent stake in a wind turbine development as part of a community co-ownership model of wind turbine development.</p>
           </content>
         </subsection>
-        <subsection wId="sec_11__subsec_2">
+        <subsection wId="section-11-2">
           <num>(2)</num>
           <content>
             <p>An initial investment opportunity shall be offered to residents who live up to 4 kilometres from the wind turbine development for a period of 12 months.</p>
           </content>
         </subsection>
-        <subsection wId="sec_11__subsec_3">
+        <subsection wId="section-11-3">
           <num>(3)</num>
           <content>
             <p>If the 20 per cent stake is not fully subscribed through the process outlined in <i>subsection</i> <i>(2)</i> then the investment opportunity should be offered to residents who reside within 10 kilometres of the wind turbine development for a period of 6 months.</p>
           </content>
         </subsection>
-        <subsection wId="sec_11__subsec_4">
+        <subsection wId="section-11-4">
           <num>(4)</num>
           <content>
             <p>Those who invest in the wind turbine development shall be entitled to the payment of a dividend during the lifetime of the wind turbine development.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_12">
+      <section wId="section-12">
         <heading>Civil liabilities</heading>
         <num>12.</num>
-        <subsection wId="sec_12__subsec_1">
+        <subsection wId="section-12-1">
           <num>(1)</num>
           <content>
             <p>Nothing in this Act shall alter or affect any civil liability that may exist upon the enactment of this Act concerning the use or operation of a wind turbine of any manufacturer, supplier, applicant for planning permission, operator, employer, or of any person having an interest in land on which such a wind turbine is situated.</p>
           </content>
         </subsection>
-        <subsection wId="sec_12__subsec_2">
+        <subsection wId="section-12-2">
           <num>(2)</num>
           <content>
             <p>In this section “civil liability” has the same meaning as in the Civil Liability Act 1961.</p>
           </content>
         </subsection>
       </section>
-      <section wId="sec_13">
+      <section wId="section-13">
         <heading>Short title</heading>
         <num>13.</num>
         <intro>
           <p>This Act may be cited as the Wind Turbine Regulation Act 2016.</p>
         </intro>
-        <subsection wId="sec_13__subsec_44">
+        <subsection wId="section-13-44">
           <content/>
         </subsection>
       </section>

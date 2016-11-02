@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/17"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/17"/>
+          <FRBRdate date="2016-01-27" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="17"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/17/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/17/initiated/en"/>
+          <FRBRdate date="2016-01-27" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/17/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/17/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">Bille an Gharda Síochána (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN GHARDA SÍOCHÁNA (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 98(1) of Principal Act</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Protection of journalists’ confidential sources</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Garda Síochána Act 2005 (No. 20)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN GHARDA SÍOCHÁNA (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Garda Síochána (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to provide for the protection of journalists’ sources.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <content>
+          <p>In this Act, the “Principal Act” means Garda Síochána Act 2005.</p>
+        </content>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 98(1) of Principal Act</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 98 of the Principal Act is amended in subsection (1), by the substitution of “a <eol/>designated officer has, subject to section 98A,” for “a designated officer has,”.</p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Protection of journalists’ confidential sources</heading>
+        <num>3.</num>
+        <content>
+          <p>The Principal Act is amended by the insertion of a new section immediately after section <eol/>98 as follows:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <p>“98A. (1) For the purposes of this section⁠—</p>
+                <p>‘protected information’ means information or data in any form which <eol/>touches on, relates to or which could reasonably be expected to <eol/>directly or indirectly compromise the confidentiality of⁠—</p>
+                <paragraph>
+                  <num>(a)</num>
+                  <content>
+                    <p>any confidential communication between a <i>bona fide</i> journalist and <eol/>their confidential source; or</p>
+                  </content>
+                </paragraph>
+                <paragraph>
+                  <num>(b)</num>
+                  <content>
+                    <p>the identity of a confidential source of a <i>bona fide</i> journalist.</p>
+                    <p>(2)Nothing in section 98 shall confer on a designated officer any power, <eol/>immunity or privilege in respect of the interception of any <eol/>communication, the accessing of any information, the search of any <eol/>premises or the carrying out of any act calculated to access or reveal <eol/>any protected information or which might reasonably be expected to <eol/>result in the accessing of any protected information by a designated <eol/>officer or any other person unless the designated officer has been <eol/>authorised in this regard by the High Court pursuant to this section.</p>
+                    <p>(3)The Ombudsman Commission may apply to the High Court for an <eol/>authorisation pursuant to subsection (2) on notice to the journalist <eop/>concerned.</p>
+                    <p>(4)The High Court may only grant an authorisation pursuant to <eol/>subsection (2) where, having provided the journalist an opportunity to <eol/>make submissions on the matter, the High Court is satisfied that there <eol/>are extraordinary circumstances in which the public interest would <eol/>justify an interference in the confidential relationship between a <eol/>journalist and their source.</p>
+                    <p>(5)A journalist shall not be required to reveal or otherwise disclose in any <eol/>way any protected information in the course of the proceedings of an <eol/>application for an authorisation pursuant to subsection (2).</p>
+                    <p>(6)An application for an authorisation pursuant to subsection (2) shall not <eol/>be dealt with otherwise than in public save to the extent that the High <eol/>Court determines is necessary to prevent the dissemination of <eol/>protected information.”.</p>
+                  </content>
+                </paragraph>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-4">
+        <heading>Short title and commencement</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act shall be cited as the Garda Síochána (Amendment) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act shall come into effect immediately.</p>
+            <p/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

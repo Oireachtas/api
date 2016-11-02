@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/25"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/25"/>
+          <FRBRdate date="2016-05-17" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="25"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/25/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/25/initiated/en"/>
+          <FRBRdate date="2016-05-17" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/25/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/25/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">Bille an Bhainc Ceannais (Maoirsiú agus Forfheidhmiú) (Leasú), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Central Bank (Supervision and Enforcement) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN BHAINC CEANNAIS (MAOIRSIÚ AGUS FORFHEIDHMIÚ) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Central Bank (Supervision and Enforcement) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Amendment of section 49 of Central Bank (Supervision and Enforcement) Act 2013</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Amendment of section 51 of Central Bank (Supervision and Enforcement) Act 2013</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Short title</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Act Referred to</heading>
+        <p class="act-referred-to">Central Bank (Supervision and Enforcement) Act 2013 (No. 26)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">BILLE AN BHAINC CEANNAIS (MAOIRSIÚ AGUS FORFHEIDHMIÚ) (LEASÚ), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Central Bank (Supervision and Enforcement) (Amendment) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to amend sections 49 and 51 of the Central Bank (Supervision and Enforcement) Act 2013 to ensure the powers exercised by the Central Bank of Ireland to make <eol/>regulations, conferred by the Central Bank (Supervision and Enforcement) Act 2013 are <eol/>fit for purpose; and to provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Amendment of section 49 of Central Bank (Supervision and Enforcement) Act 2013</heading>
+        <num>1.</num>
+        <intro>
+          <p>Section 49 of the Central Bank (Supervision and Enforcement) Act 2013 is amended in subsection (1)⁠—</p>
+        </intro>
+        <paragraph wId="section-1-a">
+          <num>(a)</num>
+          <content>
+            <p>in paragraph (a) by <eol/>the insertion of the following:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subparagraph>
+                    <num>“(i)</num>
+                    <content>
+                      <p>The Minister, following receipt of the draft proposed <eol/>regulations, shall respond to the Governor in writing on his and <eol/>his Departments views on the draft proposed regulations, to <eol/>ensure they are fit for purpose, and are responsive to the current <eol/>economic environment. The Minister may offer amendments to <eol/>the draft proposed regulations.</p>
+                    </content>
+                  </subparagraph>
+                  <subparagraph>
+                    <num>(ii)</num>
+                    <content>
+                      <p>The Governor shall not proceed with the draft proposed <eol/>regulations before the written views and proposed amendments <eol/>of the Minister are received, considered and responded to, in <eol/>detail.”,</p>
+                    </content>
+                  </subparagraph>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-1-b">
+          <num>(b)</num>
+          <content>
+            <p>by the insertion of the following paragraph:</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <paragraph>
+                    <num>“(d)</num>
+                    <intro>
+                      <p>shall consult with the relevant Joint Committee of the Houses of the <eol/>Oireachtas, and for that purpose shall provide to the Joint Committee a <eol/>draft of the proposed regulations⁠—</p>
+                    </intro>
+                    <subparagraph>
+                      <num>(i)</num>
+                      <content>
+                        <p>the Joint Committee, following receipt of the draft proposed <eol/>regulations, shall respond to the Governor in writing on the <eol/>Committees views on the draft proposed regulations, to ensure <eol/>they are fit for purpose, and are responsive to the current <eop/>economic environment. The Joint Committee may offer <eol/>amendments to the draft proposed regulations,</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(ii)</num>
+                      <content>
+                        <p>the Governor shall not proceed with the draft proposed <eol/>regulations before the written views and proposed amendments <eol/>of the Joint Committee are received, considered and responded <eol/>to in detail,</p>
+                      </content>
+                    </subparagraph>
+                    <subparagraph>
+                      <num>(iii)</num>
+                      <content>
+                        <p>the Joint Committee may, at its own discretion, waive its right <eol/>to provide its views and proposed amendments to the Governor <eol/>via written communication.”.</p>
+                      </content>
+                    </subparagraph>
+                  </paragraph>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </paragraph>
+      </section>
+      <section wId="section-2">
+        <heading>Amendment of section 51 of Central Bank (Supervision and Enforcement) Act 2013</heading>
+        <num>2.</num>
+        <content>
+          <p>Section 51 of the Central Bank (Supervision and Enforcement) Act 2013 is amended by <eol/>the insertion of the following subsection:</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <subsection>
+                  <num>“(3)</num>
+                  <content>
+                    <p>All written communications between the Minister, Joint <eol/>Committee, and the Houses of the Oireachtas, with regard to the <eol/>draft proposed regulations shall be carried out in a reasonable <eol/>timeframe, and shall be laid before each House of the Oireachtas <eol/>shortly thereafter.”.</p>
+                  </content>
+                </subsection>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+      <section wId="section-3">
+        <heading>Short title</heading>
+        <num>3.</num>
+        <content>
+          <p>This Act may be cited as the Central Bank (Supervision and Enforcement) (Amendment) <eol/>Act 2016.</p>
+          <p>
+            <mod>
+              <quotedStructure>
+                <paragraph>
+                  <content/>
+                </paragraph>
+              </quotedStructure>
+            </mod>
+          </p>
+        </content>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>

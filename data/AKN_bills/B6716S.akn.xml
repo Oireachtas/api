@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/WD17">
+  <bill name="bill">
+    <meta>
+      <identification source="">
+        <FRBRWork>
+          <FRBRthis value="/ie/oireachtas/bill/2016/67"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/67"/>
+          <FRBRdate date="2016-07-19" name="introduced"/>
+          <FRBRauthor href=""/>
+          <FRBRcountry value="IE"/>
+          <FRBRnumber value="67"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/ie/oireachtas/bill/2016/67/initiated/en"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/67/initiated/en"/>
+          <FRBRdate date="2016-07-19" name="published"/>
+          <FRBRauthor href=""/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/ie/oireachtas/bill/2016/67/initiated/en/xml"/>
+          <FRBRuri value="/ie/oireachtas/bill/2016/67/initiated/en/xml"/>
+          <FRBRdate date="2016-11-01" name="transformed"/>
+          <FRBRauthor href=""/>
+          <FRBRformat value="application/akn+xml"/>
+        </FRBRManifestation>
+      </identification>
+    </meta>
+    <coverPage>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um an Dlí Sibhialta (Daoine atá ar Iarraidh), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Civil Law (Missing Persons) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p style="as-initiated">Mar a tionscnaíodh</p>
+      <p style="as-initiated">As initiated</p>
+      <block name="horizontal-rule"/>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um an Dlí Sibhialta (Daoine atá ar Iarraidh), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Civil Law (Missing Persons) Bill 2016</shortTitle>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="statusirish">Mar a tionscnaíodh</p>
+      <p class="statusenglish">As initiated</p>
+      <block name="horizontal-rule"/>
+      <block name="horizontal-rule"/>
+      <toc>
+        <tocItem class="heading" href="" level="0">CONTENTS</tocItem>
+        <tocItem class="heading" href="" level="0" style="text-align:left">Section</tocItem>
+        <tocItem class="section" href="#section-1" level="1">
+          <inline name="tocNum">1.</inline>
+          <inline name="tocHeading">Interpretation</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-2" level="1">
+          <inline name="tocNum">2.</inline>
+          <inline name="tocHeading">Persons who may apply for orders under this Act</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-3" level="1">
+          <inline name="tocNum">3.</inline>
+          <inline name="tocHeading">Order for interim management of property of missing person</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-4" level="1">
+          <inline name="tocNum">4.</inline>
+          <inline name="tocHeading">Presumption of death order in respect of missing person</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-5" level="1">
+          <inline name="tocNum">5.</inline>
+          <inline name="tocHeading">General effects of presumption of death order</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-6" level="1">
+          <inline name="tocNum">6.</inline>
+          <inline name="tocHeading">Insurance against claims</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-7" level="1">
+          <inline name="tocNum">7.</inline>
+          <inline name="tocHeading">Dissolution and Variation Order and consequences of return of missing person</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-8" level="1">
+          <inline name="tocNum">8.</inline>
+          <inline name="tocHeading">International aspects of missing persons</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-9" level="1">
+          <inline name="tocNum">9.</inline>
+          <inline name="tocHeading">Jurisdiction of Circuit Court</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-10" level="1">
+          <inline name="tocNum">10.</inline>
+          <inline name="tocHeading">Consequential amendments</inline>
+        </tocItem>
+        <tocItem class="section" href="#section-11" level="1">
+          <inline name="tocNum">11.</inline>
+          <inline name="tocHeading">Short title and commencement</inline>
+        </tocItem>
+      </toc>
+      <tblock class="acts-referred-to">
+        <heading>Acts Referred to</heading>
+        <p class="act-referred-to">Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 (No. 24)</p>
+        <p class="act-referred-to">Civil Registration Act 2004 (No. 3)</p>
+        <p class="act-referred-to">Coroners Act 1962 (No. 9)</p>
+        <p class="act-referred-to">Criminal Justice (Location of Victims’ Remains) Act 1999 (No. 9)</p>
+        <p class="act-referred-to">Family Law (Divorce) Act 1996 (No. 33)</p>
+      </tblock>
+    </coverPage>
+    <preface>
+      <p>
+        <img src=""/>
+      </p>
+      <block name="horizontal-rule"/>
+      <p class="short-title irish">
+        <shortTitle xml:lang="ga">An Bille um an Dlí Sibhialta (Daoine atá ar Iarraidh), 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">Civil Law (Missing Persons) Bill 2016</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en">________________</shortTitle>
+      </p>
+      <p class="short-title english">
+        <shortTitle xml:lang="en"/>
+      </p>
+      <p>
+        <docType>Bill</docType>
+      </p>
+      <p class="entitled">entitled</p>
+      <longTitle>
+        <p>An Act to provide for the effects in civil law of persons who are missing, including <eol/>arrangements for interim management of the missing person’s property, and to provide <eol/>for the civil status of the missing person where the circumstances of their absence leads <eol/>to a presumption of death; and to provide for related matters.</p>
+      </longTitle>
+    </preface>
+    <preamble>
+      <formula name="enacted">
+        <p>Be it enacted by the Oireachtas as follows:</p>
+      </formula>
+    </preamble>
+    <body>
+      <section wId="section-1">
+        <heading>Interpretation</heading>
+        <num>1.</num>
+        <intro>
+          <p>In this Act, unless the context otherwise requires⁠—</p>
+        </intro>
+        <subsection wId="section-1-1">
+          <content>
+            <p>“applicant” has the meaning given in <i>section</i> <i>2</i>;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-2">
+          <content>
+            <p>“EC Convention” means the Convention Abolishing the Legalisation of Documents in <eol/>the Member States of the European Communities of 25 May 1987; </p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-3">
+          <content>
+            <p>“Hague Convention” means the Convention Abolishing the Requirement of Legalisation <eol/>for Foreign Public Documents done at the Hague on 5 October 1961;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-4">
+          <content>
+            <p>“Minister” means the Minister for Justice and Equality;</p>
+          </content>
+        </subsection>
+        <subsection wId="section-1-5">
+          <content>
+            <p>“missing person” means a person who is observed to be missing from his or her normal <eol/>patterns of life, that those who are likely to have heard from the person are unaware of <eol/>the person’s whereabouts and that the circumstances of the person being missing raises <eol/>concerns for his or her safety and well-being.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-2">
+        <heading>Persons who may apply for orders under this Act</heading>
+        <num>2.</num>
+        <intro>
+          <p>The following, in this Act referred to as the applicant, may apply for an order provided <eol/>for in <i>section</i> <i>3</i> and <i>section</i> <i>4</i> of this Act⁠—</p>
+        </intro>
+        <paragraph wId="section-2-a">
+          <num>(a)</num>
+          <content>
+            <p>the spouse or civil partner of the missing person,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-b">
+          <num>(b)</num>
+          <content>
+            <p>the cohabitant of the missing person,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-c">
+          <num>(c)</num>
+          <content>
+            <p>any other family member of the missing person, including a child, grandchild, <eol/>parent, grandparent, brother, sister, uncle, aunt, nephew or niece of the missing <eol/>person,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-d">
+          <num>(d)</num>
+          <content>
+            <p>a person who is acting in loco parentis to the missing person,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-e">
+          <num>(e)</num>
+          <content>
+            <p>a dependant of the missing person,</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-f">
+          <num>(f)</num>
+          <content>
+            <p>a creditor, or</p>
+          </content>
+        </paragraph>
+        <paragraph wId="section-2-g">
+          <num>(g)</num>
+          <content>
+            <p>any other person with a sufficient interest including, where relevant, the Attorney <eol/>General or other person acting on behalf of the State.</p>
+          </content>
+        </paragraph>
+      </section>
+      <section wId="section-3">
+        <heading>Order for interim management of property of missing person</heading>
+        <num>3.</num>
+        <subsection wId="section-3-1">
+          <num>(1)</num>
+          <content>
+            <p>An applicant may, subject to the conditions in this section, apply to the Circuit Court <eol/>for an order to be appointed as the interim manager of the property of a missing <eol/>person.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-2">
+          <num>(2)</num>
+          <content>
+            <p>A County Registrar may, subject to appeal by way of re-hearing to the Circuit Court, <eol/>make an order appointing a person as interim manager of the property of a missing <eol/>person where the appointment does not involve empowering the interim manager, on <eol/>behalf of the missing person, to initiate or defend proceedings, or to enter into a <eol/>conveyance of an interest or estate in land.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-3">
+          <num>(3)</num>
+          <intro>
+            <p>An order may be made under this section only where it is established by the applicant, <eol/>grounded on an affidavit, that⁠—</p>
+          </intro>
+          <paragraph wId="section-3-3-a">
+            <num>(a)</num>
+            <content>
+              <p>it is not known whether the missing person is alive,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-3-b">
+            <num>(b)</num>
+            <content>
+              <p>reasonable efforts have been made to find the missing person, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-3-c">
+            <num>(c)</num>
+            <intro>
+              <p>for at least 90 days, the missing person has not contacted⁠—</p>
+            </intro>
+            <subparagraph wId="section-3-3-c-i">
+              <num>(i)</num>
+              <content>
+                <p>any person who lives at the missing person’s last-known home address, or</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-3-3-c-ii">
+              <num>(ii)</num>
+              <content>
+                <p>any relative or friend of the missing person with whom he or she is likely to <eol/>communicate.</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-3-4">
+          <num>(4)</num>
+          <content>
+            <p>Prior to making an order under this section, the Court may serve notice on any person <eol/>who may be affected by the appointment, including where the interim manager is <eol/>given a power of sale.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-5">
+          <num>(5)</num>
+          <intro>
+            <p>The appointment of a person as interim manager of the property of the missing person <eol/>shall be⁠—</p>
+          </intro>
+          <paragraph wId="section-3-5-a">
+            <num>(a)</num>
+            <content>
+              <p>subject to the duty of the interim manager to act in the best interests of the <eol/>missing person at all times,</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-5-b">
+            <num>(b)</num>
+            <content>
+              <p>subject to such limited and specified powers and actions of the interim manager <eol/>as are laid down in the order of appointment, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-3-5-c">
+            <num>(c)</num>
+            <content>
+              <p>for a period of up to 2 years, which term may be extended for a further 2 years.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-3-6">
+          <num>(6)</num>
+          <content>
+            <p>The interim manager shall file annual accounts with the Court in such form as shall be <eol/>prescribed by the Court in the order of appointment.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-3-7">
+          <num>(7)</num>
+          <content>
+            <p>Where the interim manager becomes aware that the missing person is alive, he or she <eol/>shall apply to the court for an order discharging his or her appointment.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-4">
+        <heading>Presumption of death order in respect of missing person</heading>
+        <num>4.</num>
+        <subsection wId="section-4-1">
+          <num>(1)</num>
+          <content>
+            <p>An applicant may, subject to the conditions in this section, apply for a presumption of <eol/>death order in respect of a missing person.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-2">
+          <num>(2)</num>
+          <intro>
+            <p>An application for a presumption of death order shall be grounded on an affidavit by <eol/>the applicant and shall contain the following:</p>
+          </intro>
+          <paragraph wId="section-4-2-a">
+            <num>(a)</num>
+            <intro>
+              <p>specific evidence tending to indicate that the missing person is dead, including:</p>
+            </intro>
+            <subparagraph wId="section-4-2-a-i">
+              <num>(i)</num>
+              <content>
+                <p>the circumstances surrounding the disappearance of the missing person;</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-4-2-a-ii">
+              <num>(ii)</num>
+              <content>
+                <p>absence of communication with people who would be likely to hear from the <eol/>missing person, including last known correspondence or communication; and</p>
+              </content>
+            </subparagraph>
+            <subparagraph wId="section-4-2-a-iii">
+              <num>(iii)</num>
+              <content>
+                <p>the length of time since the disappearance;</p>
+              </content>
+            </subparagraph>
+          </paragraph>
+          <paragraph wId="section-4-2-b">
+            <num>(b)</num>
+            <content>
+              <p>the date when the missing person was last heard from;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-c">
+            <num>(c)</num>
+            <content>
+              <p>evidence of advertising for information concerning the whereabouts of the <eol/>missing person, including where relevant by using the internet and social media <eol/>(unless there are exceptional reasons for not doing so, explained by the <eol/>applicant);</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-d">
+            <num>(d)</num>
+            <content>
+              <p>where relevant and practicable, evidence from a searching organisation that <eol/>confirms that attempts were made to locate the missing person but were fruitless <eol/>(whether by affidavit, statutory declaration or, in the case of searches outside the <eol/>State, in accordance with the EC Convention or the Hague Convention);</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-e">
+            <num>(e)</num>
+            <content>
+              <p>the full background relating to the disappearance of the missing person, including <eol/>the missing person’s age and health (including mental health);</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-f">
+            <num>(f)</num>
+            <content>
+              <p>where relevant and practicable, evidence of corroboration from a family member <eol/>of the missing person (if the applicant is not a family member);</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-g">
+            <num>(g)</num>
+            <content>
+              <p>where relevant, the next-of-kin entitled to distribution of the assets of the missing <eol/>person on his or her death; and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-2-h">
+            <num>(h)</num>
+            <content>
+              <p>a declaration by the applicant of his or her belief that the missing person is dead.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-4-3">
+          <num>(3)</num>
+          <content>
+            <p>A presumption of death order may be made by a coroner following an inquest held <eol/>under the Coroners Act 1962 where the coroner is satisfied that, in respect of the <eol/>missing person, the circumstances of the person having gone missing indicate that his <eol/>or her death is virtually certain.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-4">
+          <num>(4)</num>
+          <content>
+            <p>A presumption of death order may be made by the Circuit Court where the Court is <eol/>satisfied that, in respect of the missing person, the circumstances of the person having <eol/>gone missing indicate that his or her death is highly probable.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-5">
+          <num>(5)</num>
+          <content>
+            <p>Prior to making an order under this section, the coroner or, as the case may be, the <eol/>Court may serve notice on any person who may be affected by the making of the <eol/>order.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-4-6">
+          <num>(6)</num>
+          <intro>
+            <p>In determining whether a presumption of death order is to be made under this section, <eol/>the coroner or, as the case may be, the Court shall take into account all the <eol/>circumstances surrounding the disappearance and absence of the missing person, <eol/>including the following:</p>
+          </intro>
+          <paragraph wId="section-4-6-a">
+            <num>(a)</num>
+            <content>
+              <p>the time, location, and circumstances of the disappearance;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-b">
+            <num>(b)</num>
+            <content>
+              <p>where relevant, the abandonment of valuable property;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-c">
+            <num>(c)</num>
+            <content>
+              <p>where relevant and practicable, the extent and nature of post-disappearance <eol/>searches;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-d">
+            <num>(d)</num>
+            <content>
+              <p>the presence or absence of a motive for the missing person to remain alive but <eol/>disappear;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-e">
+            <num>(e)</num>
+            <content>
+              <p>where relevant, evidence suggesting that the disappearance was a consequence of <eol/>foul play;</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-f">
+            <num>(f)</num>
+            <content>
+              <p>where relevant, the time between a life assurance policy being obtained on the <eol/>life of the missing person and his or her disappearance; and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-6-g">
+            <num>(g)</num>
+            <content>
+              <p>where relevant, any prior history of fraud involving the missing person.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-4-7">
+          <num>(7)</num>
+          <paragraph wId="section-4-7-a">
+            <num>(a)</num>
+            <content>
+              <p>Without prejudice to the rebuttable presumption in <i>paragraph</i> <i>(b)</i>, and subject to <eol/>the requirements of this section, an application for a presumption of death order <eol/>may be made at any time after a person has gone missing and is not subject to a <eol/>minimum waiting period.</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-7-b">
+            <num>(b)</num>
+            <content>
+              <p>Where, by reason of absence from the State or otherwise, it remains uncertain for <eol/>a period of at least 7 years as to whether a missing person is alive, it shall <eol/>continue to be presumed that the person is dead.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-4-8">
+          <num>(8)</num>
+          <paragraph wId="section-4-8-a">
+            <num>(a)</num>
+            <content>
+              <p>Where the coroner or, as the case may be, the Circuit Court, makes a presumption <eol/>of death order and is satisfied that the missing person has died on a specific date, <eol/>the order shall include a finding as to the date and time of death and, where it is <eol/>uncertain when, within any period of time, the missing person died, the order <eol/>shall provide that he or she died at the end of that period.</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-4-8-b">
+            <num>(b)</num>
+            <content>
+              <p>Where the coroner or, as the case may be, the Circuit Court, makes a presumption <eol/>of death order and is satisfied that the missing person has not been known to be <eol/>alive for a period of at least 7 years, the order shall include a finding that the <eol/>missing person died at the end of the day occurring 7 years after the date on <eol/>which he or she was last known to be alive.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="section-5">
+        <heading>General effects of presumption of death order</heading>
+        <num>5.</num>
+        <subsection wId="section-5-1">
+          <num>(1)</num>
+          <content>
+            <p>Subject to the provisions of this Act, a presumption of death order made by a coroner <eol/>under <i>section</i> <i>4</i> has the same effect in law as a declaration of death made under the <eol/>Coroners Act 1962.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-5-2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of this Act, a presumption of death order made by a coroner <eol/>under <i>section</i> <i>4</i> authorises the applicant to apply to register the death of the missing <eol/>person in the Register of Deaths provided for in Part 5 of the Civil Registration Act 2004, and the appropriate registrar shall register the death in the Register of Deaths in <eol/>such manner as an tArd-Chlaraitheoir may direct.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-5-3">
+          <num>(3)</num>
+          <content>
+            <p>Subject to the provisions of this Act, a presumption of death order made by the Circuit <eol/>Court under section  <i>4</i> has the same effect in law that arises from issuing a death <eol/>certificate in accordance with the Civil Registration Act 2004.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-5-4">
+          <num>(4)</num>
+          <content>
+            <p>An tArd-Chlaraitheoir shall establish a Register of Presumed Deaths.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-5-5">
+          <num>(5)</num>
+          <content>
+            <p>Subject to the provisions of this Act, a presumption of death order made by the Circuit <eol/>Court under <i>section</i> <i>4</i> authorises the applicant to apply to register the death of the <eol/>missing person in the Register of Presumed Deaths, and the appropriate registrar shall <eol/>register the death in the Register of Presumed Deaths in such manner as an tArd-<eol/>Chlaraitheoir may direct.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-5-6">
+          <num>(6)</num>
+          <paragraph wId="section-5-6-a">
+            <num>(a)</num>
+            <content>
+              <p>A presumption of death order made by a coroner or by the Circuit Court under <eol/><i>section</i> <i>4</i> has the effect, subject to <i>section</i> <i>7</i> <i>(5)</i> <i>(a)</i>, that a marriage with the <eol/>missing person has come to an end.</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-5-6-b">
+            <num>(b)</num>
+            <content>
+              <p>A presumption of death order made by a coroner or by the Circuit Court under <eol/><i>section</i> <i>4</i> has the effect, subject to <i>section</i> <i>7</i> <i>(5)</i> <i>(b)</i>, that a civil partnership with the <eol/>missing person has come to an end.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="section-6">
+        <heading>Insurance against claims</heading>
+        <num>6.</num>
+        <subsection wId="section-6-1">
+          <num>(1)</num>
+          <content>
+            <p>Where an order has been made under <i>section</i> <i>3</i> or <i>section</i> <i>4</i>, the interim manager <eol/>appointed under <i>section</i> <i>3</i> or, as the case may be, the person who applied under <eol/><i>section</i> <i>4</i> shall, unless the court otherwise directs, as soon as may be effect a policy of <eol/>insurance in respect of any claim which may arise by virtue of an order under <i>section</i><eol/> <i>8</i> <i>(2)</i>.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-6-2">
+          <num>(2)</num>
+          <content>
+            <p>Any premium payable by the interim manager or, as the case may be, the person who <eol/>applied under <i>section</i> <i>4</i> in respect of a policy of insurance effected under <i>subsection</i><eol/> <i>(1)</i> shall be a proper charge on, as the case may be, the property of the missing person <eol/>being managed by the interim manager or the estate of the missing person being <eol/>administered by the person who applied under <i>section</i> <i>5</i>.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-6-3">
+          <num>(3)</num>
+          <content>
+            <p>Where an order has been made under <i>section</i> <i>3</i> or <i>section</i> <i>4</i>, an insurer may, before <eol/>making payment of any capital sum (other than in respect of an annuity or other <eol/>periodical payment) to any person as a result of such order, require that person to <eol/>effect in his or her own name for the benefit of that insurer a policy of insurance to <eol/>satisfy any claim which that insurer may establish in the event of an order under <eol/><i>section</i> <i>7</i> <i>(2)</i> being made.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-7">
+        <heading>Dissolution and Variation Order and consequences of return of missing person</heading>
+        <num>7.</num>
+        <subsection wId="section-7-1">
+          <num>(1)</num>
+          <content>
+            <p>A missing person in respect of whom an order has been made under <i>section</i> <i>3</i> or <eol/><i>section</i> <i>4</i>, and who subsequently returns to the State, may apply to the Circuit Court <eol/>for an order, in this Act referred to as a variation order, dissolving or varying the terms <eol/>of any such order made under <i>section</i> <i>3</i><i/>or <i>section</i> <i>4</i>.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-7-2">
+          <num>(2)</num>
+          <content>
+            <p>Subject to the provisions of this section, a variation order shall not have any effect on <eol/>rights to, or in, any property acquired as a result of an order made under <i>section</i> <i>3</i> or <eol/><i>section</i> <i>4</i>.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-7-3">
+          <num>(3)</num>
+          <content>
+            <p>The Court shall, when making a variation order, make such further order, if any, in <eol/>relation to any rights to or in any property acquired as a result of an order made under <eol/><i>section</i> <i>3</i> or <i>section</i> <i>4</i> as it considers reasonable in all the circumstances.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-7-4">
+          <num>(4)</num>
+          <intro>
+            <p>Without prejudice to the generality of <i>subsection</i> <i>(3)</i><i>⁠—</i></p>
+          </intro>
+          <paragraph wId="section-7-4-a">
+            <num>(a)</num>
+            <content>
+              <p>a variation order shall have no effect on any income accrued between the time of <eop/>the making of an order under <i>section</i> <i>3</i> or <i>section</i> <i>4</i> and the variation order, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-7-4-b">
+            <num>(b)</num>
+            <content>
+              <p>where a third party acquires rights to or in the property of the missing person, in <eol/>good faith and for value, the missing person who has returned may not bring a <eol/>claim for the property against the third party.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-7-5">
+          <num>(5)</num>
+          <paragraph wId="section-7-5-a">
+            <num>(a)</num>
+            <content>
+              <p>Notwithstanding the generality of <i>section</i> <i>5</i> <i>(6)</i> <i>(a)</i>, a missing person in respect of <eol/>whom an order has been made under <i>section</i> <i>4</i> and who returns to the State may <eol/>apply to the Circuit Court for a declaration that a marriage that subsisted at the <eol/>time the order was made continues to have effect, and in determining that <eol/>application the Court may, in its discretion, make such order as, in the Court’s <eol/>view, appears just.</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-7-5-b">
+            <num>(b)</num>
+            <content>
+              <p>Notwithstanding the generality of <i>section</i> <i>5</i> <i>(6)</i> <i>(b)</i>, a missing person in respect of <eol/>whom an order has been made under <i>section</i> <i>4</i> and who returns to the State may <eol/>apply to the Circuit Court for a declaration that a civil partnership that subsisted <eol/>at the time the order was made continues to have effect, and in determining that <eol/>application the Court may, in its discretion, make such order as, in the Court’s <eol/>view, appears just.</p>
+            </content>
+          </paragraph>
+        </subsection>
+      </section>
+      <section wId="section-8">
+        <heading>International aspects of missing persons</heading>
+        <num>8.</num>
+        <subsection wId="section-8-1">
+          <num>(1)</num>
+          <intro>
+            <p>Where a citizen of Ireland goes missing while outside the State, the Circuit Court may <eol/>make, in accordance with the provisions of this section⁠—</p>
+          </intro>
+          <paragraph wId="section-8-1-a">
+            <num>(a)</num>
+            <content>
+              <p>an order for the interim management of the property of the missing person in the <eol/>form provided for under <i>section</i> <i>3</i>, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-1-b">
+            <num>(b)</num>
+            <content>
+              <p>a presumption of death order in the form provided for under <i>section</i> <i>4</i>, and the <eol/>provisions of <i>sections</i> <i>1</i> to  <i>7</i> related to the application for, the making of and the <eol/>effects of such orders shall apply with such necessary modifications and <eol/>adjustments as are necessary for the purpose of this section.</p>
+            </content>
+          </paragraph>
+        </subsection>
+        <subsection wId="section-8-2">
+          <num>(2)</num>
+          <intro>
+            <p>Where a person who is ordinarily resident or habitually resident in Northern Ireland <eol/>for 12 months or who has been habitually resident or ordinarily resident in the State <eol/>for 12 months and who goes missing while in the State, or is believed to have gone <eol/>missing in the State, the Circuit Court may, on the application of an applicant who has <eol/>been habitually resident in the State for 12 months, make, in accordance with the <eol/>provisions of this section⁠—</p>
+          </intro>
+          <paragraph wId="section-8-2-a">
+            <num>(a)</num>
+            <content>
+              <p>an order for the interim management of the property of the missing person in the <eol/>form provided for under <i>section</i> <i>3</i>, and</p>
+            </content>
+          </paragraph>
+          <paragraph wId="section-8-2-b">
+            <num>(b)</num>
+            <content>
+              <p>a presumption of death order in the form provided for under <i>section</i> <i>4</i>,</p>
+            </content>
+          </paragraph>
+          <wrapUp>
+            <p>and the provisions of <i>sections</i> <i>1</i> to  <i>7</i> related to the application for, the making of and <eol/>the effects of such orders shall apply with such necessary modifications and <eol/>adjustments as are necessary for the purpose of this section.</p>
+          </wrapUp>
+        </subsection>
+        <subsection wId="section-8-3">
+          <num>(3)</num>
+          <content>
+            <p>An application may be made under <i>subsection</i> <i>(3)</i> by a spouse or family member of a <eol/>missing person where that missing person is a victim of violence within the meaning <eol/>of the Criminal Justice (Location of Victims’ Remains) Act 1999.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-8-4">
+          <num>(4)</num>
+          <content>
+            <p>In any application under <i>subsections</i> <i>(1)</i> or  <i>(2)</i>, the Circuit Court may, where relevant, <eol/>recognise any orders made in any other State in connection with the disappearance of <eop/>the missing person, subject to relevant rules concerning proof of foreign documents, <eol/>including those in the EC Convention and the Hague Convention.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-9">
+        <heading>Jurisdiction of Circuit Court</heading>
+        <num>9.</num>
+        <subsection wId="section-9-1">
+          <num>(1)</num>
+          <content>
+            <p>The jurisdiction of the Circuit Court conferred by this Act shall be concurrent with the <eol/>High Court.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-9-2">
+          <num>(2)</num>
+          <content>
+            <p>Where the rateable valuation of any land to which an application for an order <eol/>provided for in <i>section</i> <i>3</i> and <i>section</i> <i>4</i> relates exceeds €254, the Circuit Court shall, <eol/>on the application of an applicant, transfer the proceedings to the High Court, but any <eol/>declaration or decision made in the course of such proceedings before the transfer <eol/>shall be valid unless discharged or varied by the High Court.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-9-3">
+          <num>(3)</num>
+          <content>
+            <p>The jurisdiction conferred on the Circuit Court may be exercised by the judge of the <eol/>Circuit in which the missing person was ordinarily resident or carried on any <eol/>business, profession or occupation before he or she went missing.</p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-10">
+        <heading>Consequential amendments</heading>
+        <num>10.</num>
+        <subsection wId="section-10-1">
+          <num>(1)</num>
+          <content>
+            <p>The Family Law (Divorce) Act 1996 is amended by the insertion of the following <eol/>section after section 10⁠—</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <section>
+                    <heading>“Presumption of death and ending of marriage</heading>
+                    <num>10A.</num>
+                    <intro>
+                      <p>Without prejudice to <i>section 5(6)</i> of the <i>Civil Law (Missing Persons) </i><i/><i>Act 2016</i>, and subject to <i>section 7(5)(a)</i> of that <i>Act of 2016</i>, any <eol/>married person who alleges that reasonable grounds exist for <eol/>supposing that the other party to the marriage is dead may apply to the <eol/>court to have it presumed that the other party is dead and that the <eol/>marriage has ended, and provided the requirements of <i>section 4(2)</i>, <i>(4)</i>, <eol/><i>(5)</i>, <i>(6)</i> and <i>(7)</i> of that <i>Act of 2016</i> are complied with, the court may, if <eol/>satisfied that such reasonable grounds exist, grant a declaration of <eol/>presumption of death and make a declaration that the marriage has <eol/>ended.</p>
+                    </intro>
+                    <subsection>
+                      <num>(2)</num>
+                      <content>
+                        <p>In any proceedings under this section the fact that for a period of 7 <eol/>years or more the other party to the marriage has been continually <eol/>absent from the applicant and the applicant has no reason to believe <eol/>that the other party has been living within that time shall be evidence <eol/>that the other party is dead until the contrary is proved.”.</p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </subsection>
+        <subsection wId="section-10-2">
+          <num>(2)</num>
+          <content>
+            <p>The Civil Partnership and Certain Rights and Obligations of Cohabitants Act 2010 is <eol/>amended by the insertion of the following section after section 113⁠—</p>
+            <p>
+              <mod>
+                <quotedStructure>
+                  <subsection>
+                    <heading>“Presumption of death and ending of civil partnership</heading>
+                    <num>113A.(1)</num>
+                    <content>
+                      <p>Without prejudice to <i>section 5(6)</i> of the <i>Civil Law (Missing Persons) </i><i/><i>Act 2016</i>, and subject to <i>section 7(5)(a)</i> of that <i>Act of 2016</i>, a civil <eol/>partner who alleges that reasonable grounds exist for supposing that <eol/>the other party to the civil partnership is dead may apply to the court to <eol/>have it presumed that the other party is dead and that the civil <eol/>partnership has ended, and provided the requirements of <i>section 4(2)</i>, <eol/><i>(4)</i>, <i>(5)</i>, <i>(6)</i> and <i>(7) </i>of that <i>Act of 2016</i> are complied with, the court <eop/>may, if satisfied that such reasonable grounds exist, grant a declaration <eol/>of presumption of death and make a decree that the civil partnership <eol/>has ended.</p>
+                    </content>
+                  </subsection>
+                  <subsection>
+                    <num>(2)</num>
+                    <content>
+                      <p>In any proceedings under this section the fact that for a period of 7 <eol/>years or more the other party to the civil partnership has been <eol/>continually absent from the applicant and the applicant has no reason <eol/>to believe that the other party has been living within that time shall be <eol/>evidence that the other party is dead until the contrary is proved.”.</p>
+                    </content>
+                  </subsection>
+                </quotedStructure>
+              </mod>
+            </p>
+          </content>
+        </subsection>
+      </section>
+      <section wId="section-11">
+        <heading>Short title and commencement</heading>
+        <num>11.</num>
+        <subsection wId="section-11-1">
+          <num>(1)</num>
+          <content>
+            <p>This Act may be cited as the Civil Law (Missing Persons) Act 2016.</p>
+          </content>
+        </subsection>
+        <subsection wId="section-11-2">
+          <num>(2)</num>
+          <content>
+            <p>This Act comes into operation on such day or days as the Minister for Justice and <eol/>Equality may appoint by order or orders either generally or with reference to any <eol/>particular purpose or provision, and different days may be so appointed for different <eol/>purposes or provisions.</p>
+            <p/>
+          </content>
+        </subsection>
+      </section>
+    </body>
+  </bill>
+</akomaNtoso>
